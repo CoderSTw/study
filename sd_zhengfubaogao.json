@@ -1,0 +1,469 @@
+{
+  "TITLE" : "专项：山东政府工作报告",
+  "MODULEARRS" : [
+    {
+      "ModuleTitile" : "模块1: 单选题",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.8.3万亿0.1个",
+          "OptionA" : "A.8.5万亿0.2个",
+          "TopicContent" : "1.2022年山东省政府工作报告指出，2021年，综合实力跃上新台阶，地区生产总值达到( )元，比上年增长8.3%，好于全国( ) 百分点。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：C",
+          "OptionD" : "D.8.5万亿0.1 个",
+          "OptionC" : "C.8.3万亿0.2个"
+        },
+        {
+          "OptionB" : "B.临清市",
+          "OptionA" : "A.海阳市",
+          "TopicContent" : "2.2022年山东省政府工作报告指出，2021年，()成为全国首个零碳供暖城市。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.栖霞市",
+          "OptionC" : "C.招远市"
+        },
+        {
+          "OptionB" : "B.潍坊",
+          "OptionA" : "A.济南",
+          "TopicContent" : "3.2022年山东省政府工作报告指出，今年坚定不移实施黄河国家战略，支持()新旧 动能转化起步区建设高标准规划、高效能服务、高端产业集聚的一流开放创新载体。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.泰安",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.5.5% 100万",
+          "OptionA" : "A.5.5% 110万",
+          "TopicContent" : "4.2022年山东省政府工作报告指出，今年全省经济社会发展主要预期目标为:地区生产总值增长()以上，城镇新增就业()人以上。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.5% 120万",
+          "OptionC" : "C.5% 110万"
+        },
+        {
+          "OptionB" : "B.保卫齐鲁",
+          "OptionA" : "A.智慧齐鲁",
+          "TopicContent" : "5.实施黄河防洪减灾、引黄涵闸改建等工程，推进漳卫河等重点河道防洪治理。开展智慧水利建设，搭建( ) 数字化平台。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：D",
+          "OptionD" : "D.智慧黄河",
+          "OptionC" : "C.保卫黄河"
+        },
+        {
+          "OptionB" : "B.中上游",
+          "OptionA" : "A.上游",
+          "TopicContent" : "6.全面建设黄河( ) 生态廊道，实施黄河三角洲生态调水、补水工程。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：D",
+          "OptionD" : "D.下游",
+          "OptionC" : "C.中游"
+        },
+        {
+          "OptionB" : "B.1000亿斤; 8年",
+          "OptionA" : "A.1000亿斤; 5年",
+          "TopicContent" : "7.2022年山东省政府工作报告指出，2021年山东省粮食总产突破()，连续( )稳定在千亿斤以",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：D",
+          "OptionD" : "D.1100亿斤; 8年",
+          "OptionC" : "C.1100亿斤; 5年"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.威海",
+          "TopicContent" : "8.2022年山东政府工作报告指出，2021年山东海洋强省建设步伐加快，首个国家海洋综合试验场落户( ) ，国家级海洋牧场发展到59家。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.日照",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "9. 2022年山东政府工作报告指出，全国首个科创金融改革试验区落户()，山东港信期货 开业运营,新增_上市公司37家。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：B",
+          "OptionD" : "D.日照",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.文莱",
+          "OptionA" : "A.柬埔寨",
+          "TopicContent" : "10. 2022年山东政府工作报告指出，2021 年( ) 驻济总领馆开馆。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.越南",
+          "OptionC" : "C.缅甸"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "11. 2022年山东政府工作报告指出，2021 年山东文化体育事业繁荣发展，中华优秀传统文化“两创”示范区、尼山世界儒学中心加快建设。首家国家图书版权交易中心落户( ) 。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：C",
+          "OptionD" : "D.济宁",
+          "OptionC" : "C.泰安"
+        },
+        {
+          "OptionB" : "B.淄博",
+          "OptionA" : "A.潍坊",
+          "TopicContent" : "12. 2022年山东政府工作报告指出，2022 年山东将继续支持( ) 全国老工业城市和资源型城市产业转型升级示范区建设。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：B",
+          "OptionD" : "D.德州",
+          "OptionC" : "C.泰安"
+        },
+        {
+          "OptionB" : "B.黄河国家实验室",
+          "OptionA" : "A.海洋国家实验室",
+          "TopicContent" : "13. 2022年山东政府工作报告指出，2022年山东将全力争创( ) ，加快国家超级计算中心、吸气式发动机热物理试验装置等重大科技基础设施建设。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.丘陵国家实验室",
+          "OptionC" : "C.滩涂国家实验室"
+        },
+        {
+          "OptionB" : "B.“揭榜挂帅”;“赛 马制”",
+          "OptionA" : "A.“揭榜挂帅”;“淘汰制”",
+          "TopicContent" : "14. 2022年山东政府工作报告指出，2022年山东将深化()制改革，探索推行技术总师负责制，试点推进()，依法放宽科研项目资金管理权限。加强知识产权全链条保护。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：B",
+          "OptionD" : "D.“赛马制”;“淘汰制”",
+          "OptionC" : "C.“赛马制”;“揭榜挂帅”"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "15. 2022年山东政府工作报告指出，2022 年山东要加强与科研院校的合作，争取推进中科院( ) 科创城建设。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：B",
+          "OptionD" : "D.日照",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "16. 2022年山东政府工作报告指出，2022 年山东将支持( ) 建设国际航运贸易金融创新中心，推动西海岸新区全面提质。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.日照",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.济宁",
+          "OptionA" : "A.德州",
+          "TopicContent" : "17. 2022年山东政府工作报告指出，2022 年山东将压实粮食安全责任，开展吨粮县、吨粮镇建设，支持.)创建“吨半粮”市。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.聊城"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.德州",
+          "TopicContent" : "18. 2022年山东政府工作报告指出，2022 年山东将开展粮食节约行动，推动国际粮食减损大会永久落户",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：B",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.聊城"
+        },
+        {
+          "OptionB" : "B.潍坊",
+          "OptionA" : "A.济南",
+          "TopicContent" : "19.2022年山东政府工作报告指出，2022年山东将深化()国家农业开放发展综合试验区建设。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：B",
+          "OptionD" : "D.青岛",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.刘公岛",
+          "OptionA" : "A.长岛",
+          "TopicContent" : "20. 2022年山东政府工作报告指出，2022 年山东将统筹实施岸滩、海湾、湿地、海岛等生态保护修复工程,高水平建设()海洋生态文明综合试验区。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案：A",
+          "OptionD" : "D.黄岛",
+          "OptionC" : "C.灵山岛"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块2: 多选题",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.国密算法物联网安全芯片",
+          "OptionA" : "A.时速600公里磁浮交通系统",
+          "TopicContent" : "1.2022年山东政府工作报告指出，2021 年山东关键核心技术实现突破，取得()等 - -批标志性成果,3个一类创新药获批上市，VLP新冠疫苗中试进展顺利。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.地球系统模拟大科学装置",
+          "OptionC" : "C.磁悬浮离心鼓风机"
+        },
+        {
+          "OptionB" : "B.供给冲击",
+          "OptionA" : "A.需求收缩",
+          "TopicContent" : "2.2022年山东政府工作报告指出,当前,我们所面临的形势仍然严峻复杂。从国内看,经济发展面临()三重压力，困难和挑战明显增多。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.边际效益递减",
+          "OptionC" : "C.预期转弱"
+        },
+        {
+          "OptionB" : "B.坚持高质量发展",
+          "OptionA" : "A.坚持党中央集中统一领导",
+          "TopicContent" : "3.2022年山东政府工作报告指出，要提高政治站位、把握正确方向，深人学习领会中央经济工作会议和习近平总书记重要讲话精神，深刻领悟必须( ) 规律性认识。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABCD",
+          "OptionD" : "D.加强统筹协调",
+          "OptionC" : "C.坚持稳中求进"
+        },
+        {
+          "OptionB" : "B.整体和局部",
+          "OptionA" : "A.政府和市",
+          "TopicContent" : "4.2022年山东政府工作报告指出，要注重战略思维、强化系统观念，统筹谋划和整体推进疫情防控、区域协调发展、碳达峰碳中和、能源保供、安全生产等工作，妥善处理()等关系， 在多重目标中寻求动态平衡，努力实现经济、社会、生态、安全等综合效益最佳。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABCD",
+          "OptionD" : "D.发展和安全",
+          "OptionC" : "C.当前和长远"
+        },
+        {
+          "OptionB" : "B.智能化",
+          "OptionA" : "A.高端化",
+          "TopicContent" : "5.2022年山东政府工作报告指出, 2022年山东将开展工业技改提级行动,设立“技改专项贷”，突出(推进“万项万企”“百园技改” 计划，工业技改投资突破5000亿元。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.低碳化",
+          "OptionC" : "C.绿色化"
+        },
+        {
+          "OptionB" : "B.七纵九横",
+          "OptionA" : "A.一轴三环",
+          "TopicContent" : "6. 2022年山东政府工作报告指出，2022年山东要在现代水网方面，围绕打造“( ) ”现代水网，加快推进烟台老岚、济南太平、青岛官路、临沂双堠、滨州鲁北等水库和重点平原洼地治理工程。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABD",
+          "OptionD" : "D.两湖多库",
+          "OptionC" : "C.一河两海"
+        },
+        {
+          "OptionB" : "B.绿色化",
+          "OptionA" : "A.智慧化",
+          "TopicContent" : "7.2022年山东政府工作报告指出, 2022年山东将深人推进以人为核心、以提高质量为导向的新型城镇化战略，加快城市更新，更加注重提升城镇发展( ) 水平。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABCD",
+          "OptionD" : "D.双向化",
+          "OptionC" : "C.均衡化"
+        },
+        {
+          "OptionB" : "B.韩国",
+          "OptionA" : "A.日本",
+          "TopicContent" : "8.2022年山东政府工作报告指出，2022 年山东将继续办好( ) 3个进口博览会，创办黄河流域跨境电商博览会。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABD",
+          "OptionD" : "D. RCEP区域",
+          "OptionC" : "C. APEC区域"
+        },
+        {
+          "OptionB" : "B.莱州湾",
+          "OptionA" : "A.渤海湾",
+          "TopicContent" : "9.2022年山东政府工作报告指出, 2022年山东将推进()等重点海湾治理,积极创建国家级美丽海湾。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.丁字湾",
+          "OptionC" : "C.胶州湾"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.济南",
+          "TopicContent" : "10.2022年山东政府工作报告指出,2022年山东将实施全面节约战略,深化城乡生活垃圾分类,推进()三大生态环保产业集群建设，组建省环保产业发展集团，打造10家生态工业园区。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.淄博"
+        },
+        {
+          "OptionB" : "B.沂蒙红色文化",
+          "OptionA" : "A.曲阜优秀传统文化",
+          "TopicContent" : "11. 2022年山东政府工作报告指出，2022 年山东将打造( ) 传承发展示范区，建设齐文化传承创新示范区。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.齐文化",
+          "OptionC" : "C.泰山文化"
+        },
+        {
+          "OptionB" : "B.大运河",
+          "OptionA" : "A.长城",
+          "TopicContent" : "12. 2022年山东政府工作报告指出，2022年山东将谋划推进( ) 国家文化公园(山东段)建设。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABC",
+          "OptionD" : "D.泰山",
+          "OptionC" : "C.黄河"
+        },
+        {
+          "OptionB" : "B.在经济高质量发展中走在前",
+          "OptionA" : "A.努力在服务和融人新发展格局上走在前",
+          "TopicContent" : "13.习近平总书记再次亲临山东视察，作出“三个走在前”重要指示要求，为我们指明了前进方向,提供了科学指引，注入了强大动力，下列属于“三个走在前”的是( ) 。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ACD",
+          "OptionD" : "D.推动黄河流域生态保护和高质量发展上走在前",
+          "OptionC" : "C.在增强经济社会发展创新力.上走在前"
+        },
+        {
+          "OptionB" : "B.总定位",
+          "OptionA" : "A.总遵循",
+          "TopicContent" : "14. 2022年山东省政府工作报告指出，“走在前列、 全面开创”“三个走在前”，是我们做好一切工作的(）",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABD",
+          "OptionD" : "D.总航标",
+          "OptionC" : "C.总思路"
+        },
+        {
+          "OptionB" : "B.兵员大省",
+          "OptionA" : "A.驻军大省",
+          "TopicContent" : "15. 2022年山东省政府工作报告指出，山东是( ) ，我们要扎实开展全民国防教育工作，深人实施军民融合发展战略，大力加强国防动员和后备力量建设，全力支持国防和军队建设。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案：ABCD",
+          "OptionD" : "D.拥军大省",
+          "OptionC" : "C.安置大省"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3089 @@
+{
+  "TITLE" : "专项：悦享山东时政",
+  "MODULEARRS" : [
+    {
+      "ModuleTitile" : "模块1: 21年5月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.第二位",
+          "OptionA" : "A.第一位",
+          "TopicContent" : "1.截至“十三五”期末,山东省农村公路路网规模达到25.8万公里,居全国( )。 全部乡镇、建制村实现通沥青(水泥)路,具备条件的建制村100%实现通客车，农村客运公交化改造率达到91. 1%。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.第四位",
+          "OptionC" : "C.第三位"
+        },
+        {
+          "OptionB" : "B.陈学森",
+          "OptionA" : "A.包振民",
+          "TopicContent" : "2. (多选) 5月28日,由山东省委宣传部、省科协、省科技厅、大众报业集团、山东广播电视台共同主办的2021“齐鲁最美科技工作者”发布仪式在济南举行。以下属于2021“齐鲁最美科技工作者”的是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.李永胜",
+          "OptionC" : "C.邢建平"
+        },
+        {
+          "OptionB" : "B.德州",
+          "OptionA" : "A..济南",
+          "TopicContent" : "3.5月28日上午,中国(山东)一东盟中小企业合作发展大会在济南开幕。大会采取线上线下相结合方式举办。在济南设立主会场，在( ) 组织相关配套活动。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.济宁",
+          "OptionC" : "C.泰安"
+        },
+        {
+          "OptionB" : "B.①②③④",
+          "OptionA" : "A.①②③④⑤",
+          "TopicContent" : "4.5月28日上午，中国(山东) -东盟中小企业合作发展大会在济南开幕。东盟是山东第-大贸易伙伴和第一大出口市场。李干杰在致辞时说，山东将持续做优( ), 全力打造市场化、法治化、国际化的一流营商环境。①政治生态;②产业生态;③社会生态;④政务生态;⑤自然生态",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.①②④⑤",
+          "OptionC" : "C. ①②③⑤"
+        },
+        {
+          "OptionB" : "B.创新政策体系",
+          "OptionA" : "A.创新领导体制",
+          "TopicContent" : "5. (多选) 5月26日上午，山东省委、省政府在济南新旧动能转换起步区召开起步区建设动员大会。刘家义强调，起步区是改革创新的试验田。要大力推进体制机制改革创新，加快制度创新、流程再造, ( ),大胆闯、大胆试、大胆干。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.创新法律法规",
+          "OptionC" : "C.创新方式方法"
+        },
+        {
+          "OptionB" : "B.①②",
+          "OptionA" : "A.①②③",
+          "TopicContent" : "6.为进一步发挥教育督导职能作用，加强督学队伍建设，建立( ) 的教育督导责任区工作机制，山东日前连续印发《山东省督学管理办法X山东省教育督导责任区管理办法》①省市县三级联动;②督政与督学并重;③监督与指导相结合",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.①③",
+          "OptionC" : "C.②③."
+        },
+        {
+          "OptionB" : "B.潍县萝卜",
+          "OptionA" : "A.菏泽牡丹",
+          "TopicContent" : "7. (多选)下列属于山东省的地理标志品牌的是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.日照绿茶",
+          "OptionC" : "C.胶州大白菜"
+        },
+        {
+          "OptionB" : "B.①③④⑤",
+          "OptionA" : "A.①②④",
+          "TopicContent" : "8.到2025年，我省将初步建成“( )” 的新时代防震减灾事业现代化体系。①监测智能②防治精细③服务高效④科技先进⑤管理科学",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.①②③④⑤",
+          "OptionC" : "C.①②③④"
+        },
+        {
+          "OptionB" : "B.珠江",
+          "OptionA" : "A.嫩江",
+          "TopicContent" : "9.南水北调工程建成后，将长江、淮河、黄河与( ) 连接起来。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.澜沧江",
+          "OptionC" : "C.海河"
+        },
+        {
+          "OptionB" : "B.规律是客观的，不以人的意识为转移",
+          "OptionA" : "A.人可以创造或改变规律",
+          "TopicContent" : "10.南水北调工程中，人们利用水利设施将地势较低的南方的水调到地势较高的北方。这表明( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D. 人们可以利用规律,造福人类",
+          "OptionC" : "C.事物的运动是没有固定规律的"
+        },
+        {
+          "OptionB" : "B.济南市",
+          "OptionA" : "A.青岛市",
+          "TopicContent" : "11.5月20日，全省首个数字化楼宇经济信息平台在( ) 正式上线。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.东营市",
+          "OptionC" : "C. 潍坊市"
+        },
+        {
+          "OptionB" : "B.历史的适应者",
+          "OptionA" : "A.历史的跟随者",
+          "TopicContent" : "12.要扎实做好保障和改善民生工作,聚焦群众急难愁盼问题，扎扎实实为群众办实事,加强对基层劳动者的关心关怀，增强人民群众获得感、幸福感、安全感。唯物史观认为，人民群众是( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.历史的受益者",
+          "OptionC" : "C.历史的创造者"
+        },
+        {
+          "OptionB" : "B.一网通办",
+          "OptionA" : "A.一码通办",
+          "TopicContent" : "13.民政部19日宣布经国务院同意,今年6月1日开始将在辽宁、山东、广东、重庆、四川实施结婚登记和离婚登记“( )” 试点。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.全省通办",
+          "OptionC" : "C.跨省通办"
+        },
+        {
+          "OptionB" : "B.济宁",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "14. (多选)为优化营商环境，推进政务服务“全省通办”和“省会经济圈”高质量发展,为企业和群众提供便利化的行政审批服务，( ) 两市进一步打破时间空间限制。",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：CD",
+          "OptionD" : "D.泰安",
+          "OptionC" : "C.济南"
+        },
+        {
+          "OptionB" : "B.人民信访、法治保障",
+          "OptionA" : "A.信访法治，山东先行",
+          "TopicContent" : "15.山东省于5月集中开展信访法治宣传月活动,本次活动以“( )” 为主题，以学习宣传贯彻国务院《信访条例》《山东省信访条例》为主要内容。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.互联网+信访",
+          "OptionC" : "C.阳光信访，法治保障"
+        },
+        {
+          "OptionB" : "B.6.15",
+          "OptionA" : "A.5.17",
+          "TopicContent" : "16. 2021年“( )国际博物馆日”主题为“博物馆的未来:恢复与重塑”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.5.18",
+          "OptionC" : "C.6.18"
+        },
+        {
+          "OptionB" : "B.河北省",
+          "OptionA" : "A.山东省",
+          "TopicContent" : "17.教育部目前支持建设乡村教育振兴先行区试点的唯一-省份是 ( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.湖北省",
+          "OptionC" : "C.河南省"
+        },
+        {
+          "OptionB" : "B.以水定地",
+          "OptionA" : "A.以水定城",
+          "TopicContent" : "18. (多选)山东省委常委会召开会议，会议强调，要坚持节水优先、空间均衡、系统治理、两手发力的.治水思路，坚持( ), 把南水北调工程与黄河流域、南四湖流域、我省水网布局、城市发展、产业布局等统筹起来，- -体规划实施。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D. 以水定产",
+          "OptionC" : "C.以水定人"
+        },
+        {
+          "OptionB" : "B.临沂",
+          "OptionA" : "A.东营",
+          "TopicContent" : "19.山东省国家高新区(开发区)、长三角、珠三角、京津冀地区政务服务“跨域通办”合作交流研讨会在()召开。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.青岛",
+          "OptionC" : "C.济南"
+        },
+        {
+          "OptionB" : "B.第三",
+          "OptionA" : "A.第一",
+          "TopicContent" : "20.山东人初步形成节水型生活方式，全省共有国家节水型城市22个，总数居全国( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.第五",
+          "OptionC" : "C.第二"
+        },
+        {
+          "OptionB" : "B.济阳",
+          "OptionA" : "A.文登",
+          "TopicContent" : "21.世界首个“水热同产同送”科技示范工程，5月11日在( ) 投运。该工程通过抽取海阳核电机组蒸汽,驱动水热同产装置同步产送高温高品质淡水。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.莱西",
+          "OptionC" : "C.海阳"
+        },
+        {
+          "OptionB" : "B.临沂;整合山东品牌生态，振兴山东品牌腾飞",
+          "OptionA" : "A.临沂;共建好品山东，共享品质生活",
+          "TopicContent" : "22. 2021年5月11日, 2021年山东省“中国品牌日”活动在( ) 举办，活动主题是( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.烟台;整合山东品牌生态，振兴山东品牌腾飞",
+          "OptionC" : "C.烟台;共建好品山东，共享品质生活."
+        },
+        {
+          "OptionB" : "B.第三",
+          "OptionA" : "A.第二",
+          "TopicContent" : "23.5月11日，第七次全国人口普查主要数据公布。数据显示，山东省总人口数量居全国第( ) 位。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.第五",
+          "OptionC" : "C.第一"
+        },
+        {
+          "OptionB" : "B.潍坊市",
+          "OptionA" : "A.济南市",
+          "TopicContent" : "24.鲁港经济合作洽谈会将于6月10日在( ) 举办。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.淄博市",
+          "OptionC" : "C.泰安市"
+        },
+        {
+          "OptionB" : "B.青岛西海岸新区",
+          "OptionA" : "A.青岛市李沧区",
+          "TopicContent" : "25. 2021年5月10日,山东省第一本不动产居住权登记证明在颁发,标志着居住权登记在山东省正式落地实施。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.青岛市城阳区",
+          "OptionC" : "C.青岛市黄岛区"
+        },
+        {
+          "OptionB" : "B.用益物权",
+          "OptionA" : "A.使用权",
+          "TopicContent" : "26. 2021年5月10日，山东省第一-本不动产居住权登记证明在青岛颁发,标志着居住权登记在山东省正式落地实施。居住权是《中华人民共和国民法典》新增的一种( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.所有权",
+          "OptionC" : "C. 担保物权"
+        },
+        {
+          "OptionB" : "B.品质提升.",
+          "OptionA" : "A.农业生产品种培优",
+          "TopicContent" : "27. (多选)为推进( )、( )、( ) 和( ), 努力提升农业质量效益和竞争力，山东省近日出台方案,启动实施农业生产“三品一标”提升行动。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.标准化生产",
+          "OptionC" : "C.品牌打造"
+        },
+        {
+          "OptionB" : "B.一河一策",
+          "OptionA" : "A.云治理",
+          "TopicContent" : "28.为加快美丽幸福河湖建设进程，5月8日签发的《山东省总河长令》(第7号)强调,“十四五”期间，我省河湖管理保护工作要紧紧抓住“( )” 综合整治这个关键,努力构建保证我省河湖长制工作持续走在前列的全方位立体化管护格局。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.巡河护河制",
+          "OptionC" : "C.河长制"
+        },
+        {
+          "OptionB" : "B.五年",
+          "OptionA" : "A.三年.",
+          "TopicContent" : "29.山东省将用( ) 时间对全省城乡房屋进行全面整治清查。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.两年",
+          "OptionC" : "c.十年"
+        },
+        {
+          "OptionB" : "B. 潍坊",
+          "OptionA" : "A.济宁",
+          "TopicContent" : "30. ( ) 内陆港报关代理有限公司向海关申报出口的一批塑料制品货物由青岛海关所属临沂海关施加电子关锁后，经青岛前湾口岸顺利出关。这是山东省首单“市场采购”+“跨境电商”组合拼箱出口业务。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.临沂"
+        },
+        {
+          "OptionB" : "B.海岱发现",
+          "OptionA" : "A.齐鲁发现",
+          "TopicContent" : "31.“十四五”时期，我省将擦亮( ) 品牌，进- -步推进博物馆高质量发展,加强文物价值挖掘和传播利用。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.齐鲁考古",
+          "OptionC" : "C.海岱考古"
+        },
+        {
+          "OptionB" : "B.检验业务流程畅通情况",
+          "OptionA" : "A.检验政策知晓情况",
+          "TopicContent" : "32. (多选)山东人社系统作出全新尝试- -创新开展“人社干部走流程”,聚焦人社政策落实和经办管理服务两个方面，各级人社干部将以办事单位群众和经办工作人员“两种角色”,采取“亲身办”“陪同办”等形式，通过线上、线下各种办理渠道重点检验:",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.检验服务便民情况",
+          "OptionC" : "C.检验办事材料精简情况"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块2: 21年6月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.践行宗旨",
+          "OptionA" : "A.坚定信念",
+          "TopicContent" : "1. (多选)6月29日下午，山东省优秀共产党员、优秀党务工作者和先进基层党组织表彰大会在济南召开。刘家义指出，习近平总书记为“七-勋章”获得者颁授勋章并发表重要讲话,就弘扬中国共产党人( )的高尚品质和崇高精神提出明确要求，为我们指明了前进方向、提供了根本遵循。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.廉洁奉公",
+          "OptionC" : "C.拼搏奉献"
+        },
+        {
+          "OptionB" : "B.威海",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "2.日前，“科学”号科考船圆满完成首个高端用户共享航次顺利返回( ) 母港。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.天津",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.庄增大",
+          "OptionA" : "A.刘斯杰",
+          "TopicContent" : "3. (多选)在中国共产党成立100周年之际，中央组织部决定，对在县(市、区、旗)委书记岗位上取得优异成绩的于长辉等103名同志，授予全国优秀县委书记称号，予以表彰。以下属于山东省的是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.赵庆文",
+          "OptionC" : "C.江山"
+        },
+        {
+          "OptionB" : "B.①②③⑤",
+          "OptionA" : "A.①②③④",
+          "TopicContent" : "4.“让党旗永远飘扬”--山东省庆祝中国共产党成立100周年主题展6月27日在山东博物馆举行开展仪式。展览以( ) 等四个重要历史时期为节点，分为六个展区，重点突出民族独立、人民解放、国家富强、人民幸福的主题主线。①1921年中国共产党成立;②1949年新中国成立;③1978年党的十- -届三中全会召开;④2012 年党的十八大召开;⑤2017年党的十九大召开",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.①②④⑤",
+          "OptionC" : "C.①③④⑤"
+        },
+        {
+          "OptionB" : "B.威海",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "5.经中央军委批准, 6月26日上午，中国人民解放军海军博物馆在( ) 举行开馆仪式活动。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.滨州",
+          "OptionC" : "C.潍坊"
+        },
+        {
+          "OptionB" : "B.山东号;青岛",
+          "OptionA" : "A.山东号;济南",
+          "TopicContent" : "6.6月25日，由山东高速集团统筹运营的中欧班列( ) 跨境电商专列由上合示范区( ) 多式联运中心发出，这是山东省开行的首班跨境电商货物专列。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.齐鲁号; 青岛",
+          "OptionC" : "C.齐鲁号;济南"
+        },
+        {
+          "OptionB" : "B.三年成形、五年成势、十五年成城",
+          "OptionA" : "A.三年成形、五年成势、十年成城",
+          "TopicContent" : "7.6月26日,中国共产党济南市第十- -届委员会第十三次全体会议审议通过了《关于加快济南新旧动能转换起步区建设的意见》明确了( ) 的“三步走”发展目标。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.五年成形、十年成势、二十年成城",
+          "OptionC" : "C.五年成形、十年成势、十五年成城"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "8.6月24日，全球首个自贸试验区绿色发展指标体系在( ) 自贸片区绿色发展大会上对外发布。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "9. (多选) 6月23日,“科创中国”试点城市授牌仪式在菏泽市举行。这是菏泽市继( ) 3个首批“科创中国”试点城市后，成为“科创中国”打造科技经济融合的又一“样板间”。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABD",
+          "OptionD" : "D.泰安",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.“深蓝一-号”",
+          "OptionA" : "A.“深海一号”",
+          "TopicContent" : "10. 2021年6月21日，黄海深处距青岛市120海里处“冷水团”海域的深海渔场( ) 三文鱼正式收鱼,这也标志着我国在全球开创了温暖海域三文鱼养殖的先河。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.“海洋一号”",
+          "OptionC" : "C.“蓝海一-号”"
+        },
+        {
+          "OptionB" : "B.威海市",
+          "OptionA" : "A.东营市",
+          "TopicContent" : "11.6月18日上午山东省消防救援总队在( ) 成立水域救援实训基地,该基地是我省首个专项救援领域实训基地。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.青岛市",
+          "OptionC" : "C.日照市"
+        },
+        {
+          "OptionB" : "B.章丘大葱",
+          "OptionA" : "A.寿光蔬菜",
+          "TopicContent" : "12. (多选)经山东省政府批复同意,省农业农村厅日前印发<农业优势特色产业培育方案( 2021- -2025年)》包括以下哪些( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.德州扒鸡",
+          "OptionC" : "C.潍县萝卜"
+        },
+        {
+          "OptionB" : "B.青岛片区",
+          "OptionA" : "A.济南片区",
+          "TopicContent" : "13.6月9日10点24分，中国(山东)国际大宗商品交流合作大会上,山东国际大宗商品交易市场在山东自贸试验区( ) 正式启动。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.潍坊片区",
+          "OptionC" : "C.烟台片区"
+        },
+        {
+          "OptionB" : "B.“枫桥经验”",
+          "OptionA" : "A.“长征经验”",
+          "TopicContent" : "14.6月9日.上午，全省扫黑除恶专项斗争总结表彰大会在济南召开。刘家义强调,要在强化源头治理上发力攻坚,推进重点行业领域专项整治，加强基层党组织建设，坚持和发展新时代( ), 切实夯实安全稳定的社会基础。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.“开放经验”",
+          "OptionC" : "C.“斗争经验”"
+        },
+        {
+          "OptionB" : "B.山东省东营市",
+          "OptionA" : "A.山东省滨州市.",
+          "TopicContent" : "15.近日，自然资源部批复( ) 作为自然资源领域生态产品价值实现机制试点。( ) 成为黄河流域首个获批自然资源领域生态产品价值实现机制试点的城市。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.山东省济南市.",
+          "OptionC" : "C.山东省青岛市."
+        },
+        {
+          "OptionB" : "B.潍坊峡山区",
+          "OptionA" : "A.莱西市",
+          "TopicContent" : "16. (多选) 6月4日，山东省政府新闻办举行新闻发布会，发布《2020山东省生态环境状况公报》《公报》显示，( ) 被命名为“绿水青山就是金山银山”实践创新基地。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.蓬莱市",
+          "OptionC" : "C.威海华夏城"
+        },
+        {
+          "OptionB" : "B.青岛;“新时代，新发展,新健康”",
+          "OptionA" : "A.青岛;“健康无处不在- -可持续发展的2030时代”",
+          "TopicContent" : "17.博鳌亚洲论坛全球健康论坛第二_届大会, 6月1日至4日在( ) 举办。本届大会沿用( ) 的主题，以“人人得享健康”为口号，采用线上+线下的形式。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.济南;“新时代，新发展,新健康”",
+          "OptionC" : "C.济南;“健康无处不在- -可持续发展的2030时代”"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块3: 21年7月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.江西省",
+          "OptionA" : "A.山东省",
+          "TopicContent" : "1.7月28日，( )成为全国首个实现医保卡省内“-卡通行”全覆盖的省份。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.河北省",
+          "OptionC" : "C.河南省"
+        },
+        {
+          "OptionB" : "B.“新时代，新标准，新发展”",
+          "OptionA" : "A.“标准与可持续发展”",
+          "TopicContent" : "2.7月28日，2021年青岛国际标准化大会正式开幕。本次大会以( ) 为主题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.“国际标准与第四次I业革命”",
+          "OptionC" : "C.“标准创造价值，人类共享发展”"
+        },
+        {
+          "OptionB" : "B.江苏",
+          "OptionA" : "A.南京",
+          "TopicContent" : "3. (多选) 7月25日，我国首次低轨宽带卫星与5G专网融合试验在( )和( )完成，此次试验利用低轨宽带卫星构建起两地5G专网间的骨干网络，代替了需要预先铺设的地面光纤,实现了低轨卫星和5G专网的融合。",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：CD",
+          "OptionD" : "D. 北京",
+          "OptionC" : "C.济南"
+        },
+        {
+          "OptionB" : "B.西安",
+          "OptionA" : "A.济南",
+          "TopicContent" : "4.7月23日，全国博物馆改革发展工作会在( ) 召开。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.长沙",
+          "OptionC" : "C.南京"
+        },
+        {
+          "OptionB" : "B.必须坚持生态优先、绿色低碳高质量发展",
+          "OptionA" : "A.必须坚持以人民为中心",
+          "TopicContent" : "5. (多选) 7月23日，上午,全省生态环境保护大会在济南召开。刘家义指出,实践中我们深切体会到，做好生态环境保护工作,必须始终坚持以习近平新时代中国特色社会主义思想为指导，坚定贯彻习近平生态文明思想，( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.必须遵循生态系统内在规律",
+          "OptionC" : "C.必须坚持系统观念"
+        },
+        {
+          "OptionB" : "B.系统治理",
+          "OptionA" : "A.源头治理",
+          "TopicContent" : "6. (多选) 7月23日上午，全省生态环境保护大会在济南召开。刘家义指出,以降碳为重点战略方向，突出( ), 深入打好污染防治攻坚战。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.依法治理",
+          "OptionC" : "C.综合治理"
+        },
+        {
+          "OptionB" : "B.500公里;青岛",
+          "OptionA" : "A.500公里;株洲",
+          "TopicContent" : "7.7月20日,由中国中车承担研制、具有完全自主知识产权的我国时速( )高速磁浮交通系统在( )成功下线，这是世界首套设计时速达600公里的高速磁浮交通系统，标志着我国掌握了高速磁浮成套技术和工程化能力。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.600 公里;.上海",
+          "OptionC" : "C.600公里;青岛"
+        },
+        {
+          "OptionB" : "B.市场有效",
+          "OptionA" : "A.政府有为",
+          "TopicContent" : "8. (多选) 7月19日下午，山东省数字强省建设工作会议在济南召开。刘家义强调，建设数字强省,关键是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.人民有福",
+          "OptionC" : "C.企业有劲"
+        },
+        {
+          "OptionB" : "B.70%;济南、青岛",
+          "OptionA" : "A.70%;济南、烟台",
+          "TopicContent" : "9.近日,《山东省国土空间规划( 2021-2035年)》(征求意见稿)已经省国土空间规划委员会第= C次全体会议审议通过，山东省自然资源厅官网发布通告,就《山东省国土空间规划( 2021-2035年)》向社会公开征求意见.《规划》提出,到2035年，山东城镇化率将达到( ) 左右,形成2个特大城市:济南、青岛。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.75%;青岛、烟台",
+          "OptionC" : "C.75%;济南、青岛"
+        },
+        {
+          "OptionB" : "B.“碳达峰、碳中和与新时代经济发展”",
+          "OptionA" : "A.“碳达峰、碳中和与区域经济转型升级”",
+          "TopicContent" : "10.第四届中国低碳之路高峰论坛暨2021邹平碳中和论坛于7月16日至17日在邹平举行。论坛以( )为主题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.“新时代碳达峰、碳中和”",
+          "OptionC" : "C.“经济发展与碳达峰、碳中和的关系”"
+        },
+        {
+          "OptionB" : "B.展望跨国公司发展",
+          "OptionA" : "A.聚焦跨国公司同中国合作",
+          "TopicContent" : "11. (多选) 7月15日至16日,第二届跨国公司领导人青岛峰会将在青岛中铁世界博览城举办,本次峰会延续首届“跨国公司与中国”主题，坚持国际思维、开放理念，立足山东、服务全国、面向世界,定位于( )的国家级、国际化高端平台。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.体现中国发展水平",
+          "OptionC" : "C.宣示中国推动更高水平对外开放"
+        },
+        {
+          "OptionB" : "B.陕西西安;“礼赞新中国，书香新丝路”",
+          "OptionA" : "A.陕西西安;“致敬建党百年，阅享盛世书香”",
+          "TopicContent" : "12.7月15日，第30届全国图书交易博览会在( ) 开幕。本届书博会以( ) 为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.山东济南;“致敬建党百年，阅享盛世书香”",
+          "OptionC" : "C.山东济南;“礼赞新中国，书香新丝路”"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.日照",
+          "TopicContent" : "13.7月10日，胶东五市自然资源局再次相聚青岛,召开第二次联席会议。此次会议以“规划引领、-圈同城”为主题。以下不属于胶东五市的是( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.济南;“新动能新生态新格局”",
+          "OptionA" : "A.济南;“新时代新生态新格局”",
+          "TopicContent" : "14.7月8日，首届世界先进制造业大会新闻发布会在北京举行，首届世界先进制造业大会将于8月23日- 26日在济南举办，大会以( ) 为主题。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.青岛;“新动能新生态新格局”.",
+          "OptionC" : "C.青岛;“新时代新生态新格局”"
+        },
+        {
+          "OptionB" : "B.“新时代，新标准”",
+          "OptionA" : "A.“标准与可持续发展”.",
+          "TopicContent" : "15. 2021年青岛国际标准化大会将于7月27日至28日在青岛市举办。大会以( ) 为主题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.“聚焦标准化战略，引领高质量发展”",
+          "OptionC" : "C.“新标准引领创新发展”"
+        },
+        {
+          "OptionB" : "B.“1+4+16+N\"",
+          "OptionA" : "A.“1+4+15+N\"",
+          "TopicContent" : "16.7月5日,济南市委市政府召开新闻发布会，解读《关于加快济南新旧动能转换起步区建设的意见》规划体系( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.“1+5+18+N”",
+          "OptionC" : "C.“1+5+16+N”"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块4: 21年8月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B济南市",
+          "OptionA" : "A.青岛市",
+          "TopicContent" : "1.8月30日下午,第十二次中日韩文化部长会议以视频形式召开。会上, 2022 年“东亚文化之都”当选城市名单揭晓，( )、 温州市、日本大分县、韩国庆州市共同入选。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D北京市",
+          "OptionC" : "C.天津市"
+        },
+        {
+          "OptionB" : "B.2023年",
+          "OptionA" : "A.2020年",
+          "TopicContent" : "2.《山东省医疗保障事业发展“十四五”规划》提出，到( ) 将实现医疗保障标准化服务全覆盖。基本建立起覆盖全面、重点突出、层次分明、结构合理的医疗保障服务标准体系。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.2035年",
+          "OptionC" : "C.2025年"
+        },
+        {
+          "OptionB" : "B.青岛片区",
+          "OptionA" : "A.烟台片区",
+          "TopicContent" : "3.山东自贸试验区( ) 与昆明片区、横琴新区片区协同发展,共建首批联动创新区放大自贸溢出效应,推进更大范围“大胆试”",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.日照片区",
+          "OptionC" : "C济南片区"
+        },
+        {
+          "OptionB" : "B.河北省",
+          "OptionA" : "A.河南省",
+          "TopicContent" : "4.8月26日我国化工行业首个区域型综合管理平台-- ( ) 智慧化工综合管理平台正式上线。.",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.山东省",
+          "OptionC" : "C.江苏省"
+        },
+        {
+          "OptionB" : "B.禹城",
+          "OptionA" : "A.齐河",
+          "TopicContent" : "5. (多选)近日，山东省《省会经济圈“十四五”一体化发展规划》印发实施。省会经济圈将构建“一心两圈层、-带两枢轴”发展格局,支持新泰建设连接省会经济圈和鲁南经济圈的区域性中心城市，支持商河建设连接内核圈层和联动圈层的节点城市，支持( ) 打破行政壁垒、全面融入济南。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.平阴",
+          "OptionC" : "C.临邑"
+        },
+        {
+          "OptionB" : "B.自主创新团队",
+          "OptionA" : "A.港口建设团队",
+          "TopicContent" : "6.8月24日，山东港口青岛港自动化码头在“地中海马汀娜”轮作业中,桥吊单机作业效率达到52.1自然箱\/小时,“时代楷模”“( )” 再次实现自我突破，第7次刷新自动化码头装卸世界纪录。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.连钢创新团队",
+          "OptionC" : "C.钢铁建设团队"
+        },
+        {
+          "OptionB" : "B.产业人才",
+          "OptionA" : "A.创新人才",
+          "TopicContent" : "7. (多选)近日，山东省委人才工作领导小组办公室印发《山东省“十四五”人才发展规划》《规划》提出，把科技( ) 和社会事业人才作为开发重点。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D经略海洋人才",
+          "OptionC" : "C.乡村振兴人才"
+        },
+        {
+          "OptionB" : "B.教育教学",
+          "OptionA" : "A.师德师风",
+          "TopicContent" : "8. (多选) 8月23日,山东省确定山东大学考古教师团队等100个教师团队为第二批“山东省高校黄大年式教师团队”。各高校牢固树立创新、协调、绿色、开放、共享的发展理念,着力提升教师队伍( ) 水平,推动黄大年崇高精神实质与高校教师团队建设深度融合,引导广大高校教师和科研工作者以黄大年同志为榜样。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.社会服务",
+          "OptionC" : "C科研创新"
+        },
+        {
+          "OptionB" : "B.80岁",
+          "OptionA" : "A.78岁",
+          "TopicContent" : "9.8月19日，山东省卫健委就《山东省“十四五”卫生与健康规划》进行解读.《规划》提出,“十四五”期间我省将持续多渠道入手扩大老年人及婴幼儿健康服务供给，2025年, 人均预期寿命达到( ) 左右。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.85岁",
+          "OptionC" : "C.75岁"
+        },
+        {
+          "OptionB" : "B.韩国",
+          "OptionA" : "A.日本",
+          "TopicContent" : "10.8月13日,“2021对话山东-一( ) ●山东产业合作交流会”在济南开幕。本次交流会的主题是“RCEP框架下中日经贸合作新愿景”。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D朝鲜",
+          "OptionC" : "c马来西亚"
+        },
+        {
+          "OptionB" : "B.青岛胶东国际机场",
+          "OptionA" : "A.青岛流亭国际机场",
+          "TopicContent" : "11.8月12日零时，山东省唯一- -座 4F级机场一( ) 正式实施转场运营。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D:烟台蓬莱国际机场",
+          "OptionC" : "C济南遥墙国际机场"
+        },
+        {
+          "OptionB" : "B.80%",
+          "OptionA" : "A.100%",
+          "TopicContent" : "12.近日，山东省政府印发《山东省“十四五”养老服务体系规划》提出了我省未来五年养老服务体系发展目标: 2025年年底前，居家社区机构相协调、医养康养相结合的多层次养老服务体系更加完善,养老服务有效供给持续扩大，养老服务产品日益丰富,行业要素支撑不断增强，老年宜居、老年友好环境初步形成。实现养老机构医养结合服务覆盖率达到( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.50%",
+          "OptionC" : "C.70%"
+        },
+        {
+          "OptionB" : "B济青高铁青岛机场站",
+          "OptionA" : "A济青高铁济南机场站",
+          "TopicContent" : "13.8月9日，( ) 正式启用，这是山东省内首座地下高铁站。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.济青高铁济南东站",
+          "OptionC" : "C济青高铁胶州北站"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A烟台",
+          "TopicContent" : "14.8月6日上午,山东省推进上合示范区建设领导小组召开会议。会议强调，今年是“十四五”开局之年,也是_上合组织成立20周年，能不能把示范区建设好，是对我们增强“四个意识”坚定“四个自信”、做到“两个维护”的现实检验。中国-.上合组织地方经贸合作示范区覆盖( ) 全域。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.济南",
+          "OptionC" : "C.潍坊"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块5: 21年9月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B泰安至枣庄段",
+          "OptionA" : "A.济南至潍坊段",
+          "TopicContent" : "1.京台高速公路( ) 段改扩建项目是国内首条全线开通的“改扩建+智慧高速”交通强国试点项目、山东省首条智慧高速公路试点项目。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.济南至青岛段",
+          "OptionC" : "C泰安至济宁段"
+        },
+        {
+          "OptionB" : "B.西秦岭黄河隧道",
+          "OptionA" : "A济南黄河济泺路隧道",
+          "TopicContent" : "2.9月29日，“万里黄河第一隧”-- ( ) 正式通车。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D,郑州黄河隧道",
+          "OptionC" : "c.三门]峡黄河隧道"
+        },
+        {
+          "OptionB" : "B.江苏",
+          "OptionA" : "A.天津",
+          "TopicContent" : "3.9月28日,全国首套省域5G电力示范网在( ) 建成并进入规模应用阶段。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.上海",
+          "OptionC" : "C.山东"
+        },
+        {
+          "OptionB" : "B.第七届;“文明对话与全球合作”",
+          "OptionA" : "A.第七届;“文明照鉴未来”",
+          "TopicContent" : "4.2021中国(曲阜)国际孔子文化节、( ) 尼山世界文明论坛9月27日在山东曲阜举行。第七届尼山世界文明论坛主题为( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.第八届;“文明对话与全球合作”",
+          "OptionC" : "C.第八届;“文明照鉴未来”"
+        },
+        {
+          "OptionB" : "B.全国首位;“三连冠”",
+          "OptionA" : "A.全国第二;“四连冠”",
+          "TopicContent" : "5.9月26日晚上，第十四届全运会比赛全部结束，山东金牌总数与奖牌总数均位列( )。 至此,山东体育代表团实现全运竞技史上( ) 的传奇。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.全国首位;“四连冠”",
+          "OptionC" : "C.全国第二;“三连冠”"
+        },
+        {
+          "OptionB" : "B海峡两岸新旧动能转换产业合作区;济南",
+          "OptionA" : "A.海峡两岸新发展理念产业合作区;济北",
+          "TopicContent" : "6.近日,国务院台办、国家发展改革委、工业和信息化部正式批复山东省人民政府,在我省设立国家级( )。合作区落户于山东( ) 经济开发区。.",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D海峡两岸新旧动能转换产业合作区;济北",
+          "OptionC" : "C海峡两岸新发展理念产业合作区;济南"
+        },
+        {
+          "OptionB" : "B.“老字号好品质”",
+          "OptionA" : "A.“赋能老字号激活新消费”",
+          "TopicContent" : "7.9月23日上午,第五届中华老字号(山东)博览会,在山东国际会展中心隆重开幕。本届博览会以( )为主题。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.“老字号新国潮”",
+          "OptionC" : "C.“国潮国货品质生活”"
+        },
+        {
+          "OptionB" : "B.青岛市黄岛区",
+          "OptionA" : "A济南市槐荫区",
+          "TopicContent" : "8.9月24日上午，第三届全球独角兽企业500强大会(2021) 在( ) 海景花苑大酒店开幕。大会以“数字经济、产业政策与资本赋能”为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.青岛市即墨区",
+          "OptionC" : "C济南市历下区"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.潍坊",
+          "TopicContent" : "9.9月23日至24日,第四届中国企业论坛在( ) 举行。本届论坛设置1场主题论坛、4场平行论坛，其中，主题论坛为“新发展格局下的中国企业:使命与路径”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.济南",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.2023年底",
+          "OptionA" : "A.2020年底.",
+          "TopicContent" : "10.9月18日,山东省通信管理局在济南举办“启航双千兆数字新山东”主题活动，山东将充分发挥先行优势，到( ), 全面建成高水平“双千兆”网络。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.2030年底",
+          "OptionC" : "C.2025年底"
+        },
+        {
+          "OptionB" : "B.山东省青岛市;“设计.动能之光",
+          "OptionA" : "A.山东省烟台市;“设计.生态”",
+          "TopicContent" : "11.2021年世界工业设计大会将于今年10月22日-24日，在( ) 召开，本届大会以( ) 为主题。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.山东省青岛市;“设计.数智时代”",
+          "OptionC" : "C.山东省烟台市;“设计.数智时代”"
+        },
+        {
+          "OptionB" : "B.浪潮电子信息产业股份有限公司",
+          "OptionA" : "A.威高集团有限公司.",
+          "TopicContent" : "12. (多选)第四届中国质量奖对获奖组织和个人进行了颁奖表彰,共有9家组织和1名个人获得中国质量奖，80家组织和9名个人获得提名奖。其中山东的单位有( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.万华化学集团股份有限公司",
+          "OptionC" : "C.青岛啤酒股份有限公司"
+        },
+        {
+          "OptionB" : "B济南",
+          "OptionA" : "A.东营",
+          "TopicContent" : "13.2021山东省旅游发展大会将于9月22日-24日在( ) 举办。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D:烟台",
+          "OptionC" : "C.青岛"
+        },
+        {
+          "OptionB" : "B.1.5小时",
+          "OptionA" : "A.1小时",
+          "TopicContent" : "14.近日，山东省教育厅等四部门联合印发的《山东省义务教育学校课后服务工作规范(试行)》,规范明确,课后服务主要在_上学日放学后进行，-般每天不少于( )。 课后服务主要开展作业辅导和素质拓展活动。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.2.5小时",
+          "OptionC" : "C.2小时"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.济南",
+          "TopicContent" : "15.2021山东网络文明周启动仪式在( ) 举行。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "c.日照"
+        },
+        {
+          "OptionB" : "B.黄岛湾",
+          "OptionA" : "A.半岛湾",
+          "TopicContent" : "16.9月12日，我国具有完全自主知识产权的国家重大科技专项一一山东华能( ) 高温气冷堆核电站示范工程一-号反应堆成功进入临界状态，机组正式开启带核功率运行。其是世界首座具有第四代先进核能系统特征的球床模块式高温气冷堆。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.石岛湾",
+          "OptionC" : "C.长岛湾"
+        },
+        {
+          "OptionB" : "B.第二位",
+          "OptionA" : "A.第一位",
+          "TopicContent" : "17.9月11日中午国际粮食减损大会闭幕。9月10日大会开幕式上,山东省政府发布了《山东省粮食减损行动方案》山东是全国13个粮食主产省之一， 面积和产量均居全国( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.第四位",
+          "OptionC" : "C第三位"
+        },
+        {
+          "OptionB" : "B.《国际粮食减损大会山东倡议》",
+          "OptionA" : "A.《国际粮食减损大会中国倡议》",
+          "TopicContent" : "18.9月10日下午,国际粮食减损大会将举行开幕式,发布( ), 启动山东省粮食减损行动。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.《国际粮食减损大会青岛倡议》",
+          "OptionC" : "C.《国际粮食减损大会济南倡议》"
+        },
+        {
+          "OptionB" : "B:烟台市;“减少粮食损失浪费，促进世界粮食安全\"",
+          "OptionA" : "A.青岛市;“减少粮食损失浪费，增加粮食产量”",
+          "TopicContent" : "19.2021年9月9日至11日，国际粮食减损大会将在( ) 举办，大会以( ) 为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D济南市;“减少粮食损失浪费，促进世界粮食安全”",
+          "OptionC" : "c.日照市;“减少粮食损失浪费，增加粮食产量”"
+        },
+        {
+          "OptionB" : "B.2025年; 28%",
+          "OptionA" : "A.2025年; 18%",
+          "TopicContent" : "20.近日,《山东省“十四五”制造强省建设规划》已正式印发,提出到( ), 山东将基本建成制造强省,初步形成具有山东特色的现代制造业体系，制造业增加值占GDP比重力争达到( ) 以上。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.2035年; 28%",
+          "OptionC" : "C.2030年; 18%"
+        },
+        {
+          "OptionB" : "B.沂蒙山国家安全教育馆",
+          "OptionA" : "A.台儿庄国家安全教育馆",
+          "TopicContent" : "21.9月3日，( )正式开馆。该馆是山东省首个经国家安全部批准建设的“全国国家安全教育基地”。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D梁山国家安全教育馆",
+          "OptionC" : "C.临沂国家安全教育馆"
+        },
+        {
+          "OptionB" : "B.15处",
+          "OptionA" : "A.10处",
+          "TopicContent" : "22.今年9月3日是中国人民抗日战争暨世界反法西斯战争胜利76周年纪念日。截至目前,山东共有( )国家级抗战纪念设施、遗址，数量居全国首位。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.30处",
+          "OptionC" : "C.20处"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块6: 21年10月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.①②③④⑤",
+          "OptionA" : "A.①②④⑤⑥",
+          "TopicContent" : "1.10月30日上午，黄河标志和吉祥物发布会在黄河博物馆举行。黄河吉祥物由分别以“( )” 为创意的“河宝”组成。①少年轩辕黄帝;②少年河洛郎;③仰韶彩陶娃;④少年黄河龙;⑤黄河鲤鱼;⑥镇河铁牛",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.①②③④⑤⑥",
+          "OptionC" : "C.②③④⑤⑥"
+        },
+        {
+          "OptionB" : "B测量船",
+          "OptionA" : "A.半潜作业船",
+          "TopicContent" : "2.近日，国内首艘15000吨级( ) “润能168\"在山东烟台中集来福士海洋工程有限公司交付。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.观测船",
+          "OptionC" : "C.布缆船"
+        },
+        {
+          "OptionB" : "B.2025年",
+          "OptionA" : "A.2030年",
+          "TopicContent" : "3.山东省人民政府、农业农村部近日制定印发《共同推进现代农业强省建设方案(2021-2025年)》提出到( ),山东现代农业强省建设实现重大突破。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.2035年",
+          "OptionC" : "C.2050年"
+        },
+        {
+          "OptionB" : "B:烟台;“数智融通四新聚势”",
+          "OptionA" : "A.烟台;“平台铸魂.产业筑基”",
+          "TopicContent" : "4.10月27日上午, 2021年世界工业互联网产业大会在( ) 开幕,今年大会以( ) 为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.青岛;“数智融通四新聚势”",
+          "OptionC" : "C.青岛;“平台铸魂产业筑基”"
+        },
+        {
+          "OptionB" : "B:烟台;“数智融通四新聚势”",
+          "OptionA" : "A.烟台;“智联互通智享共赢”",
+          "TopicContent" : "5.10月27日上午, 2021年世界工业互联网产业大会在( ) 开幕,今年大会以( ) 为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.青岛;“数智融通四新聚势”",
+          "OptionC" : "C.青岛;“智联互通智享共赢”"
+        },
+        {
+          "OptionB" : "B.“荷花奖”",
+          "OptionA" : "A.“桃花奖”",
+          "TopicContent" : "6.10月25日晚，第十三届中国舞蹈( ) 民族民间舞评奖活动在济南开幕。这是经中宣部立项.中央两办批准的中国专业舞蹈艺术最高成就奖。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.“菊花奖”",
+          "OptionC" : "C.“百花奖”"
+        },
+        {
+          "OptionB" : "B.菏泽;“创新绿色产业、助推乡村振兴”",
+          "OptionA" : "A.菏泽;“绿色梦想全新启航”",
+          "TopicContent" : "7.10月25日上午9时15分,第十七届中国林产品交易会开幕式在( ) 举行,本届盛会以( ) 为主题。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.临沂;“创新绿色产业、助推乡村振兴”",
+          "OptionC" : "C.枣庄;“绿色梦想全新启航”"
+        },
+        {
+          "OptionB" : "B.创新型",
+          "OptionA" : "A学习型",
+          "TopicContent" : "8. (多选)日前，山东省政府办公厅印发《山东省“十四五”教育事业发展规划》提出到2025年，基本建成高质量教育体系，教育治理效能明显提升,教育内生动力和发展活力进一步激发, 人才培养水平和教育服务贡献能力显著增强，( ) 社会建设加速推进,教育现代化水平走在全国前列。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.高效型",
+          "OptionC" : "C.技能型"
+        },
+        {
+          "OptionB" : "B.威海市",
+          "OptionA" : "A.德州市",
+          "TopicContent" : "9.10月23日，由人民网主办的2021乡村振兴大会在( ) 开幕。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.淄博市",
+          "OptionC" : "C.东营市"
+        },
+        {
+          "OptionB" : "B以水定地",
+          "OptionA" : "A以水定城",
+          "TopicContent" : "10. (多选)习近平10月22日下午在山东省济南市主持召开深入推动黄河流域生态保护和高质量发展座谈会并发表重要讲话。习近平强调，要坚决落实( ), 走好水安全有效保障水资源高效利用水生态明显改善的集约节约发展之路。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D以水定产",
+          "OptionC" : "C以水定人"
+        },
+        {
+          "OptionB" : "B.青岛;“设计●数智时代”",
+          "OptionA" : "A.烟台;“设计.数智时代”",
+          "TopicContent" : "11.10月22日上午, 2021年世界工业设计大会在( ) 盛大启幕。此次大会以( ) 为主题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "答案：A12习近平总书记10月20日来到黄河入海口码头、黄河三角洲生态监测中心、黄河三角洲国家级自然保护区，实地察看黄河河道水情和黄河三角洲湿地生态环境，了 解黄河流域生态保护和高质量发展等情况。黄河入海口位于( )A.山东省东营市B.山东省烟台市C.山东省日照市D.山东省威海市",
+          "OptionC" : "C.德州;“创新、绿色、发展”"
+        },
+        {
+          "OptionB" : "B.山东章丘城子崖遗址",
+          "OptionA" : "A.山东泰安大汶口遗址",
+          "TopicContent" : "13. (多选)“第三届中国考古学大会”开幕式10月18日举行。值此中国现代考古学诞生百年之际，开幕式上公布了“百年百大考古发现”。山东省有哪些入选( )",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.山东曲阜鲁国故城",
+          "OptionC" : "C山东临淄齐国故城"
+        },
+        {
+          "OptionB" : "B.全国工业大数据中心体系建设示范区",
+          "OptionA" : "A.全国领先的一体化大数据中心省级节点",
+          "TopicContent" : "14. (多选) 10月18日,山东省大数据局、山东省委网信办等7部”]联合印发《关于加快构建山东省- -体化大数据中心协同创新体系的实施意见》明确“十四五”期间,创建50个以上的新型数据中心，布局一批低时延敏捷型的边缘数据中心，链接各类物联网终端总量超过2.5亿个，初步建成( )。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：AB",
+          "OptionD" : "D.全国现代服务业联合会大数据中心",
+          "OptionC" : "C.全国互联网大数据中心"
+        },
+        {
+          "OptionB" : "B.东营",
+          "OptionA" : "A.枣庄",
+          "TopicContent" : "15.10月16日,“乡村振兴齐鲁论坛2021”在( ) 举行，主题为“走在前列、全面开创，高水平打造乡村振兴齐鲁样板”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.德州",
+          "OptionC" : "C潍坊"
+        },
+        {
+          "OptionB" : "B.青岛;“深化两岸农业交流合作打造乡村振兴齐鲁样板”",
+          "OptionA" : "A济南;“打造三农齐鲁样板”",
+          "TopicContent" : "16.10月12日，2021海峡两岸农业论坛在( ) 举办,主题是( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.潍坊;“深化两岸农业交流合作打造乡村振兴齐鲁样板”",
+          "OptionC" : "C.威海;“打造三农齐鲁样板”"
+        },
+        {
+          "OptionB" : "B:烟台",
+          "OptionA" : "A.济南",
+          "TopicContent" : "17.10月15日，山东高速集团统筹运营的中欧班列(齐鲁号)“铁路快通”专列，由( ) 发出。这是山东省开行的首班“铁路快通”货物专列,标志着中欧班列(齐鲁号)进入“铁路快速通关”模式的新时代。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.青岛"
+        },
+        {
+          "OptionB" : "B广东",
+          "OptionA" : "A.山东",
+          "TopicContent" : "18.( ) 是首个全省域推进“青年发展友好型城市”建设的省份,同时也是首个制定出台“青年发展友好型城市”建设指标体系的省份。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.江苏",
+          "OptionC" : "C.浙江"
+        },
+        {
+          "OptionB" : "B济南;“数字经济赋能，助力智能时代”",
+          "OptionA" : "A济南;“新时代新数字新经济”",
+          "TopicContent" : "19.10月12日，2021中国数字赋能经济大会在( ) 开幕。本次大会以( ) 为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D:烟台;“数聚烟台.共赢未来’",
+          "OptionC" : "C:烟台;“数字经济赋能，助力智能时代”"
+        },
+        {
+          "OptionB" : "B海洋专业奖励奖",
+          "OptionA" : "A.国际专业奖奖励",
+          "TopicContent" : "20. (多选)山东省政府办公厅近日印发《山东省专利奖励办法》该办法自2021年11月1日起施行。山东省专利奖励包括( )。",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：CD",
+          "OptionD" : "D.中国专利奖奖励",
+          "OptionC" : "C.山东省专利奖"
+        },
+        {
+          "OptionB" : "B.黄鹤楼",
+          "OptionA" : "A.鹳雀楼",
+          "TopicContent" : "21.在烟台蓬莱阁举行的2021中国文物学会历史文化名楼保护专业委员会年会上,首次申报的( ) 成功加入中国名楼协会。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.岳阳楼",
+          "OptionC" : "C.超然楼"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块7: 21年11月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B济南;“新起点、新赛道、新机遇”",
+          "OptionA" : "A.淄博;“新起点、新赛道、新期待”",
+          "TopicContent" : "1.11月29日上午，第二十一届中国( ) 国际陶瓷博览会启幕,本届博览会围绕( ) 的主题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D济南;“新起点、新赛道、新期待”",
+          "OptionC" : "C.淄博;“新起点、新赛道、新机遇”"
+        },
+        {
+          "OptionB" : "B多元化",
+          "OptionA" : "A多金属",
+          "TopicContent" : "2. (多选)近日,《山东省黄金工业“十四五”发展规划》印发,山东将构建以黄金为主，( ) 发展的产业新格局，到2025年末，产业布局和产品结构更加优化,品牌效应进一步凸显,安全环保水平明显提升,高端化、智能化、绿色化发展成果显著,大、中型黄金企业集团黄金年产量占全省总产量的96%以上。.",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D多种类",
+          "OptionC" : "C.上下游一体化"
+        },
+        {
+          "OptionB" : "B.第5万个",
+          "OptionA" : "A.第1万个",
+          "TopicContent" : "3.11月28日上午，山东省( ) 5G 基站开通仪式在济南泉城广场举行，省委副书记、省长周乃翔出席仪式并宣布山东省( ) 5G基站开通。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.第10万个",
+          "OptionC" : "C.第8万个"
+        },
+        {
+          "OptionB" : "B.《中共山东省委关于深入学习贯彻习近平总书记重要讲话精神扎实推动黄河流域生态保护和高质量发展的决定》",
+          "OptionA" : "A.《中共山东省委关于深入学习贯彻党的十九届六中全会精神的决定》",
+          "TopicContent" : "4. (多选) 11月26日至27日，中国共产党山东省第十- -届委员会第 十四次全体会议在济南举行。全会审议通过了( ) 和《关于召开中国共产党山东省第十二次代表大会的决议》",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：AB",
+          "OptionD" : "D.《中共山东省委山东省人民政府关于山东省省级机构改革的实施意见》",
+          "OptionC" : "C.《中共山东省委关于进一步加强新时代干部队伍政治能力建设的意见》"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "5.近日，山东高速智能网联高速公路测试基地获得交通运输部“自动驾驶封闭场地测试基地”( ) 认定，成为第八个国家级自动驾驶测试基地。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.东营",
+          "OptionC" : "C烟台"
+        },
+        {
+          "OptionB" : "B.每月第四周的星期二",
+          "OptionA" : "A.每月第四周的星期一",
+          "TopicContent" : "6.根据山东省生态环境厅、山东省高级人民法院联合印发了《关于建立“企业环保法律服务日”制度的通知》,将( ) 确定为全省企业环保法律服务接待日，联合建立了“企业环保法律服务日”制度,开启了环保法律服务“新方式”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.每月第四周的星期四",
+          "OptionC" : "C.每月第四周的星期三"
+        },
+        {
+          "OptionB" : "B.实施“粮芯计划”",
+          "OptionA" : "A.打造“中国食用植物油田”",
+          "TopicContent" : "7. (多选) 11月18日，山东省粮食和储备局举行新闻发布会，解读《山东省“十四五”粮食流通和物资储备发展规划》并介绍山东省节粮减损工作情况。《规划》充分衔接国家和省“十四五”规划,聚焦粮食流通和物资储备核心职能，突出培育科创新动能、建设粮食产业强省，提出了( ) 等创新内容。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D打造“数字粮储”新名片",
+          "OptionC" : "C.建设主食产业新高地"
+        },
+        {
+          "OptionB" : "B.中俄原油管道线工程",
+          "OptionA" : "A.中缅原油管道",
+          "TopicContent" : "8.11月18日，国家石油天然气基础设施重点工程一一( ) 全线建成投产。这是“十四五”期间首条投产的千万吨级输油管道。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.日照一濮阳一洛阳原油管道",
+          "OptionC" : "C.宁波一台州- -温州原油管道"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.淄博",
+          "TopicContent" : "9.11月18日，全国首座高速公路加氢站在山东高速集团( ) 服务区正式竣工并投入运营。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.高密",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.济南",
+          "TopicContent" : "10. (多选)山东省政府办公厅近日印发《关于加快建设现代流通体系服务构建新发展格局的实施意见》意见提出打造流通大枢纽，推进( ) 等国家物流枢纽承载城市建设，大力发展枢细经济。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.临沂"
+        },
+        {
+          "OptionB" : "B.2025年",
+          "OptionA" : "A.2022年",
+          "TopicContent" : "11.《山东省数字交通“十四五”发展规划》到( ), 我省将构建“交通设施数字感知,运输服务便捷智能，行业治理在线协同，技术应用创新活跃，网络安全保障有力”的数字交通体系",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.2050年",
+          "OptionC" : "C.2030年"
+        },
+        {
+          "OptionB" : "B.15分钟",
+          "OptionA" : "A.10分钟",
+          "TopicContent" : "12.山东制定《山东省创建国家区域医疗中心实施方案(2021-2025)》, 全力推动国家区域医疗中心创建工作。到2025年，建成以中心村卫生室为主体、-般村卫生室和村卫生室服务点为补充的新型村级卫生服务体系，形成更加方便可及的“( ) 健康服务圈”。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.30分钟",
+          "OptionC" : "C.20分钟"
+        },
+        {
+          "OptionB" : "B.第二位",
+          "OptionA" : "A.首位",
+          "TopicContent" : "13.11月10日，山东省政府新闻办举行发布会,介绍日前省政府办公厅印发的《山东省“十四五”海洋经济发展规划》2020年， 全省实现海洋生产总值1.32万亿元，居全国( )<",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.第四位",
+          "OptionC" : "C.第三位"
+        },
+        {
+          "OptionB" : "B.4个",
+          "OptionA" : "A.2个",
+          "TopicContent" : "14.11月9日,山东省农业农村厅印发《山东省推进农业全产业链高质量发展五年行动方案》,确定在2025年，省级打造( )千亿级全产业链重点链。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.10个",
+          "OptionC" : "C.5个"
+        },
+        {
+          "OptionB" : "B.98家",
+          "OptionA" : "A.78家",
+          "TopicContent" : "15.11月8日,由山东省商务厅、中共山东省委党史研究院(山东省地方史志研究院)、山东省老字号企业协会共同组织编写的《山东省老字号志》正式亮相,全省16市( ) 老字号企业入志。.",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.158家",
+          "OptionC" : "C.108家"
+        },
+        {
+          "OptionB" : "B.减少煤炭消费，增加清洁能源供求",
+          "OptionA" : "A.减少过剩和落后产业，增加新的增长动能",
+          "TopicContent" : "16. (多选) 11月5日，山东省政府新闻办举行新闻发布会,对近日省生态环境委员会印发实施的《山东省新一轮“四减四增”三年行动方案(2021- 2023年)》进行解读。以下属于“四增四减”的是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.减少化肥农药使用量，增加有机肥使用量",
+          "OptionC" : "C减少公路运输量增加铁路运输量"
+        },
+        {
+          "OptionB" : "B.是密切党群干群关系的必然要求",
+          "OptionA" : "A.是全面加强党的建设的必然要求",
+          "TopicContent" : "17. (多选) 11月5日下午,全省基层党建工作座谈会在济南召开。李干杰强调，加强基层党建工作,是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABD",
+          "OptionD" : "D.是加快新时代社会主义现代化强省建设的必然要求",
+          "OptionC" : "C.是加强全面从严治党的必然要求"
+        },
+        {
+          "OptionB" : "B.①②④⑤",
+          "OptionA" : "A.①②③⑤",
+          "TopicContent" : "18.11月5日下午,全省基层党建工作座谈会在济南召开。李干杰强调，要大力倡树“( )” 的工作作风,确保各项工作部署高标准、高质量落实。①严;②真;③细;④实;⑤快",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.①②③④⑤",
+          "OptionC" : "c.①③④⑤"
+        },
+        {
+          "OptionB" : "B泉水文化生态保护实验区",
+          "OptionA" : "A.黄河文化(东营)生态保护实验区",
+          "TopicContent" : "19. (多选)山东日前新设立了( ) 等3个省级文化生态保护实验区，山东省级文化生态保护实验区数量达到13个。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.潍水文化生态保护实验区",
+          "OptionC" : "C.孙子文化(惠民)生态保护实验区"
+        },
+        {
+          "OptionB" : "B.第三位",
+          "OptionA" : "A.第一-位",
+          "TopicContent" : "20.11月3日,国家科学技术奖励大会在北京隆重举行。大会公布了2020年度国家科学技术奖获奖项目和人选名单，全国共275个项目和人选获奖(不含保密项目)。其中山东省单位或个人牵头完成科技成果获国家科技奖11项，连续三年位居全国( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.第五位",
+          "OptionC" : "C.第四位"
+        },
+        {
+          "OptionB" : "B济南;“新动能.新生态.新格局”",
+          "OptionA" : "A.潍坊;“新动能.新技术.新格局”",
+          "TopicContent" : "21.11月2日上午，由工业和信息化部.山东省政府共同主办的世界先进制造业大会在( ) 开幕,主题为",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.青岛;“新动能.新技术.新格局”",
+          "OptionC" : "C.烟台;“新动能. 新生态.新格局”"
+        },
+        {
+          "OptionB" : "B.质量",
+          "OptionA" : "A.数量",
+          "TopicContent" : "22. (多选) 11月2日，山东省政府新闻办举行新闻发布会，介绍《山东省“十四五”自然资源保护和利用规划》相关情况。《规划》明确，我省将坚决扛牢农业大省责任，强化耕地( )“三位一 -体”保护,用“长牙齿”的硬措施严格落实耕地和永久基本农田保护制度。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.效益",
+          "OptionC" : "C.生态"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块8: 21年12月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.张贵民",
+          "OptionA" : "A.笪良龙",
+          "TopicContent" : "1. (多选)山东省政府决定,授予( ) 2021 年山东省科学技术最高奖。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：AB",
+          "OptionD" : "D李华军",
+          "OptionC" : "C.谭旭光"
+        },
+        {
+          "OptionB" : "B.日照",
+          "OptionA" : "A.烟台",
+          "TopicContent" : "2.12月30日11时，世界单体容量最大漂浮式光伏电站一一( ) 丁庄320MW水面光伏电站全面并网发电。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.德州",
+          "OptionC" : "C.东营"
+        },
+        {
+          "OptionB" : "B.青岛地铁2号线",
+          "OptionA" : "A.青岛地铁1号线",
+          "TopicContent" : "3.12月30日，( ) 南段开通，标志着山东首条跨海地铁全线通车运营。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D济南地铁1号线",
+          "OptionC" : "C.烟台地铁1号线"
+        },
+        {
+          "OptionB" : "B.确保粮食安全",
+          "OptionA" : "A.生态保护",
+          "TopicContent" : "4. (多选) 12月29日，山东省委常委会召开扩大会议，会议指出，习近平的重要指示，从党和国家事业全局的高度,深刻阐明了做好“三农”工作的重要性,突出强调了( ) 三件大事,为我们提供了根本遵循。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：BCD",
+          "OptionD" : "D.耕地保护",
+          "OptionC" : "C.确保不发生规模性返贫"
+        },
+        {
+          "OptionB" : "B.鲁西南",
+          "OptionA" : "A.鲁中南山区",
+          "TopicContent" : "5. (多选) 12月27日，山东省人民政府新闻办公室举行新闻发布会，解读《山东省中医药产业发展规划(2022-2025年)》塑造齐鲁道地药材和特色药材品牌，逐步形成几大中药材生产区，包括( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.胶东半岛以及东平湖、南四湖水生药材种植养殖区",
+          "OptionC" : "C.黄河三角洲"
+        },
+        {
+          "OptionB" : "B济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "6.12月24日上午，首届“千兆城市”高峰论坛在( ) 开幕。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.天津",
+          "OptionC" : "C.上海"
+        },
+        {
+          "OptionB" : "B烟台港",
+          "OptionA" : "A.青岛港",
+          "TopicContent" : "7.12月22日，山东港口( )“全系统、 全流程、全自动”全球首创干散货专业化码头控制技术正式发布。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.威海港",
+          "OptionC" : "c.日照港"
+        },
+        {
+          "OptionB" : "B.福建福清",
+          "OptionA" : "A.海南昌江",
+          "TopicContent" : "8.12月20日9点56分，( ) 高温气冷堆核电站示范工程成功并网发电。此示范工程并网发电,标志着全球首座具有第四代先进核能系统特征的球床模块式高温气冷堆,实现了从“实验室”到“工程应用”质的飞跃，我国实现了高温气冷堆核电技术的“中国引领”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D华能石岛湾",
+          "OptionC" : "C:浙江三澳"
+        },
+        {
+          "OptionB" : "B济南;“践行黄河国家战略强化区域科技协作”",
+          "OptionA" : "A.郑州;“践行黄河国家战略强化区域科技协作”",
+          "TopicContent" : "9.12月18日上午，黄河流域协同科技创新大会在( ) 举行。本次大会以( ) 为主题。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.兰州;“新时代黄河发展强化区域科技协作”",
+          "OptionC" : "C.青岛;“新时代黄河发展强化区域科技协作”"
+        },
+        {
+          "OptionB" : "B着力推动生态环境保护治理",
+          "OptionA" : "A着力完善规划政策体系",
+          "TopicContent" : "10. (多选) 12月17日，黄河生态文明国际论坛通过云会场方式在北京和济南同时举行。周乃翔在致辞中说,我们坚定落实总书记重要指示要求，( ), 全力办好黄河的事情,推动总书记重要指示要求和党中央决策部署在山东落地生根、开花结果。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.着力推动高质量发展",
+          "OptionC" : "C着力落实“四水四定”原则"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A济南",
+          "TopicContent" : "11.12月16日至17日,“2021山东网络视听大会”在( ) 隆重举办,以“网聚力量.光耀齐鲁”为主题。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D:烟台",
+          "OptionC" : "c.日照"
+        },
+        {
+          "OptionB" : "B.1089.4亿斤;第三位",
+          "OptionA" : "A.1089.4亿斤;第二位",
+          "TopicContent" : "12.据国家统计局近日公布的全国粮食生产数据，2021 年，山东粮食总产量达到( ), 较上年增加10.7亿斤，居全国( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.1100.1亿斤;第三位",
+          "OptionC" : "C.1100.1亿斤;第二位"
+        },
+        {
+          "OptionB" : "B.山东济南",
+          "OptionA" : "A.山东青岛",
+          "TopicContent" : "13.12月12日上午，2021年亚广联大学生机器人大赛(ABU ROBOCON 2021)在( ) 举行。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.四川|成都",
+          "OptionC" : "C浙江杭州"
+        },
+        {
+          "OptionB" : "B.70%",
+          "OptionA" : "A.50%",
+          "TopicContent" : "14.12月9日，省机关事务局在青岛举办2021年(第三届)山东省新能源公务用车推介会。据悉,我省将紧紧抓住公务用车配备更新这一关键环节， 不断扩大新能源汽车采购占比，到2025年,除特殊工作要求外，全省党政机关新能源汽车采购占比实现( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.100%",
+          "OptionC" : "C.90%"
+        },
+        {
+          "OptionB" : "B.威海",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "15.12月9日,“东北亚国际船舶交易中心”在( ) 揭牌。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.日照",
+          "OptionC" : "C:烟台"
+        },
+        {
+          "OptionB" : "B.中国.广东“菜篮子”",
+          "OptionA" : "A.中国.山东“菜篮子”.",
+          "TopicContent" : "16.12月8日上午，全国首个评价“菜篮子”综合发展水平的指数- -- ( ) 高质量发展指数发布。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.中国.黑龙江“菜篮子”",
+          "OptionC" : "c.中国.河南“菜篮子”."
+        },
+        {
+          "OptionB" : "B.英国的考文垂市",
+          "OptionA" : "A.意大利奇维塔韦基亚市",
+          "TopicContent" : "17.山东省缔结的第- -对国际友城是 ()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.美国的萨克拉门]托市",
+          "OptionC" : "c.日本山口县下关市"
+        },
+        {
+          "OptionB" : "B.“三段一线”",
+          "OptionA" : "A.“两段- -线”",
+          "TopicContent" : "18.<山东省黄河流域生态环境保护专项规划》谋划了2025年、2035 年山东省黄河流域生态环境保护主要目标，提出了构建黄河( ) 生态环境保护空间布局。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.“四段两线”",
+          "OptionC" : "C.“三段两线”"
+        },
+        {
+          "OptionB" : "B.三小时",
+          "OptionA" : "A.一小时",
+          "TopicContent" : "19.12月3日，省十三届人大常委会第三十二次会议审议通过了《山东省安全生产条例》自2022年3月1日起施行。发生生产安全事故，要求生产经营单位负责人必须( ) 内报告。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.四十八小时",
+          "OptionC" : "C二十四小时"
+        },
+        {
+          "OptionB" : "B.文化厚重",
+          "OptionA" : "A.信仰坚定",
+          "TopicContent" : "20. (多选) 12月2日上午，第八届全省道德模范表彰会在济南举行。李干杰指出，我们一定要增强“四个意识”坚定“四个自信”做到“两个维护”，坚决落实好总书记关于道德建设的重要指示要求，聚力打造“厚道齐鲁地、美德山东人”形象品牌，着力建设( ) 的新时代美德山东,为奋斗新时代、奋进新征程凝聚强大道德力量。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.文明进步",
+          "OptionC" : "C.崇德向善"
+        },
+        {
+          "OptionB" : "B.青岛市",
+          "OptionA" : "A济南市",
+          "TopicContent" : "21.日前，( ) 获批全国首个科创金融改革试验区。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.重庆市",
+          "OptionC" : "C_上海市"
+        },
+        {
+          "OptionB" : "B李涌",
+          "OptionA" : "A马德富",
+          "TopicContent" : "22.(多选)12月1日,“中国网事.感动山东2021”年度网络人物评选颁奖典礼在济南举办。以下属于“中国网事●感动山东2021”年度网络人物的有( )",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.田象霞",
+          "OptionC" : "C.杨文军"
+        },
+        {
+          "OptionB" : "B浙江杭州",
+          "OptionA" : "A.山东济南",
+          "TopicContent" : "23.11月29日至12月1日，中国-上合组织国家地方法院大法官论坛在( ) 举行。本次论坛主题为“深化上合组织框架内地方法院司法合作”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.山东青岛",
+          "OptionC" : "C陕西西安"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块9: 22年1月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.走在前列、全面开创",
+          "OptionA" : "A.九个强省突破;",
+          "TopicContent" : "1. (多选)李干杰指出，实现( ) ，是习近平总书记对山东的厚望重托，也是新时代新征程我们必须扛起的使命担当。",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：BC",
+          "OptionD" : "D.十强现代优势产业集群",
+          "OptionC" : "C.三个走在前"
+        },
+        {
+          "OptionB" : "B.①③④⑤",
+          "OptionA" : "A.①②③④",
+          "TopicContent" : "2.1月26日,山东省住房和城乡建设工作会在济南召开。今年山东住建工作将突出把握好()。不断打响“美丽宜居、百姓安居”品牌。①绿色化;②系统化;③精细化;④标准化;⑤智慧化",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.①②③④⑤",
+          "OptionC" : "C.①②③⑤"
+        },
+        {
+          "OptionB" : "B.第二",
+          "OptionA" : "A.第一",
+          "TopicContent" : "3.日前，2021 年度中国“开放数林”指数发布，在开放数林指数省域综合排名中，山东位居全国() ，获得“数开成荫”奖。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.第四",
+          "OptionC" : "C.第三"
+        },
+        {
+          "OptionB" : "B.非遗中华瑰宝",
+          "OptionA" : "A.非遗文化传承",
+          "TopicContent" : "4. 2022年“山东省非物质文化遗产月”线上启动仪式暨山东省黄河流域非遗展演展示活动于1月25日举行，活动主题为()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.非遗让生活更美好",
+          "OptionC" : "C.传承让生活更美好"
+        },
+        {
+          "OptionB" : "B.①③④⑤⑥",
+          "OptionA" : "A.①②③④⑤",
+          "TopicContent" : "5.1月23日上午，山东省第十三届人民代表大会第七次会议在山东会堂隆重开幕。周乃翔代表省政府向大会作政府工作报告。-年来，全省.上下认真贯彻落实习近平总书记对山东工作的重要指示要求，坚定不移抓好( ) 等既有工作部署，落实“六个一”发展思路、“六个更加注重”策略方法、“十二个着力”重点任务。①“八大发展战略”;②“九大改革攻坚”;③“十强现代优势产业集群”;④“七个走在前列”;⑤“九个强省突破”;⑥“六个现代化”",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.①②③④⑥",
+          "OptionC" : "C.①②③⑤⑥"
+        },
+        {
+          "OptionB" : "B.2025年",
+          "OptionA" : "A. 2022年",
+          "TopicContent" : "6.1月20日，2022年全省科技工作会议召开，会议提出，( )全省科技创新工作要聚焦“一个核心目标”聚力“六个求突破走在前”，到2035，要建成高水平创新型省份和科教强省、人才强省。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D. 2040年",
+          "OptionC" : "C.2035年"
+        },
+        {
+          "OptionB" : "B.65%; 75%",
+          "OptionA" : "A.65%; 70%",
+          "TopicContent" : "7.1月20日上午,山东省政府新闻办召开新闻发布会，解读《山东省新型城镇化规划( 2021-2035年)》，《规划》提出，到2025年，常住人口城镇化率达到( ) 左右;到2035年，城镇化实现高质量发展，常住人口城镇化率达到( ) 左右，新型城镇化建设走在全国前列。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.68%; 75%",
+          "OptionC" : "C.68%; 70%"
+        },
+        {
+          "OptionB" : "B.10",
+          "OptionA" : "A..8",
+          "TopicContent" : "8.2021年山东经济社会发展成绩单“出炉”啦!全年山东省生产总值为83095. 90亿元，首次突破( )万亿元， 比上年增长8. 3%，两年平均增长 5.9%。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D. 20",
+          "OptionC" : "C.5"
+        },
+        {
+          "OptionB" : "B.县域同城化发展典范",
+          "OptionA" : "A.胶东经济圈新的增长极",
+          "TopicContent" : "9. (多选)近日，《莱西莱阳一体化发展先行区建设实施方案》经山东省政府同意，由省发展改革委正式印发实施,标志着全省首个区域一体化发展先行区获批建设。莱西莱阳一体化发展先行区被赋予的发展定位是( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.国家城乡融合标杆",
+          "OptionC" : "C.“两山”基地建设样板"
+        },
+        {
+          "OptionB" : "B.济南长清黄河大桥",
+          "OptionA" : "A.济南黄河凤凰大桥",
+          "TopicContent" : "10.1月18日，上午，世界.上最大跨度的三塔自锚式悬索桥一-()正式通车，开车四分钟就能过黄河，此外市民可以选择骑行、轨道等多种方式过河。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.济南齐鲁黄河大桥",
+          "OptionC" : "C.济南济阳黄河大桥"
+        },
+        {
+          "OptionB" : "B.第2位",
+          "OptionA" : "A.第1位",
+          "TopicContent" : "11. 2021年，山东省农产品出口1238. 4亿元，占全国农产品出口总值的22. 7%，在全国各省市位居()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.第4位",
+          "OptionC" : "C.第3位"
+        },
+        {
+          "OptionB" : "B.鲁单510",
+          "OptionA" : "A.鲁单150",
+          "TopicContent" : "12.近日，中国种子协会公布2021年度“寻找玉米高产品种”测产结果显示: ( ) 在山东省招远市穗丰种植合作社50亩的成方连片高产田中，经专家现场实收测产,平均亩产980.92公斤,位列黄淮海区夏玉米品种第一。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.鲁科510",
+          "OptionC" : "C.郑单150"
+        },
+        {
+          "OptionB" : "B.老寨山",
+          "OptionA" : "A.泰山",
+          "TopicContent" : "13. ( ) 省级自然保护区碳排放核算结果日前获得中国质量认证中心(CQC)认证，成为我国提出“双碳”目标后，全国首个得到权威部门认证的自主负碳区域。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.灵山岛",
+          "OptionC" : "C.刘公岛"
+        },
+        {
+          "OptionB" : "B.农民",
+          "OptionA" : "A.青少年",
+          "TopicContent" : "14. (多选)日前，省政府印发《山东省全民科学素质行动规划纲要实施方案( 2021-2025年)》，针对( ) 五类人群，实施科学素质5项提升行动。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.领导干部和公务员、老年人",
+          "OptionC" : "C.产业工人"
+        },
+        {
+          "OptionB" : "B.①②③④",
+          "OptionA" : "A.①②③④⑤",
+          "TopicContent" : "15.日前，科技部发布《关于支持新-批城市开展创新型城市建设的通知》,将支持25个城市开展创新型城市建设。其中，包括山东省( ) 。①淄博;②威海;③日照;④临沂;⑤德州;⑥东营",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.②③⑤",
+          "OptionC" : "C.①③④⑤"
+        },
+        {
+          "OptionB" : "B.枣庄台儿庄古城历史街区",
+          "OptionA" : "A.济南市历下区百花洲历史文化街区",
+          "TopicContent" : "16. (多选)经评审,我国首批国家级旅游度假区名单1月10日公布，第- -批名单共有55 个街区,山东省()入选。",
+          "AnswerArr" : [
+            "A",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：AD",
+          "OptionD" : "D.淄博市周村区古商城历史文化街区",
+          "OptionC" : "C.烟台蓬莱市戚继光故里文化街区"
+        },
+        {
+          "OptionB" : "B.“六区三带”",
+          "OptionA" : "A.“五区二带”",
+          "TopicContent" : "17.《山东省文物事业发展“十四五”规划》日前发布，《规划》提出实施( ) 文物保护片区战略。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.“七区四带”",
+          "OptionC" : "C.“七区三带”"
+        },
+        {
+          "OptionB" : "B. 58%",
+          "OptionA" : "A.65%",
+          "TopicContent" : "18.1月6日上午,山东省政府新闻办召开新闻发布会,解读《山东半岛城市群发展规划(2021-2035年)》。《规划》提出,到2025年，常住人口城镇化率达到( ) 左右。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.78%",
+          "OptionC" : "C.68%"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.济南",
+          "TopicContent" : "19. (多选)以下城市不属于山东半岛城市群的是( )",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：CD",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.临沂"
+        },
+        {
+          "OptionB" : "B.①③",
+          "OptionA" : "A.①②",
+          "TopicContent" : "20.日前,省政府印发《山东省“十四五”推进农业农村现代化规划》,明确了( ) 的发展定位。①乡村振兴齐鲁样板示范省②农业农村高质量发展先行省③推进现代农业强省建设引领省",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.①②③",
+          "OptionC" : "C.②③"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "21.日前,国家文物局复函同意国家海洋考古博物馆落户( ) ，标志着这一全国唯一的水下考古博物馆建设正式拉开帷幕。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.上海"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块10: 22年2月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.3%",
+          "OptionA" : "A.1%",
+          "TopicContent" : "1.近日，山东省农业农村厅印发《山东省2022年“两增两减”虫口夺粮促丰收行动方案》，提出力争农作物重大病虫害总体危害损失率控制在( ) 以内。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.10%",
+          "OptionC" : "C.5%."
+        },
+        {
+          "OptionB" : "B.①②③④⑥",
+          "OptionA" : "A.①②③④⑤",
+          "TopicContent" : "2.山东省文明委近日印发《关于深化拓展新时代文明实践中心建设的实施方案》,明确提出:我省新时代文明实践中心建设由试点探索转为全面展开，2022 年底前实现( ) “五有”标准全覆盖。①有场所;②有队伍;③有活动;④有项目;⑤有机制;⑥有秩序",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.①③④⑤⑥",
+          "OptionC" : "C.①②④⑤⑥"
+        },
+        {
+          "OptionB" : "B.青岛市",
+          "OptionA" : "A.临沂市",
+          "TopicContent" : "3.近日，商务部公示2021年推动外贸稳定和创新发展成效明显予以激励支持的拟推荐名单。其中山东省()入选。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.济南市",
+          "OptionC" : "C.烟台市"
+        },
+        {
+          "OptionB" : "B.量子网络",
+          "OptionA" : "A.确定性网络",
+          "TopicContent" : "4.2月23日，山东未来网络研究院、山东未来集团揭牌暨全球首张( ) 发布活动在济南举行。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.不确定性网络",
+          "OptionC" : "C.无线网络"
+        },
+        {
+          "OptionB" : "B.110万人; 6%",
+          "OptionA" : "A.110万人; 5.5%",
+          "TopicContent" : "5.根据安排，2022年全省城镇新增就业()以上，城镇调查失业率控制在()以内。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.120万人; 6%",
+          "OptionC" : "C.120万人; 5.5%"
+        },
+        {
+          "OptionB" : "B.国家高端智能化家用电器创新中心",
+          "OptionA" : "A.国家先进印染技术创新中心",
+          "TopicContent" : "6.(多选)近年来，山东省工信厅紧紧围绕重点产业链布局建设国家和省级制造业创新中心。先后争创了()。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：AB",
+          "OptionD" : "D.国家高性能医疗器械创新中心",
+          "OptionC" : "C.国家先进功能纤维创新中心"
+        },
+        {
+          "OptionB" : "B.李方慧",
+          "OptionA" : "A.毛秉强",
+          "TopicContent" : "7.2月5日，北京冬奥会开幕后的首个比赛日，山东小将( )在短道速滑男子1000米比赛中,奋勇争先，夺得一枚宝贵的银牌，实现了山东冬奥会奖牌“零的突破”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.李文龙",
+          "OptionC" : "C.谭颖慧"
+        },
+        {
+          "OptionB" : "B.莱州吕村遗址",
+          "OptionA" : "A.沂水跋山遗址",
+          "TopicContent" : "8.2月19日，2021年度山东省五大考古新发现中( )填补山东及中国北方地区旧石器时代考古空白。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.济南元代郭氏家族墓地",
+          "OptionC" : "C.邹城邾国故城遗址2021年发掘"
+        },
+        {
+          "OptionB" : "B.淄博",
+          "OptionA" : "A.烟台",
+          "TopicContent" : "9.省政府办公厅近日印发《关于公布山东省特色小镇清单的通知》,明确将济南市商河县玉皇庙镇玻璃智造特色小镇等93个特色小镇纳入省特色小镇清单统一管理。其中( ) 数量最多，有9个。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.东营",
+          "OptionC" : "C.潍坊"
+        },
+        {
+          "OptionB" : "B.胶东",
+          "OptionA" : "A.省会",
+          "TopicContent" : "10. (多选)山东省委省政府2月15日发布《山东省黄河流域生态保护和高质量发展规划》，《规划》提出提升济南、青岛两个城市能级，统筹推动( ) 三大经济圈优势互补、错位发展、一体推进，全面提升山东半岛城市群综合竞争力，打造国内国际双循环战略枢纽。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.鲁东",
+          "OptionC" : "C.鲁南"
+        },
+        {
+          "OptionB" : "B.枣庄",
+          "OptionA" : "A.菏泽",
+          "TopicContent" : "11. (多选)黄河山东段长628公里，占黄河总长度的11.5%，流经9个设区市，在东营市垦利区注入渤海。以下不是黄河在山东流经的市是( ) 。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：BCD",
+          "OptionD" : "D.青岛",
+          "OptionC" : "C.潍坊"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.济南",
+          "TopicContent" : "12. (多选)近日,交通运输部、国家铁路局等联合印发了《现代综合交通枢纽体系“十四五”发展规划》。根据规划，山东的( ) 列入国际性综合交通枢纽城市名单。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.临沂",
+          "OptionC" : "C.潍坊"
+        },
+        {
+          "OptionB" : "B.5",
+          "OptionA" : "A.3",
+          "TopicContent" : "13.近日，教育部等部委印发意见，并公布第二轮“双- -流”建设高校及建设学科名单。我省山东大学、中国海洋大学、中国石油大学(华东) 3所高校及其( ) 个学科入围第二轮“双一流’建设高校及建设学科名单。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.12",
+          "OptionC" : "C.8"
+        },
+        {
+          "OptionB" : "B.青岛大学",
+          "OptionA" : "A.山东大学",
+          "TopicContent" : "14. (多选) 2月14日，教育部发布第二轮“双一流”建设高校及建设学科名单，新一轮建设正式启动。名单共有建设高校147所。这其中，山东有哪些高校入选( ) ?",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ACD",
+          "OptionD" : "D.中国石油大学(华东)",
+          "OptionC" : "C.中国海洋大学"
+        },
+        {
+          "OptionB" : "B.第一位;第二位",
+          "OptionA" : "A.第一位;第一位",
+          "TopicContent" : "15.山东省高度重视湿地保护工作，目前省级湿地公园134处，数量居全国( ) ，国家湿地公园66处，数量居全国( ) 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.第二位;第二位",
+          "OptionC" : "C.第二位;第一位"
+        },
+        {
+          "OptionB" : "B.东营和潍坊",
+          "OptionA" : "A.淄博和日照",
+          "TopicContent" : "16.近日，国务院批复同意在全国27个城市和地区设立跨境电子商务综合试验区，我省( ) 两市入选。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.烟台和威海",
+          "OptionC" : "C.济南和青岛"
+        },
+        {
+          "OptionB" : "B.2319公里",
+          "OptionA" : "A.4915公里",
+          "TopicContent" : "17.截至2021年底，全省铁路运营里程达到( ) 。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.6770公里",
+          "OptionC" : "C.7270公里"
+        },
+        {
+          "OptionB" : "B. “一轴二环、七纵九横、三湖多库”",
+          "OptionA" : "A.“一轴二环、五纵八横、两湖多库”",
+          "TopicContent" : "18.山东省政府办公厅近日印发《山东现代水网建设规划》，《规划》指出，我省以全面提升水安全保障能力为目标，形成( ) 的省级水网总体格局，构建现代水网主骨架和大动脉。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.“-轴三环、七纵九横、两湖多库”",
+          "OptionC" : "C.“一轴三环、五纵八横、三湖多库”"
+        },
+        {
+          "OptionB" : "B. 1235",
+          "OptionA" : "A. 1234",
+          "TopicContent" : "19.近日，山东省政府批复设立()4个省级农业高新技术产业开发区。①莘县;②牡丹;③邹城;④栖霞;⑤寿光",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D. 2345",
+          "OptionC" : "C. 1245"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块11: 22年3月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.滕州岗_上遗址",
+          "OptionA" : "A.沂蒙山孟良崮战役遗址",
+          "TopicContent" : "1.2021 年度全国十大考古新发现揭晓，山东的( ) 入选。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D莱州吕村遗址",
+          "OptionC" : "C.齐长城遗址"
+        },
+        {
+          "OptionB" : "B.“好客山东”",
+          "OptionA" : "A.“山东好品”",
+          "TopicContent" : "2.<山东省船舶与海洋工程装备产业发展“十四五”规划》已正式印发，打响( ) 品牌,把山东建设成为我国环渤海地区船舶工业的重要支撑。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.“山东海工”",
+          "OptionC" : "C.“山东海品”"
+        },
+        {
+          "OptionB" : "B滨州市滨城区;临沂市平邑县",
+          "OptionA" : "A滨州市滨城区;潍坊市昌邑市",
+          "TopicContent" : "3.近日，民政部公布2021年度全国基层治理创新典型案例27个，我省( ) “六维双向融合，油地共建共享，创新打造社区治理共同体”和( ) “党建统领‘三治结合’构建城乡社区治理新体系”2项实践成功入选。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.东营市东营区;潍坊市昌邑市",
+          "OptionC" : "C.东营市东营区;临沂市平邑县"
+        },
+        {
+          "OptionB" : "B.<《“十强产业”2022年行动计划》",
+          "OptionA" : "A.《“十大创新”2022年行动计划》",
+          "TopicContent" : "4.(多选) 3月28日上午，山东省政府新闻办举办新闻发布会,解读《山东省“三个十大”2022年行动计划》“三个十大”是指( )",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABC",
+          "OptionD" : "D.《“十大改革”2022年行动计划》",
+          "OptionC" : "C.<《“十大扩需求”2022年行动计划》"
+        },
+        {
+          "OptionB" : "B.锦州9-3油田",
+          "OptionA" : "A.渤中34-9 油田",
+          "TopicContent" : "5.( ) -期开发项目3月26日在青岛开工,我国渤海湾首个千亿立方米大气田开发正式进入了工程实施阶段。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.渤中19-6凝析气田",
+          "OptionC" : "C.垦利10-2油田"
+        },
+        {
+          "OptionB" : "B.东营",
+          "OptionA" : "A.威海",
+          "TopicContent" : "6.商务部、人力资源社会保障部等7部门]发布首批国家人力资源服务领城特色服务出口基地名单,( ) 国际人力资源服务产业园成功入选，成为我省继济南、烟台国家级产业园之后，建成的又一个国家级人力资源服务平台。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.青岛"
+        },
+        {
+          "OptionB" : "B.青岛济南烟台",
+          "OptionA" : "A.济南青岛烟台",
+          "TopicContent" : "7.省政府办公厅印发《中国(山东)自由贸易试验区联动创新区建设实施方案》,《方案》明确，医养健康联动区域以山东自贸试验区( ) 片区为重点，国际贸易联动区域以山东自贸试验区( ) 片区为重点，海洋经济联动区域以山东自贸试验区( ) 片区为重点。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.青岛济南威海",
+          "OptionC" : "C济南青岛威海"
+        },
+        {
+          "OptionB" : "B.6678万亩; 1100亿斤",
+          "OptionA" : "A.6678万亩; 1000 亿斤",
+          "TopicContent" : "8.截至2021年底，已累计建成高标准农田( ), 为全省全年粮食产量首破( ) 大关发挥了重要支撑作用。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.6778万亩; 1100 亿斤",
+          "OptionC" : "C.6778万亩; 1000亿斤"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A济南",
+          "TopicContent" : "9. (多选) 3月24日，山东省创新发展研究院在济南发布《山东省区域科技创新能力评价报告2021%综合科技创新水平指数超过100%的是( ) 4市。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.淄博"
+        },
+        {
+          "OptionB" : "B.全国道德模范",
+          "OptionA" : "A.全国三八红旗手",
+          "TopicContent" : "10.全国妇联作出决定,追授山东省立医院临床医学检验部原副主任、主任技师、研究员白晓卉( ) 称号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.全国优秀共产党员",
+          "OptionC" : "C.全国优秀妇女"
+        },
+        {
+          "OptionB" : "B.潍坊",
+          "OptionA" : "A.济南",
+          "TopicContent" : "11. (多选)近日,省自然资源厅印发《黄河流域(山东段)重点自然资源统-确权登记工作方案 》以下是黄河在山东流经的城市是( )。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ACD",
+          "OptionD" : "D.东营",
+          "OptionC" : "C.德州"
+        },
+        {
+          "OptionB" : "B.刘喜民",
+          "OptionA" : "A.张大健",
+          "TopicContent" : "12.经过长期科研攻关，山东农业大学( ) 教授团队找到了被视为选育大豆高产优质新品种的有效基因靶点的关键“70%”。人类首次获得多年生野生大豆高精度基因组图谱,首次构建多年生野生大豆泛基因组。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.李振声",
+          "OptionC" : "C.张文湘"
+        },
+        {
+          "OptionB" : "B.42.7自然箱小时",
+          "OptionA" : "A.40.7自然箱\/小时",
+          "TopicContent" : "13.3月12日，在“日邮维纳斯”轮作业中，山东港口青岛港自动化码头桥吊单机作业效率达到( ), 第8次刷新装卸效率世界纪录。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "答案：D14战国时期的稷下学宫在其兴盛时期几乎容纳了“诸子百家”的各个学派，李斯、韩非等曾来稷下游说,和进行学术访问，荀子担任过稷下学宫的祭酒。稷下学宫位于今天山东省( )。A.潍坊市B.东营市C.淄博市D.曲阜市",
+          "OptionC" : "C.50.7自然箱小时"
+        },
+        {
+          "OptionB" : "B.土地",
+          "OptionA" : "A.能耗",
+          "TopicContent" : "15. (多选)山东日前制定《要素保障创新2022年行动计划》,创新举措保障( ) 几大资源要素。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D环境容量、数据",
+          "OptionC" : "C.资金"
+        },
+        {
+          "OptionB" : "B.乙醇",
+          "OptionA" : "A.天然气",
+          "TopicContent" : "16.近日，全球首套1000吨\/年二氧化碳加氢制( ) 中试装置，在山东邹城工业园区开车成功。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D柴油",
+          "OptionC" : "C.汽油"
+        },
+        {
+          "OptionB" : "B.第二",
+          "OptionA" : "A.第一",
+          "TopicContent" : "17.2021年,山东信息技术产业营收突破1.2万亿元，数字经济核心产业增加值占GDP比重超过6%,预计全省数字经济占GDP比重达到43%，规模总量位居全国( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.第四",
+          "OptionC" : "C第三"
+        },
+        {
+          "OptionB" : "B.“优品山东”;“优品山东”",
+          "OptionA" : "A.“好客山东”;“好客山东”",
+          "TopicContent" : "18.3月2日，第一批( )品牌名单发布,共223家企业入选。( ) 是山东省委、省政府打造的区域公共品牌，是山东省产品、工程、服务品牌整体形象的代表。.",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.“好品山东”;“好品山东”",
+          "OptionC" : "C.“清新山东”;“清新山东”"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块12: 22年4月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.12个",
+          "OptionA" : "A.10个",
+          "TopicContent" : "1.4月29日，按照《山东省“十四五”综合交通运输发展规划》，到2025年，全省运输机场将达到()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.22个",
+          "OptionC" : "C.20个"
+        },
+        {
+          "OptionB" : "B.青岛 潍坊",
+          "OptionA" : "A济南 济南",
+          "TopicContent" : "2.4月28日_上午,中国一太平洋岛国应对气候变化合作中心启用仪式暨中国一太平洋岛国应对气候变化高端对话会开幕式在( ) 举行。中国一太平洋岛国应对气候变化合作中心在( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.济南 聊城",
+          "OptionC" : "C.济南 潍坊"
+        },
+        {
+          "AnswerArr" : [
+
+          ],
+          "AnswerContent" : "3.近日，山东省委、省政府印发《关于做好2022年全面推进乡村振兴重点工作的实施意见》，《意见》指出，加快推进高标准农田整县试点，全省新建高标准农田( ) ，同步发展高效节水灌溉",
+          "IsMultipleChoice" : true
+        },
+        {
+          "OptionB" : "B.585万亩",
+          "OptionA" : "A.565万亩",
+          "TopicContent" : "168.5万亩。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.665万亩",
+          "OptionC" : "C.605万亩"
+        },
+        {
+          "OptionB" : "B.东营",
+          "OptionA" : "A.济南",
+          "TopicContent" : "4.近日，山东省委、省政府印发《关于做好2022年全面推进乡村振兴重点工作的实施意见》，《意见》指出，支持( ) 市开展“吨半粮”产能建设。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.德州"
+        },
+        {
+          "OptionB" : "B.1.1亿亩",
+          "OptionA" : "A.1亿亩",
+          "TopicContent" : "5.近日，山东省委、省政府印发《关于做好2022年全面推进乡村振兴重点工作的实施意见》，《意见》指出，确保全省粮食播种面积稳定在()以上，粮食总产保持稳定。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.1.3亿亩",
+          "OptionC" : "C.1.2亿亩"
+        },
+        {
+          "OptionB" : "B.“智慧”",
+          "OptionA" : "A.“智飞”",
+          "TopicContent" : "6.4月22日,我国自主研发的智能航行300TEU集装箱商船()号在山东港口青岛港首航。该船是目前全球投入运营的最大吨级智能集装箱船舶。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.“远航”",
+          "OptionC" : "C.“深蓝”"
+        },
+        {
+          "OptionB" : "B.潍坊市潍城区",
+          "OptionA" : "A.山东济南市章丘区",
+          "TopicContent" : "7. (多选)住房和城乡建设部、财政部近日印发《关于做好2022年传统村落集中连片保护利用示范工作的通知》，在全国遴选40个县(市、区)作为2022年传统村落集中连片保护利用示范县，()成功入选，示范期2年。",
+          "AnswerArr" : [
+            "A",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：AD",
+          "OptionD" : "D.威海市荣成市",
+          "OptionC" : "C.东营市垦利区"
+        },
+        {
+          "OptionB" : "B.①②",
+          "OptionA" : "A.①②③",
+          "TopicContent" : "8.日前，山东省农业农村厅印发《关于持续推进化肥农药减量增效工作的意见》，支持商河县等23个县开展绿色种养循环农业试点,探索建立粪肥收集-处理-配送-使用激励机制,示范推广()等技术模式，推动有机肥替代化肥行动向纵深发展。①“堆肥腐熟还田”;②“沼渣沼液还田”;③“商品有机肥施用”",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.②③",
+          "OptionC" : "C.①③"
+        },
+        {
+          "OptionB" : "B.新冠肺炎",
+          "OptionA" : "A.先天性心脏病",
+          "TopicContent" : "9.山东省首个国家I类化学创新药、临沂首个国家1类创新药P-CAB替戈拉生片(商品名:泰欣赞)获得国家药品监督管理局批准用于治疗()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：D",
+          "OptionD" : "D.反流性食管炎",
+          "OptionC" : "C.糖尿病"
+        },
+        {
+          "OptionB" : "B.“人类文明多样性与人类共同价值”",
+          "OptionA" : "A.“和而不同与和谐世界”",
+          "TopicContent" : "10.第八届尼山世界文明论坛以( ) 为主题，将通过论坛的形式深入研究人类文明多样性和人类共同价值的关系，为事关人类前途命运的重大问题提供中国智慧、中国方案,为人类社会发展进步指出新思路、描绘新蓝图。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：B",
+          "OptionD" : "D.“文明的相融与人类命运共同体”",
+          "OptionC" : "C.“同命同运相融相通”"
+        },
+        {
+          "OptionB" : "B.缩规一批",
+          "OptionA" : "A.转公- -批",
+          "TopicContent" : "11. (多选) 4月12日下午，2022年山东省教育工作视频会议召开,安排部署今年重点工作。今年山东将大力压减民办义务教育在校生占比，坚持“( ) ”,特别是要强化财政资金保障,为政府购买学位兜底。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.政府购买学位一批",
+          "OptionC" : "C.停办一-批"
+        },
+        {
+          "OptionB" : "B.“设计赋能.智造山东”",
+          "OptionA" : "A.“设计赋能. 智造升级”",
+          "TopicContent" : "12.第四届“省长杯”工业设计大赛于即日起至5月10日在线申报系统面向全社会开放,本届大赛以( )为主题，分为产品组、概念组两个组别。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.“未来设计.创新升级”",
+          "OptionC" : "C.“创新设计●智能山东”"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.济南",
+          "TopicContent" : "13. (多选)山东省人民政府4月7日召开新闻发布会，解读该省印发的《山东省“十四五”应对气候变化规划》。山东将继( ) 国家低碳城市试点，研究制定支持绿色低碳发展的配套政策，加快建立绿色低碳循环发展的经济体系。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.青岛国际足球中心主场馆",
+          "OptionA" : "A.潍坊国际足球中心主场馆",
+          "TopicContent" : "14.( ) 是2022年省运会新建场馆。建成后是山东省首座、全国第七座采用欧洲标准设计的专业足球场，将承接第25届省运会各级别足球比赛。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.济南国际足球中心主场馆",
+          "OptionC" : "c.日照国际足球中心主场馆"
+        },
+        {
+          "OptionB" : "B.5个月; 2个月",
+          "OptionA" : "A.3个月; 1个月",
+          "TopicContent" : "15.4月2日，记者从山东省政府新闻办新闻发布会上获悉，山东出台35条政策帮助服务业恢复发展。其中，在房租减免方面，为疫情中高风险地区承租国有房屋的服务业小微企业和个体工商户，今年减免( ) 租金，其他地区减免( ) 租金，帮助企业恢复发展、渡过难关。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：C",
+          "OptionD" : "D.8个月; 5个月",
+          "OptionC" : "C.6个月; 3个月"
+        },
+        {
+          "OptionB" : "B.临沂",
+          "OptionA" : "A.烟台",
+          "TopicContent" : "16. (多选) 4月1日，山东省政府办公厅印发《关于支持省级新区高质量发展的若干政策措施》，支持( )新区产业项目优先纳入省新旧动能转换优选项目库，引导金融和社会资金投入。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "答案：ABCD",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.德州"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.济南",
+          "TopicContent" : "17.近日，中央文明办通报2021 年全国文明城市年度测评结果。( ) 市实现了全国文明城市创建“四连冠”和全国文明典范城市创建“开门红”。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案：A",
+          "OptionD" : "D.东营",
+          "OptionC" : "C.烟台"
+        }
+      ]
+    }
+  ]
+}

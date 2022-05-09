@@ -1,0 +1,1851 @@
+{
+  "TITLE" : "专项：省情省况150题",
+  "MODULEARRS" : [
+    {
+      "ModuleTitile" : "模块1： 第一组",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B. “鉴湖春好无人赋”",
+          "OptionA" : "A.“吾欲从此观蓬莱”",
+          "TopicContent" : "1.金元之际,济南仍是文化繁荣之乡。文学家元好问曾写下( )、 “有心常做济南人”等颂扬之词。明清以来,济南府一直为山东的治所所在地。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]金元之际，济南仍是文化繁荣之乡文学家元好曾写下“羡煞济南.山水好”、“有心常做济南人”等颂扬之词。明清以来,济南府一直为山东的治所所在地",
+          "OptionD" : "D.“奇外无奇更出奇”",
+          "OptionC" : "C.“羡煞济南山水好”"
+        },
+        {
+          "OptionB" : "B黑虎泉",
+          "OptionA" : "A.趵突泉",
+          "TopicContent" : "2.()位居济南七十二名泉之首,被誉为“天下第一泉”,也是最早见于古代文献的济南名泉。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D珍珠泉",
+          "OptionC" : "C.漱玉泉"
+        },
+        {
+          "OptionB" : "B.中国园林“第一门”",
+          "OptionA" : "A.中国泉群“第一门”",
+          "TopicContent" : "3.趵实泉公园的南大门,布置得富丽堂皇、雍容华贵,大门上的横匾“趵突泉”蓝底金字,是清朝乾降皇帝的御笔,有人誉为()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B",
+          "OptionD" : "D.中国泉群“第一泉”",
+          "OptionC" : "C.中国园林“第一泉”"
+        },
+        {
+          "OptionB" : "B吴淑姬",
+          "OptionA" : "A.张玉娘",
+          "TopicContent" : "4.漱玉泉与宋代女词人()有关，她的故居就在漱玉泉边,因有文集《漱玉集》而得名泉北的纪念堂正是为纪念这位著名的词人而修建的。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]玉泉与宋代女词人李清照有关,她的故居就在漱玉泉边,因有文集《漱玉集》而得名,泉北的李清照纪念堂正是为纪念这位著名的词人而修建的",
+          "OptionD" : "D李清照",
+          "OptionC" : "C.朱真"
+        },
+        {
+          "OptionB" : "B.黑虎泉、千佛山",
+          "OptionA" : "A.趵突泉、珍珠泉",
+          "TopicContent" : "5.大明湖,与()并称为济南三大名胜,素有“泉城明珠”的美誉",
+          "AnswerArr" : [
+            "c"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]c",
+          "OptionD" : "D黑虎泉、珍珠泉",
+          "OptionC" : "C.趵突泉、千佛山"
+        },
+        {
+          "OptionB" : "B.“万国最美城区”",
+          "OptionA" : "A.“中国最美城区”",
+          "TopicContent" : "6.青岛的异域建筑种类繁多,八大关建筑群荣()称号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]八大关建筑群荣膺“中国最美城区”称号。",
+          "OptionD" : "D.“万国最美群区",
+          "OptionC" : "C.“中国最美群区”"
+        },
+        {
+          "OptionB" : "B.英国",
+          "OptionA" : "A法国",
+          "TopicContent" : "7.1914年,第一次世界大战爆发,()取代德国占领青岛。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D.日本",
+          "OptionC" : "C.美国"
+        },
+        {
+          "OptionB" : "B.“洋务运动”",
+          "OptionA" : "A.“五四运动”",
+          "TopicContent" : "8.民国八年(1919年),中国以收回青岛主权为导火索爆发了(,这是中国近、现代历史的分水岭。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D.“台江事件”.",
+          "OptionC" : "C.“巴黎和会”"
+        },
+        {
+          "OptionB" : "B.1923",
+          "OptionA" : "A.1922",
+          "TopicContent" : "9.()年,中国北洋政府收回青岛,辟为商埠",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.1924",
+          "OptionC" : "C.1921"
+        },
+        {
+          "OptionB" : "B. 1948,6,2",
+          "OptionA" : "A.1949,6,2",
+          "TopicContent" : "10.()年()月()日,青岛成为华北地区最后- -座解放的城市,改属山东省辖市。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D.1948,6,3",
+          "OptionC" : "C.1949,6,3"
+        },
+        {
+          "OptionB" : "B.青岛胶南琅琊台",
+          "OptionA" : "A.紫金山天文台",
+          "TopicContent" : "11.中国最古老的天文台是()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]中国最古老的天文台一一青岛胶南琅琊台(公元前5世纪",
+          "OptionD" : "D中国天文台",
+          "OptionC" : "C.上海天文台"
+        },
+        {
+          "OptionB" : "B.沪嘉高速公路",
+          "OptionA" : "A.青岛台柳路",
+          "TopicContent" : "12.中国第一条公路(),1904 年竣工,是中国第条公路,第条汽车路,第一条柏油路",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D龙凭公路",
+          "OptionC" : "C.台柳路"
+        },
+        {
+          "OptionB" : "B.法国",
+          "OptionA" : "A.德国",
+          "TopicContent" : "13.中国第一个现代城市排水系统- - -青岛市1897年的规划就确立了雨、污分离的现代城市排水管网,由()设计",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.美国",
+          "OptionC" : "C.日本"
+        },
+        {
+          "OptionB" : "B燕京啤酒",
+          "OptionA" : "A.哈尔滨啤酒",
+          "TopicContent" : "14.中国最著名啤酒-(),1903年建厂1906年即在慕尼黑国际博览会上获得啤酒类金牌",
+          "AnswerArr" : [
+            "c"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]c",
+          "OptionD" : "D崂山睥酒",
+          "OptionC" : "C.青岛啤酒"
+        },
+        {
+          "OptionB" : "B.1921",
+          "OptionA" : "A.1922",
+          "TopicContent" : "15.中国第一个帆船俱乐部()年成立的青岛欧美帆船俱乐部",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.1920",
+          "OptionC" : "C. 1923"
+        },
+        {
+          "OptionB" : "B.青岛",
+          "OptionA" : "A.浙江",
+          "TopicContent" : "16.中国最大的海洋科研基地- -- 全国60%.上的海洋科学高端人才集中于( )",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B",
+          "OptionD" : "D.三亚",
+          "OptionC" : "C.北京"
+        },
+        {
+          "OptionB" : "B.四周局,中部低",
+          "OptionA" : "A.中部局,四周低",
+          "TopicContent" : "17.山东地貌总的特征是()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D东部高,西部低",
+          "OptionC" : "C.平原与山地相间排列"
+        },
+        {
+          "OptionB" : "B.暖温带大陆性气候",
+          "OptionA" : "A.温带海洋性气候",
+          "TopicContent" : "18.山东省气候类型属于()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.亚热带风气候",
+          "OptionC" : "C.暖温带手风气候"
+        },
+        {
+          "OptionB" : "B.冀",
+          "OptionA" : "A.晋",
+          "TopicContent" : "19.与山东省接填的省份有()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]山东自北而南与河北、河南、安徽、江苏4省接壤",
+          "OptionD" : "D.津",
+          "OptionC" : "C.沪"
+        },
+        {
+          "OptionB" : "B.大口文化遗址",
+          "OptionA" : "A.龙山文化遗址",
+          "TopicContent" : "20.山东省境内被称为“黑陶文化”的文化遗址是()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]黑陶文化又称龙山文化,是铜石并用时代文化快轮制陶技术普遍采用,冶铜技术开始出现。龙山文化距今约450~3950年,分布于黄河中下游的山东、河南、山西、陝西等省,因发现于山东章丘龙山镇而得名。",
+          "OptionD" : "D北辛文化遗址",
+          "OptionC" : "C.沂源猿人遗址"
+        },
+        {
+          "OptionB" : "B.泰安",
+          "OptionA" : "A济宁",
+          "TopicContent" : "21.春秋战国时期齐国国都是()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D.临淄",
+          "OptionC" : "C.济南"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "OptionA" : "A.山东省淄博市B.山东省济宁市C.山东省济南市D.山东省泰安市",
+          "AnswerContent" : "[答案]B",
+          "AnswerArr" : [
+            "B"
+          ],
+          "TopicContent" : "22.春秋战国时期,鲁国的统治核心区大都位于今()境内。"
+        },
+        {
+          "OptionB" : "B.魏晋",
+          "OptionA" : "A.秦汉",
+          "TopicContent" : "23.山东在(时期是中国的经济中心",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.明清",
+          "OptionC" : "C.隋唐"
+        },
+        {
+          "OptionB" : "B.明初设置山东省,“山东”才成为本省的专名",
+          "OptionA" : "A.济宁和临清是由于漕运的发展而繁荣起来的",
+          "TopicContent" : "24.下列说法中不正确的-项是( )",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]清初设置山东省，“山东”才成为本省的专名。",
+          "OptionD" : "D.明初光复时,山东“多是无人之地”",
+          "OptionC" : "C.清末，德国修筑了胶济铁路与津浦铁路北段"
+        },
+        {
+          "OptionB" : "B.平原、丘陵",
+          "OptionA" : "A.平原、山地",
+          "TopicContent" : "25.山东省的地形主要是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B[解析]山东省平原面积占全省面积的65.56%,主要分布在鲁西北地区和鲁西南局部地区。丘陵面积占全省面积15.39%,主要分布在东部、鲁西南局部地区。",
+          "OptionD" : "D平原、盆地",
+          "OptionC" : "C.丘陵、山地"
+        },
+        {
+          "OptionB" : "B南阳湖",
+          "OptionA" : "A.微山湖",
+          "TopicContent" : "26.山东省的南四湖不包括以下哪个)。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]南四湖是串联在一起的微山湖、昭阳湖、独山湖、南阳湖四个湖的总称,因位于山东省西南部的济宁以南而得名。",
+          "OptionD" : "D.东平湖",
+          "OptionC" : "C.昭阳湖"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.青岛",
+          "TopicContent" : "27.()就是古时的烽火台。明洪武初年,为了防备传寇犯境胶东半岛北部设置“奇山防御千户所”,依山势建筑城堡。城堡上也设有烽火台有了这狼烟台,再也不敢前来掳掠了。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]烟台,就是古时的烽火台明洪武初年为了防备寇犯境胶东半岛北部设置“奇山防御千户所”,依山势建筑城堡。城堡上也设有烽火台。有了这狼烟墩台,倭寇再也不敢前来掳掠了。",
+          "OptionD" : "D.感海",
+          "OptionC" : "C.烟台"
+        },
+        {
+          "OptionB" : "B.13",
+          "OptionA" : "A.14",
+          "TopicContent" : "28.烟台,中国首批()个沿海开放城市之.--中国海滨城市亚洲唯.-的国际葡萄●葡萄酒城、“一带一路”国家战略重点建设港口城市、是国家历史文化名城、全国文明城市，与威海同为中国著名的“雪窝”",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.15",
+          "OptionC" : "C.12"
+        },
+        {
+          "OptionB" : "B.1892",
+          "OptionA" : "A.1891",
+          "TopicContent" : "29.()年,旅居南洋的华侨张在烟台创办了张裕酿酒公司,聘奥地利驻烟台领事做酒师,取得成功",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B",
+          "OptionD" : "D.1893",
+          "OptionC" : "C. 1890"
+        },
+        {
+          "OptionB" : "B.1869,青岛,青岛",
+          "OptionA" : "A.1868,北京,北京",
+          "TopicContent" : "30.()年,()海关即设邮务办事处兼办邮递外使文件,这是中国近代邮政的前芽;1879年,清政府议决在北京、天津、()牛庄(营口)、上海五处试办邮政这就是中国近代邮政之先声了",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D.1868,烟台,烟台",
+          "OptionC" : "C.1869,济南,济南"
+        },
+        {
+          "OptionB" : "B.“南苏州北潍县”",
+          "OptionA" : "A.“万物春来换艳妆”",
+          "TopicContent" : "31.潍坊潍城历史上是半岛著名的商埠,清代就有(的盛誉郑板桥“云外清歌花外笛潍州原是小苏州”等诗句反映了当时商业繁盛景象",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B",
+          "OptionD" : "D.“长天鱼跃鸥振翅”",
+          "OptionC" : "C.“云海蝶翩花绽芳”"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.济宁",
+          "TopicContent" : "32.( ) 是发现和保存汉代碑刻最多的地区之一。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A[解析]天下汉碑半济宁:济宁是发现和保存汉代碑刻最多的地区之一",
+          "OptionD" : "D.潍坊",
+          "OptionC" : "C.青岛"
+        },
+        {
+          "OptionB" : "B.孔子",
+          "OptionA" : "A.孟子",
+          "TopicContent" : "33.曲阜是中国古代伟大的思想家、教育家、儒家学派创始人()的故乡。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B",
+          "OptionD" : "D韩非子",
+          "OptionC" : "C..老子"
+        },
+        {
+          "OptionB" : "B.1991",
+          "OptionA" : "A.1994",
+          "TopicContent" : "34.()年,孔庙、孔府、孔林列入联合国《世界遗产名录》",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.1993",
+          "OptionC" : "C. 1995"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.淄博",
+          "TopicContent" : "35.()是国家历史文化名城,为齐文化的发祥地、世界足球起源地。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D威海",
+          "OptionC" : "C.日照"
+        },
+        {
+          "OptionB" : "B.山水式城市",
+          "OptionA" : "A.组团式城市",
+          "TopicContent" : "36.淄博是一座山水结合的(),博是一座资源型城市(再生型城市)和全国老工业基地,为全国首批产业转型升级示范区。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A [解析]组团式城市:淄博是-座山水结合的组团式城市(组群式城市),淄博是-座资源型城市(再生型城市)和全国老工业基地,为全国首批产业转型升级示范区。",
+          "OptionD" : "D结合式城市",
+          "OptionC" : "C.环绕式城市"
+        },
+        {
+          "OptionB" : "B.《齐民要术》",
+          "OptionA" : "A.《考工记.",
+          "TopicContent" : "37.淄博市诞生了中国历史上第一-本手工业专著(",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]淄博文化:淄博市诞生了中国历史上第. - -本手工业专著《考工记》",
+          "OptionD" : "D《汜胜之书》",
+          "OptionC" : "C.《营造法式"
+        },
+        {
+          "OptionB" : "B.《齐民要术》",
+          "OptionA" : "A.《考工记》",
+          "TopicContent" : "38.潍坊市诞生了中国历史上第-本农业专著()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.《汜胜之书》",
+          "OptionC" : "C.《营造法式》"
+        },
+        {
+          "OptionB" : "B.《齐民要术",
+          "OptionA" : "A.《考工记》",
+          "TopicContent" : "39.淄博市诞生了中国历史上最早阐述服务业的专著()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]淄博市诞生了中国历史上最早阐述服务业的专著《管子",
+          "OptionD" : "D.《管子》",
+          "OptionC" : "C.《营造法式"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.曲阜",
+          "TopicContent" : "40.( )因齐桓公戏马台得名。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C [解析]桓台,因齐桓公戏马台得名。",
+          "OptionD" : "D川",
+          "OptionC" : "C.淄博市桓台"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.博山",
+          "TopicContent" : "41.()古称颜神因齐地孝妇颜文姜得名",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A [解析]博山,古称颜神,因齐地孝妇颜文姜得名。",
+          "OptionD" : "D桓台",
+          "OptionC" : "C.曲阜"
+        },
+        {
+          "OptionB" : "B燕长城",
+          "OptionA" : "A齐长城",
+          "TopicContent" : "42.淄博市博山区名胜古进有世界文化遗长城的组成部分()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D赵长城",
+          "OptionC" : "C.秦长城"
+        },
+        {
+          "OptionB" : "B.烟台",
+          "OptionA" : "A.周村",
+          "TopicContent" : "43.()为沂河之源。山东古人类发源地山东屋脊生态高地、中国北方溶洞之乡和牛郎织女之乡",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D张店",
+          "OptionC" : "C.沂源"
+        },
+        {
+          "OptionB" : "B金、元、明",
+          "OptionA" : "A.唐、宋、元",
+          "TopicContent" : "44.张店,又以“黄桑店”闻名海外,有“商贾云集,日进万金”之说,是()三代重镇。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D.元、明、清",
+          "OptionC" : "C.夏、商、西周"
+        },
+        {
+          "OptionB" : "B.墨子,孟尝君,毛遂,匡衡,美仲",
+          "OptionA" : "A.奚仲,墨子，孟尝君毛遂,匡衡",
+          "TopicContent" : "45.枣庄孕育了人类造车鼻祖(),主张“兼爱、非攻”的科圣()“好客养士”的( ),足智多谋、能言善辩、勇于自荐的()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A[解析]枣庄名人:孕育了人类造车鼻祖，主张“兼爱、非攻”的科圣墨子，“好客养士”的孟尝君,足智多谋、能言善辩、勇于自荐的毛遂,“苗壁偷光\"的西汉名相匡衡。",
+          "OptionD" : "D.孟尝君,毛遂,匡衡,墨子,奚仲",
+          "OptionC" : "C.毛遂,匡衡,奚仲,墨子，孟尝君"
+        },
+        {
+          "OptionB" : "B枣庄",
+          "OptionA" : "A.东营",
+          "TopicContent" : "46.()有“天下第一-庄”之称(清乾隆赐),是中国国内规模最大的古城",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.台儿庄古城"
+        },
+        {
+          "OptionB" : "B.枣庄",
+          "OptionA" : "A.东营",
+          "TopicContent" : "47.()有“中国最美水乡”之誉。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]台儿庄古城有“中国最美水乡”之誉。",
+          "OptionD" : "D.威海.",
+          "OptionC" : "C.台儿庄古城"
+        },
+        {
+          "OptionB" : "B.枣庄",
+          "OptionA" : "A.东营",
+          "TopicContent" : "48.()被世界旅游组织称为“活着的古运河、“京杭运河仅存的遗产村庄”。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]台儿庄古城,被世界旅游组织称为“活着的古运河”、“京杭运河仅存的遗产村庄”。",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.台儿庄古城"
+        },
+        {
+          "OptionB" : "B.枣庄",
+          "OptionA" : "A.东营",
+          "TopicContent" : "49.()与波兰首都华沙同世界.上仅有的两座因第二次世界大战炮火毁坏而作为世界文化遗产重建的城市",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.威海",
+          "OptionC" : "C.台儿庄古城"
+        },
+        {
+          "OptionB" : "B.枣庄",
+          "OptionA" : "A.东营",
+          "TopicContent" : "50.()在历史.上就是- -座水城，“汪”渠相连,随“汪”而居,很有特色,是- -座近百条水街、水巷形成的水巷纵横、以船代步的古水城。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D威海",
+          "OptionC" : "C.台儿庄"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块2： 第二组",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.辽河",
+          "OptionA" : "A.黄河",
+          "TopicContent" : "1.下列哪-项不是山东省分属的三大流域之一()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.海河",
+          "OptionC" : "C.淮河"
+        },
+        {
+          "OptionB" : "B.昭阳湖",
+          "OptionA" : "A.东平湖",
+          "TopicContent" : "2.古时称儿洼、大野泽、巨野泽、梁山泊、安山湖的(，是《水浒传》中八百里水泊唯遗存水域",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.南阳湖",
+          "OptionC" : "C.微山湖"
+        },
+        {
+          "OptionB" : "B.山东省人均水资源为世界人均占有量的4.0%(1\/25)",
+          "OptionA" : "A.山东省人均水资源仅为全国人均占有量的14.9%(小于1\/6",
+          "TopicContent" : "3.下列说法中不正确的-项是()。",
+          "AnswerArr" : [
+            "c"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]c [解析]山东省人均水资源位居全国各省(市、自治区)倒数第3位",
+          "OptionD" : "D.山东属于人均占有量小于500立方米的严重缺水地区",
+          "OptionC" : "C.山东省人均水资源位居全国各省(市、自治区)倒数第5位"
+        },
+        {
+          "OptionB" : "B.中南半岛",
+          "OptionA" : "A.辽东半岛",
+          "TopicContent" : "4.我国最大的半岛是()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]山东半岛是我国最大的半岛海岸线长3345公里,约占全国的1\/6毗邻海域面积15.95万平方公里,与陆域面积相当,海岛589个,海湾200余个",
+          "OptionD" : "D.山东半岛",
+          "OptionC" : "C.雷州半岛"
+        },
+        {
+          "OptionB" : "B.工业发达,小型企业较多",
+          "OptionA" : "A.工业总产值及工业增加值据中国各省前三位",
+          "TopicContent" : "5.关于山东工业,下列哪项的说法不正确()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]山东工业总产值及工业增加值据中国各省前三位,特别是一 些大型企业较多,号称“群象经济”。",
+          "OptionD" : "D.重工业企业发展迅速",
+          "OptionC" : "C.轻工业特别是纺织和食品工业相当发达"
+        },
+        {
+          "OptionB" : "B.中原官话主要分布在山东省",
+          "OptionA" : "A.鲁官话通行于河北省、天津市以及山东省",
+          "TopicContent" : "6.下列说法中不正确的- -项是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B [解析]中原官话分布在河南省、陕西省、安徽北部、江苏西北部及山东临沂、菏泽、枣庄、济宁、曲阜等30个县市在内的方言。",
+          "OptionD" : "D.山东青岛、烟台、威海,大致相当于人们常说的“胶东方言”的范围.",
+          "OptionC" : "C.胶辽官话分布在山东半岛和辽东半岛"
+        },
+        {
+          "OptionB" : "B.孔府菜",
+          "OptionA" : "A.胶东菜",
+          "TopicContent" : "7.鲁菜中崇尚“食不厌精,脍不厌细”的菜别是()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]在孔府日常生活中,孔府历代主人遵循先祖孔子“食不厌精,脍不厌.细”的遗训,对饮食要求精益求精,日常生活极其豪奢,此外还常迎迓圣驾,接待各级祭孔官员,因此孔府饮食酒宴频繁而讲究。",
+          "OptionD" : "D.济南菜",
+          "OptionC" : "C.博山菜"
+        },
+        {
+          "OptionB" : "B.粤菜",
+          "OptionA" : "A.湘菜",
+          "TopicContent" : "8.下列哪不属于清初四大菜系()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]发展到清代初期时,鲁、川菜、粵菜、苏菜,成为当时最有影响的地方菜,被称作“四大菜系”。",
+          "OptionD" : "D.苏菜",
+          "OptionC" : "C.鲁菜"
+        },
+        {
+          "OptionB" : "B.1994年",
+          "OptionA" : "A.1993年",
+          "TopicContent" : "9.孔庙、孔林、孔府是()被联合国列入《世界遗产名录》",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B[解析]孔庙、孔林、孔府是194年被联合国列入《世界遗产名录》的",
+          "OptionD" : "D.1996年",
+          "OptionC" : "C.1995年"
+        },
+        {
+          "OptionB" : "B.会当凌绝顶, -览众山小",
+          "OptionA" : "A.万塑泉声沉宝,千峰云影护样关",
+          "TopicContent" : "10.下列形容山东曲阜的是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C [解析] A,B项描写泰山;D项描写孔庙。",
+          "OptionD" : "D.德侔天地,道贯古今",
+          "OptionC" : "C.千年礼乐归东鲁,万古衣冠拜素王"
+        },
+        {
+          "OptionB" : "B.《封禅书》",
+          "OptionA" : "A.《邱陵歌》",
+          "TopicContent" : "11.自古以来,文人墨客酷爱描写泰山,下列哪一 项不是描写泰山的诗文",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]《下山歌是唐朝诗人宋之间描写嵩山的诗歌。“下嵩山兮多所思,携佳人兮步迟迟。松间明月长如此，君再游兮复何时?”",
+          "OptionD" : "D.《下山歌",
+          "OptionC" : "C.《望岳"
+        },
+        {
+          "OptionB" : "B.泰山日出、云海玉盘、晚霞夕照、黄河金带",
+          "OptionA" : "A.泰山日出云海玉盘、晚霞照、曲院风荷",
+          "TopicContent" : "12.号称泰山四大奇观的是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B [解析]泰山四大奇景是:泰山日出云海玉盘、晚霞夕照、黄河金带。“曲院风荷，断桥残雪,柳浪闻莺”是西湖美景。",
+          "OptionD" : "D.泰山日出、柳浪闻莺、晚霞夕照、黄河金带",
+          "OptionC" : "C.泰山日出、云海玉盘、断桥残雪、黄河金带."
+        },
+        {
+          "OptionB" : "B.因为自秦始皇封禅泰山后,历朝历代帝王不断在泰山封禅和祭祀,并且在泰山上下建庙塑神",
+          "OptionA" : "A.因为泰山比较雄伟",
+          "TopicContent" : "13.道教、佛教视泰山为“仙山佛国”的原因是( )",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析] A项只是客观条件,不足以成为“仙山佛国”的主要原因;C项是结果;D项无关",
+          "OptionD" : "D.因为泰山是“五岳之首”、“天下第一山”",
+          "OptionC" : "C.因为泰山的佛寺佛像众多"
+        },
+        {
+          "OptionB" : "B四条",
+          "OptionA" : "A.三条",
+          "TopicContent" : "14.崂山山脉以崂顶为中心,形成了(支脉",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B[解析]四条支脉,分别是巨峰、三标山、石门山和午山。",
+          "OptionD" : "D六条",
+          "OptionC" : "C.五条"
+        },
+        {
+          "OptionB" : "B.“东方第一城”",
+          "OptionA" : "A.“东方第一州”",
+          "TopicContent" : "15.青州被誉为( )",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]青州被誉为“东方第- -州”。",
+          "OptionD" : "D.“千年古州”",
+          "OptionC" : "C.“千年古城”"
+        },
+        {
+          "OptionB" : "B. “沂蒙革命老区",
+          "OptionA" : "A.“华东小延安”",
+          "TopicContent" : "16.井冈山、延安与沂蒙是中国革命战争时期最重要的三大老革命根据地,沂蒙曾被无数革命后人誉为)",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A[解析]临沂被称作“华东小延安“沂蒙革命老区不是称号;台儿庄被称为“天下第一-庄”。",
+          "OptionD" : "D.“天下第- -庄”",
+          "OptionC" : "C.“两战圣地、红色沂蒙”"
+        },
+        {
+          "OptionB" : "B.蓬莱山",
+          "OptionA" : "A.洲山",
+          "TopicContent" : "17.蓬莱阁以山、海、城、阁为格局,其中“山”指",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D[解析]洲,蓬莱,万丈被称为“三仙山”",
+          "OptionD" : "D丹崖山",
+          "OptionC" : "C.万丈山"
+        },
+        {
+          "OptionB" : "B.孔子曾带领部分弟子周游列国前后达十三年毕生写了六经即《诗《书《礼《乐《易》《春秋》",
+          "OptionA" : "A.孔子是春秋末期鲁国邑(今山东曲阜)人,中国古代思想家、教育家,儒家学派创始人",
+          "TopicContent" : "18.下列关于孔子的说法不正确的是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B[解析]孔子在晚年整理修订了六经，毕生写了六经是错误的。",
+          "OptionD" : "D.1994年孔庙、孔林、孔府被联合国列入《世界遗产名录》",
+          "OptionC" : "C.相传孔子曾问礼于老子,有弟子三千,其中贤人七十二"
+        },
+        {
+          "OptionB" : "B.孔子曾带领部分弟子周游列国前后达十三年,毕生写了六经即诗书礼乐易春秋",
+          "OptionA" : "A.《论语》是孔子的著作",
+          "TopicContent" : "19.下列关于孔子说法正确的一项是()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析] A项《论语》是孔子弟子根据孔子的言行整理编笔的一-部典籍;B项六经是孔子晚年整理的,不是孔子所作;C项是“春秋笔法”、“微言大义”",
+          "OptionD" : "D.“春秋三传”指《左传》《公羊传》《谷粱传》",
+          "OptionC" : "C.《春秋》用于记事的语言极为简练被后人称为“言简意”"
+        },
+        {
+          "OptionB" : "B孟子",
+          "OptionA" : "A.孔子",
+          "TopicContent" : "20.被称为“亚圣” 的是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B [解析]孟子被称为“亚圣”",
+          "OptionD" : "D.墨子",
+          "OptionC" : "C.荀子"
+        },
+        {
+          "OptionB" : "B刘公岛鲸馆",
+          "OptionA" : "A.中国甲午战争博物馆",
+          "TopicContent" : "21.[多选]下列属于威海刘公岛的景点的是()",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : ".[答案]ABCD[解析]刘公岛的主要景点有中国甲午战争博物馆、中国甲午战争博物馆刘公岛国家森林公园、刘公岛博览园、刘公岛鲸馆、旗顶山炮台、东泓炮台、铁码头等景点。因此本题选择ABCD",
+          "OptionD" : "D.中国甲午战争博物馆刘公岛国家森林公园",
+          "OptionC" : "C.东泓炮台"
+        },
+        {
+          "OptionB" : "B东夷之帝少昊",
+          "OptionA" : "A人文始祖伏羲",
+          "TopicContent" : "22. [多选]以下哪些名人出生在菏泽()",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : ". [答案] ABCD [解析]出现在菏泽的名人典故人文始祖伏羲、东夷之帝少昊、贤明君主帝舜、兵主战神蚩尤、改革家吴起、军事家孙膑、农学家汜胜之、经济学家刘晏、文学家温子升等大批圣贤,都出生在这里。因此本题选择ABCD",
+          "OptionD" : "D经济学家刘晏",
+          "OptionC" : "C.军事家孙膑"
+        },
+        {
+          "OptionB" : "B.查拳",
+          "OptionA" : "A.阿胶",
+          "TopicContent" : "23. [多选]在县,()被列为国家级非物质文化遗产",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : ".[答案]BCD[解析]冠县是名扬天下的查拳、柳林花鼓、郎庄面塑均起源于此均被列为国家级非物质文化遗产。冠县是中国鸭梨之乡,中国毛白杨之乡、全国平原绿化先进县。因此本题选择BCD",
+          "OptionD" : "D.郎庄面塑",
+          "OptionC" : "C.柳林花鼓"
+        },
+        {
+          "IsMultipleChoice" : true,
+          "OptionA" : "A.德州扒鸡B金丝小枣C.保店驴肉D.德州黑陶",
+          "AnswerContent" : ". [答案] ABCD [解析]德州扒鸡、金丝小枣、保店驴肉、德州黑陶等地方特产驰名海内外，其中,德州扒鸡、保店驴肉、乐陵金丝小枣被称为德州三宝因此本题选择ABCD",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D",
+            "B",
+            "C",
+            "D"
+          ],
+          "TopicContent" : "24. [多选]以下哪些是德州特产()"
+        },
+        {
+          "OptionB" : "B.旦",
+          "OptionA" : "A.生",
+          "TopicContent" : "25. [多选]吕表演基本上形成那几大行当()",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案]ABCD",
+          "OptionD" : "D.丑",
+          "OptionC" : "C.净"
+        },
+        {
+          "IsMultipleChoice" : true,
+          "OptionA" : "A.顺和班B.义和班C.庆和班D顺义班",
+          "AnswerContent" : ". [答案] ABC [解析] 20世纪初滨州吕剧先后组成了“顺和班”、“义和班”和“庆和班\"。至此，吕剧表演基本.上形成生、旦、净、丑四大行当因此本题选择ABC",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "B",
+            "C"
+          ],
+          "TopicContent" : "26. [多选] 20世纪初滨州吕剧先后组成了()"
+        },
+        {
+          "OptionB" : "B.台儿庄大捷,抗战抗日战争中期的三大胜利之一,被称为抗战以来最大的大捷",
+          "OptionA" : "A.台儿庄古城内有古河道、古码头、中华古水城、台儿庄大战纪念馆、海峡两岸交流基地",
+          "TopicContent" : "27. [多选]下列关于台儿庄古城说法正确的一项是()",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] AC [解析]台儿庄大捷,抗战抗日战争初期的战争;古城发展于唐宋。因此本题选择AC。.",
+          "OptionD" : "D.古城始于秦汉,发展于宋,繁荣于明清,有“天下第一”之称",
+          "OptionC" : "C.台儿庄被称为“京杭运河仅存的遗产村庄”"
+        },
+        {
+          "OptionB" : "B文昌阁",
+          "OptionA" : "A.黄鹤楼",
+          "TopicContent" : "28.[多选]蓬莱阁始建于北宋嘉佑6年(公元1061年,与(并称为“中国四大名楼”。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ACD [解析]蓬莱阁与黄鹤楼、岳阳楼、滕王阁并称为“中国四大名楼”。",
+          "OptionD" : "D.滕王阁",
+          "OptionC" : "C.岳阳楼"
+        },
+        {
+          "OptionB" : "B.黑虎泉",
+          "OptionA" : "A.珍珠泉",
+          "TopicContent" : "29.[多选]济南以“泉城”而闻名,泉水之多可算是全国之最了平均每秒就有4立方米的泉水涌出来,济南比较著名的几个泉是()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD [解析]济南比较著名的几个泉有珍珠泉、黑虎泉、金线泉、趵突泉。因此本题选择ABCD",
+          "OptionD" : "D趵突泉",
+          "OptionC" : "C.金线泉"
+        },
+        {
+          "OptionB" : "B水帘峡",
+          "OptionA" : "A.济南千佛山",
+          "TopicContent" : "30.[多选]实泉与()并称为济南三大名胜。",
+          "AnswerArr" : [
+            "A",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : ". [答案] AD [解析]趵突泉是泉城济南的象征与标志，与济南千佛山、大明湖并称为济南三大名胜。",
+          "OptionD" : "D大明湖",
+          "OptionC" : "C.九如山瀑布"
+        },
+        {
+          "OptionB" : "B.最早提出“民贵君轻”的思想",
+          "OptionA" : "A.在人性方面,主张“性恶论”",
+          "TopicContent" : "31.下列不是孟子的代表思想的是()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]荀子主张“性恶论。”",
+          "OptionD" : "D.易子而教",
+          "OptionC" : "C.宣扬“仁政”对人民“省刑罚,薄税”"
+        },
+        {
+          "OptionB" : "B.“穷则独善其身,达则兼济天下。”",
+          "OptionA" : "A.“天时不如地利地利不如人和。”",
+          "TopicContent" : "32.下列不属于孟子的言论是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C [解析] c项是荀子的言论。",
+          "OptionD" : "D.“富贵不能淫,贫贱不能移，威武不能屈。”",
+          "OptionC" : "C.“礼,所以正身也师,所以正礼也。”"
+        },
+        {
+          "OptionB" : "B.墨子是墨家学派的创始人,战国时期著名的思想家、教育家、科学家、军事家",
+          "OptionA" : "A.“科圣”专指的是墨子",
+          "TopicContent" : "33.下列说法不正确的是()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]科圣有两种说法,一说墨子,- -说张衡",
+          "OptionD" : "D.墨子在战国时期创立了以几何学、物理学、光学为突出成就的一整套科学理论",
+          "OptionC" : "C.墨子是中国历史上睢-个农民出身的哲学家"
+        },
+        {
+          "OptionB" : "B.中国著名的思想家,孔子的晚期弟子之，与其父点同师孔子",
+          "OptionA" : "A.曾子中国著名的思想家,孔子的早期弟子之一，与其父曾点同师孔子",
+          "TopicContent" : "34.下列关于曾子的说法不正确的是。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]曾子是孔子晚期的弟子。",
+          "OptionD" : "D.元代加封曾子:“朕惟孔子之道,曾氏独得其宗盖本于诚身而然也",
+          "OptionC" : "C.曾子杀猪的典故在后世广为流传"
+        },
+        {
+          "OptionB" : "B.主张以孝恕忠信为核心的儒家思想",
+          "OptionA" : "A提出“民贵君轻”的思想",
+          "TopicContent" : "35.下列属于曾子的思想的是()",
+          "AnswerArr" : [
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案]B[解析]AD为孟子的主张,C项为墨子的主张",
+          "OptionD" : "D.宣扬“仁政”",
+          "OptionC" : "C.以兼爱为核心,以节用、尚贤为支点"
+        },
+        {
+          "OptionB" : "B孙膑",
+          "OptionA" : "A.孙武",
+          "TopicContent" : "36.被称为“兵圣”的是(。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.姜子牙",
+          "OptionC" : "C.吴起"
+        },
+        {
+          "OptionB" : "B.吴起",
+          "OptionA" : "A.孙膑",
+          "TopicContent" : "37.《孙子兵法》为后世兵法家所推崇,被誉为“兵学圣典\" ,它的作者是(",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D姜子牙",
+          "OptionC" : "C.孙武"
+        },
+        {
+          "OptionB" : "B.田忌赛马",
+          "OptionA" : "A.马陵之战",
+          "TopicContent" : "38.下列与孙膑无关的典故是（）",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D塞翁失马",
+          "OptionC" : "C.桂陵之战"
+        },
+        {
+          "OptionB" : "B林则徐",
+          "OptionA" : "A.史可法",
+          "TopicContent" : "39.下列属于山东省的民族英雄是",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]左宝贵,字冠廷,山东费县地方集(今属山东省临沂市平邑县)人，回族。清末著名民族英雄,甲午战争“三英”之一。",
+          "OptionD" : "D左宝贵",
+          "OptionC" : "C.邓世昌"
+        },
+        {
+          "OptionB" : "B班门弄斧",
+          "OptionA" : "A.弄巧成拙",
+          "TopicContent" : "40.下列与鲁班相关的成语是()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B",
+          "OptionD" : "D举一反三",
+          "OptionC" : "C.工欲善其事必先利其器"
+        },
+        {
+          "OptionB" : "B.1986",
+          "OptionA" : "A.1985",
+          "TopicContent" : "41.“建筑工程鲁班奖”是哪-年设立的()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]鲁班奖的全称为“建筑工程鲁班奖“建筑工程鲁班奖是1987年由中国建筑业联合会设立的。",
+          "OptionD" : "D. 1988",
+          "OptionC" : "C.1987"
+        },
+        {
+          "OptionB" : "B.闻鸡起舞",
+          "OptionA" : "A.书成换鹅",
+          "TopicContent" : "42.下列与王羲之无关的典故是()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B[解析]闻鸡起舞反映的是西晋时期的祖逖勤学练武的故事。",
+          "OptionD" : "D.入木三分",
+          "OptionC" : "C.东床快婿"
+        },
+        {
+          "OptionB" : "B.南宋豪放派词人、将领,有“词中之龙”之称现存词六百多首,有词集《稼轩长短句》等传世",
+          "OptionA" : "A.第二次鹅湖之会的是辛弃疾和陈亮.",
+          "TopicContent" : "43.下列关于辛弃疾说法不正确的是)。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]辛弃疾曾任江西安抚使。",
+          "OptionD" : "D.辛弃疾生于金国，少年抗金归宋，曾任浙江安抚使、福建安抚使等职",
+          "OptionC" : "C.与苏轼合称“苏辛”, 与李清照并称“济南二安”"
+        },
+        {
+          "OptionB" : "B.王補",
+          "OptionA" : "A.贾思總",
+          "TopicContent" : "44.下列不属于山东古代的农学家的是()",
+          "AnswerArr" : [
+            "c"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]c [解析]徐光启字子先,上海县法华汇(今上海市)人明代著名科学家、政治家。毕生致力于数学、天文、历法、水利等方面的研究,勤奋著述,尤精晓农学,译有《几何原本》《泰西水法》《农政全书》等著书。",
+          "OptionD" : "D汜胜之",
+          "OptionC" : "C.徐光启"
+        },
+        {
+          "OptionB" : "B.《农政全书",
+          "OptionA" : "A.《胜之书",
+          "TopicContent" : "45.-般认为中我国最早的-部农书是(",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A[解析《胜之书》一般认为中我国最早的- - 部农书。",
+          "OptionD" : "D.《齐民要术",
+          "OptionC" : "C.《农书"
+        },
+        {
+          "OptionB" : "B.《汜胜之书》成书于西汉,一般认为中我国最早的一部农书",
+          "OptionA" : "A.胜之所编著的《汜胜之书》,总结了我国古代黄河流域劳动人民的农业生产经验,记述了耕作原则和灌溉技术",
+          "TopicContent" : "46.下列关于胜之说法错误的一项是()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ". [答案]A [解析]《胜之书》记述了耕作原则和作物栽培技术,不是灌溉技术。",
+          "OptionD" : "D.“区田法’把耕地分为上、中、下农区三种类型通过深耕、勤浇、精管,使农作物获得高产",
+          "OptionC" : "C.《胜之书》首次记载了“区田”技术,这是一-种园艺式的精耕细作高产的耕作技术"
+        },
+        {
+          "OptionB" : "B.《农书》",
+          "OptionA" : "A.《农政全书",
+          "TopicContent" : "47.王象晋的代表作品是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]王象晋编撰的《群芳谱》是我国17世纪初期论述多种作物生产及与生产有关的一些问题的巨著。.",
+          "OptionC" : "C.《群芳谱《泰西水法"
+        },
+        {
+          "OptionB" : "B.王祯是中国古代农学、农业机械学家、儒家学者",
+          "OptionA" : "A.代表作《王祯农书在中国农学史上占有极其重要的地位",
+          "TopicContent" : "48.下列关于王说法错误的是",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B [解析]王祯是道家学者。",
+          "OptionD" : "D.继承了前人在农学研究上所取得的成果总结了元朝以前农业生产实践的丰富经验,全面系统地解释了广义农业生产所包括的内容和范围",
+          "OptionC" : "C.王祯是中国古代著名的四大农学家之一,同汉代的汜胜之、后魏的贾思勰、明代的徐光启齐名"
+        },
+        {
+          "OptionB" : "B.1\/6",
+          "OptionA" : "A.2\/5",
+          "TopicContent" : "49.山东拥有未利用土地1.43万平方公里,海岸线3340公里,占全国",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B [解析]山东拥有未利用土地1.43万平方公里,海岸线3340公里,占全国1\/6",
+          "OptionD" : "D.1\/4",
+          "OptionC" : "C.1\/5"
+        },
+        {
+          "OptionB" : "B.1\/6",
+          "OptionA" : "A.2\/5",
+          "TopicContent" : "50.山东农业增加值居全国第- -位,农产 品出口占全国()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]农业增加值居全国第-位农产品出口占全国1\/4",
+          "OptionD" : "D.1\/4",
+          "OptionC" : "C.1\/5"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块3： 第三组",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.周村",
+          "OptionA" : "A.东营",
+          "TopicContent" : "1.()是古代伟大的军事家孙武故里、山东地方代表戏曲吕剧的发源地和中国第二大石油工业基地胜利油田崛起地。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "答案A",
+          "OptionD" : "D.张店",
+          "OptionC" : "C.枣庄"
+        },
+        {
+          "OptionB" : "B.五音戎, 1901",
+          "OptionA" : "A.呂刷, 1900",
+          "TopicContent" : "2.是山床省主要的地方戎曲刷神,始成于(年,当肘被芝人們称之カ“化(上)牧拐琴”,而民介則以“皰鈩戎”、“将戎”或“小戎”等称之",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.柳腔,1903",
+          "OptionC" : "C.柳琴戎, 1902"
+        },
+        {
+          "OptionB" : "B.周村",
+          "OptionA" : "A.泰安",
+          "TopicContent" : "3.境内的泰山是国家重点夙景名肚区，有“五岳之首”、“天下第- -山”的美誉,是世界自然与文化遺六。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.張店",
+          "OptionC" : "C.麥庄"
+        },
+        {
+          "OptionB" : "B.香港、深圳、台湾、九龙、威海卫(今山东威海市)、广州湾(今广东湛江市)和旅大(旅顺大连)",
+          "OptionA" : "A.香港、澳、日照、九だ、威海ヱ(今山末威海市)、广州湾(今广未湛江市)和旅大(旅順大達)",
+          "TopicContent" : "4.七子是指当肘被列強霸占的七快土地:的筒称七子又指七个人的合称",
+          "AnswerArr" : [
+            "c"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]c [解析]七子是指当时被列强霸占的七块土地香港、澳门、台湾、九龙、威海卫(今山东威海市)、广州湾(今广东湛江市和旅大(旅顺大连的简称七子又指七个人的合称。",
+          "OptionD" : "D.香港、澳门、台湾、九龙、潍坊、广州湾今广东湛江市)和旅大(旅顺大连.",
+          "OptionC" : "C.香港、澳门、台湾、九龙、威海卫(今山东威海市)、广州湾(今广东湛江市)和旅大(旅顺大连)"
+        },
+        {
+          "OptionB" : "B.美国",
+          "OptionA" : "A.英国",
+          "TopicContent" : "5.《七子之歌》是近代爱国主义诗人闻一多于1925年3月在(留学期间创作的组诗作品",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]《七子之歌》是近代爱国主义诗人闻一多于1925年3月在美国留学期间创作的组诗作品",
+          "OptionD" : "D俄罗斯",
+          "OptionC" : "C.法国"
+        },
+        {
+          "OptionB" : "C.渤海区党委机关驻地",
+          "OptionA" : "A.黄河文化和齐文化的发祥地之- B是渤海革命老区中心区",
+          "TopicContent" : "6.以下关于滨州历史文化叙述错误的是()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionC" : "D是儒家文化的发祥地"
+        },
+        {
+          "OptionB" : "B著名军事思想家孙武",
+          "OptionA" : "A.李清照",
+          "TopicContent" : "7.以下哪位不是滨州出生或生长的人物()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D宋代著名政治家范仲淹",
+          "OptionC" : "C.汉孝子董"
+        },
+        {
+          "OptionB" : "B.滨州魏氏庄园",
+          "OptionA" : "A.滨州高氏庄园",
+          "TopicContent" : "8.()是我国北方唯一现存的城堡式庄园，是清代武定府同知魏肇庆的私人宅地",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D德州李氏庄园",
+          "OptionC" : "C德州魏氏庄园"
+        },
+        {
+          "OptionB" : "B.金丝小枣",
+          "OptionA" : "A.德州扒鸡",
+          "TopicContent" : "9.以下哪个不属于德州三宝()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D.德州黑陶",
+          "OptionC" : "C.保店驴肉"
+        },
+        {
+          "OptionB" : "B.江南水城之乡",
+          "OptionA" : "A.中国北方的威尼斯",
+          "TopicContent" : "10.聊城是国家历史文化名城,聊城城区独具“江北水城”特色素有(之称",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A [解析]聊城是国家历史文化名城聊城城区独具“江北水城”特色,素有“中国北方的威尼斯”之称。2018 年10月，获得“国家森林城市称号",
+          "OptionD" : "D中国南方的尼斯",
+          "OptionC" : "C.江北水城之乡"
+        },
+        {
+          "OptionB" : "B.轴承之乡",
+          "OptionA" : "A.京剧之乡",
+          "TopicContent" : "11.以下哪些不是临清的美称",
+          "AnswerArr" : [
+            "c"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]c[解析]临清是山东快书诞生地、四大奇书之一《 金瓶梅》故事背景地、梨花大鼓(犁铧大鼓)发起地,是京剧之乡、轴承之乡书画之乡武术之乡和酱菜之乡,“山东省社会文化先进县”、“省级文化生态保护区”、“山东省历史文化街区”、“山东省民间艺术之乡”。",
+          "OptionD" : "D轴承之乡",
+          "OptionC" : "C.丝绸之乡"
+        },
+        {
+          "OptionB" : "B.中国杂技艺术之乡",
+          "OptionA" : "A.中国阿胶之乡",
+          "TopicContent" : "12.以下哪些不是东阿的美称()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]东阿,居黄河之滨,属千年古县,是中国阿胶之乡、中国杂技艺术之乡、中国黄河鲤鱼之乡、中国油用牡丹之乡、中国驴肉美食之乡,全国绿化模范县、国家级生态示范区、中国绿色名县、国家园林县城、中国最佳养生休闲旅游名县,省级园林城、省级文明县、平安山东建设先进县。",
+          "OptionD" : "D中国驴肉美食之乡",
+          "OptionC" : "C中国丝绸之乡"
+        },
+        {
+          "OptionB" : "B.临清",
+          "OptionA" : "A东阿",
+          "TopicContent" : "13.被誉为中国油用牡丹之乡的是",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]东阿,居黄河之滨,属千年古县，是中国阿胶之乡、中国杂技艺术之乡、中国黄河鲤鱼之乡、中国油用牡丹之乡、中国驴肉美食之乡,全国绿化模范县、国家级生态示范区、中国绿色名县、国家园林县城、中国最佳养生休闲旅游名县,省级园林城、省级文明县、平安山东建设先进县。",
+          "OptionD" : "D高唐县",
+          "OptionC" : "C.冠县"
+        },
+        {
+          "OptionB" : "B.中国毛白杨之乡",
+          "OptionA" : "A.中国鸭梨之乡",
+          "TopicContent" : "14.以下哪些不是冠县的美称()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]冠县是名扬天下的查拳、柳林花鼓、郎庄面塑均起源于此均被列为国家级非物质文化遗产。冠县是中国鸭梨之乡、中国毛白杨之乡、全国平原绿化先进县。",
+          "OptionD" : "D.中国驴肉美食之乡",
+          "OptionC" : "C.全国平原绿化先进县"
+        },
+        {
+          "OptionB" : "B.中国书画艺术之乡",
+          "OptionA" : "A.中国鸭梨之乡",
+          "TopicContent" : "15.以下哪些不是高唐县的美称()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]高唐县是中国书画艺术之乡全国文明县城、国家园林县城、全国社会治安综合治理先进县、全国科技进步先进县、全国依法治县先进县、全国社会管理创新工作试点县、中国平板精密机械之乡、中国建筑机械制造之乡、中国锦鲤第一县。",
+          "OptionD" : "D全国文明县城",
+          "OptionC" : "C.中国平板精密机械之乡"
+        },
+        {
+          "OptionB" : "B.I临清",
+          "OptionA" : "A.东阿",
+          "TopicContent" : "16.被誉为中国建筑机械制造之乡的是()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]高唐县是中国书画艺术之乡、全国文明县城、国家园林县城、全国社会治安综合治理先进县、全国科技进步先进县全国依法治县先进县、全国社会管理创新工作试点县、中国平板精密机械之乡、中国建筑机械制造之乡、中国锦鲤第- -县。",
+          "OptionD" : "D高唐县",
+          "OptionC" : "C.冠县"
+        },
+        {
+          "OptionB" : "B.临清",
+          "OptionA" : "A.东阿",
+          "TopicContent" : "17.被誉为中国锦鲤第一县的是( )",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]高唐县是中国书画艺术之乡、全国文明县城、国家园林县城、全国社会治安综合治理先进县、全国科技进步先进县、全国依法治县先进县、全国社会管理创新工作试点县、中国平板精密机械之乡、中国建筑机械制造之乡中国锦鲤第-县",
+          "OptionD" : "D.高唐县",
+          "OptionC" : "C.冠县"
+        },
+        {
+          "OptionB" : "B东夷之都",
+          "OptionA" : "A鸭梨之乡",
+          "TopicContent" : "18.以下哪个不是阳谷县的美称()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]阳谷县有“东夷之都、千年古城、武松故乡”之称。境内有武松打虎的景阳冈、武松斗杀西门庆的狮子棱、孙膑与庞滑斗智的速魂阵等旅游景点。",
+          "OptionD" : "D武松故乡",
+          "OptionC" : "C.千年古城"
+        },
+        {
+          "OptionB" : "B.临清",
+          "OptionA" : "A.东阿",
+          "TopicContent" : "19.境内有武松打虎的景阳冈、武松斗杀西i门庆的狮子楼、孙膑与庞斗智的迷魂阵等旅游景点的县是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]阳谷县有“东夷之都千年古城、武松故乡”之称。境内有武松打虎的景阳冈、武松斗杀西门庆的狮子楼、孙膑与庞滑斗智的迷魂阵等旅游景点。",
+          "OptionD" : "D高唐县",
+          "OptionC" : "C.阳谷县"
+        },
+        {
+          "OptionB" : "B.中国蔬菜第-县",
+          "OptionA" : "A.中国鸭梨之乡",
+          "TopicContent" : "20.以下哪些不是萃县的美称()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]莘县是中国蔬菜第一县、中国香之乡中国双孢菇之乡、中国小肉食鸡之乡、中国塑编城。.",
+          "OptionD" : "D.中国双孢菇之乡",
+          "OptionC" : "C.中国香瓜之乡"
+        },
+        {
+          "OptionB" : "B.临清",
+          "OptionA" : "A.东阿",
+          "TopicContent" : "21.被誉为中国塑编城的是()",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]莘县是中国蔬菜第-县、中国香瓜之乡、中国双孢菇之乡、中国小肉食鸡之乡、中国塑编城。",
+          "OptionD" : "D莘县",
+          "OptionC" : "C.冠县"
+        },
+        {
+          "OptionB" : "B莱芜",
+          "OptionA" : "A.济南",
+          "TopicContent" : "22.山东省首个中国书法名城是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]临沂作为中国第--批中国书法名城,山东省首个中国书法名城。",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.临沂"
+        },
+        {
+          "OptionB" : "B.莱芜",
+          "OptionA" : "A.济南",
+          "TopicContent" : "23.被誉为中国板材之都是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ". [答案]C[解析]临沂作为“中国板材之都”,每年定期、定点、连续的举办人造板产业博览会。",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.临沂"
+        },
+        {
+          "OptionB" : "B.莱芜",
+          "OptionA" : "A.济南",
+          "TopicContent" : "24.在山东享有“天下之中”的美誉的是(",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]菏泽，是著名的中国牡丹之都、武术之乡书画之乡、戏曲之乡民间艺术之乡。享有“天下之中”的美誉",
+          "OptionD" : "D.菏泽",
+          "OptionC" : "C.临沂"
+        },
+        {
+          "OptionB" : "B.曹操成就霸业",
+          "OptionA" : "A.雁塔题名",
+          "TopicContent" : "25.以下哪些典故不是在菏泽发生的(",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]刘邦登基称帝、曹操成就霸业、黄巢起义、宋江聚义等都发生在荷泽",
+          "OptionD" : "D宋江聚义",
+          "OptionC" : "C.黄巢起义"
+        },
+        {
+          "OptionB" : "B.中国武术之乡",
+          "OptionA" : "A.中国好汉之乡",
+          "TopicContent" : "26.郓城水浒文化旅游资源丰富,被评为山东省首批旅游强县,荣膺()称号",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ".[答案]A[解析]郓城水浒文化旅游资源丰富,被评为山东省首批旅游强县,荣膺“中国好汉之乡”称号。",
+          "OptionD" : "D.中国戏曲之乡",
+          "OptionC" : "C.中国书画之乡"
+        },
+        {
+          "OptionB" : "B.临清",
+          "OptionA" : "A.东阿",
+          "TopicContent" : "27.享有“书山戏海,筝琴之乡”之称的是",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D[解析]城县享有“书山戏海,筝琴之乡”之称,山东戏曲界有句俗话“无郓不成戏”。",
+          "OptionD" : "D郓城",
+          "OptionC" : "C.冠县"
+        },
+        {
+          "OptionB" : "B.临清",
+          "OptionA" : "A.东阿",
+          "TopicContent" : "28.山东枣梆的发源地、全国四大古老剧种之- -柳子戏的发祥地是",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]城是 山东枣梆的发源地、全国四大古老剧种 之--柳子戏的发祥地，也是鲁西南流行最广的剧种山东梆子、两夹弦的发祥地。",
+          "OptionD" : "D.郓城",
+          "OptionC" : "C.冠县"
+        },
+        {
+          "OptionB" : "B.②③④⑤⑥",
+          "OptionA" : "A.①②③⑤⑥",
+          "TopicContent" : "29.下列属于泰山的别称的是()。①岱山②岱宗③岱岳④东岳太山⑥泰岳",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]“太山”是华山的别称。",
+          "OptionD" : "D.①②③④⑥",
+          "OptionC" : "C.①③④⑤⑥"
+        },
+        {
+          "OptionB" : "B.①②④⑤",
+          "OptionA" : "A.①②③④",
+          "TopicContent" : "30.青岛,国家历史文化名城、中国道教发祥地因树木繁多,四季常青而得名。被誉为①中国帆船之都②世界啤酒之城③联合国“电影之都”④“东方瑞士”欧韵之都中国品牌之都",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D [解析]青岛,国家历史文化名城中国道教发祥地,因树木繁多,四季常青而得名。中国帆船之都,世界啤酒之城、联合国“电影之都”、被誉为“东方瑞士”欧韵之都,中国品牌之都。",
+          "OptionD" : "D.①②③④⑤",
+          "OptionC" : "C.①③④⑤"
+        },
+        {
+          "OptionB" : "B.②③④",
+          "OptionA" : "A.①②③④",
+          "TopicContent" : "31.儒家创始人()皆出生于济宁。元明清时期,京杭大运河促进了济宁商品经济的繁荣,使济宁成为京杭大运河沿岸重要的工商业城市中国楹联文化市①至圣孔子②亚圣孟子③复圣颜回④史家左丘明",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析]儒家创始人至圣孔子、亚圣孟子、复圣颜回、史家左丘明皆出生于此。元明清时期,京杭大运河促进了济宁商品经济的繁荣,使济宁成为京杭大运河沿岸重要的工商业城市。中国楹联文化市。",
+          "OptionD" : "D.①②③",
+          "OptionC" : "C.①④"
+        },
+        {
+          "OptionB" : "B.②③④",
+          "OptionA" : "A.①②③④",
+          "TopicContent" : "32.济宁市()被联合国教科文组织列入世界遗产名录①曲阜孔庙②孔府③孔林④境内的京杭大运河",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]济宁市曲阜孔庙、孔府及孔林和境内的京杭大运河被联合国教科文组织列入世界遗产名录。",
+          "OptionD" : "D.①②③",
+          "OptionC" : "C.①③④"
+        },
+        {
+          "OptionB" : "B.②③④",
+          "OptionA" : "A.①③④",
+          "TopicContent" : "33.曲阜盛产的()被誉为“曲阜三宝①曲阜香稻②果旦杏③矿泉水④龙头手杖",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C[解析]曲阜盛产的曲阜香稻、果旦杏、矿泉水被誉为“曲阜三宝”。",
+          "OptionD" : "D.①③④",
+          "OptionC" : "C.①②③"
+        },
+        {
+          "OptionB" : "B.②③④⑤⑥",
+          "OptionA" : "A.①②③④⑤",
+          "TopicContent" : "34.曲阜生产的()被誉为“鲁中五绝”①孔府家酒②楷雕如意③全毛地毯④龙头手杖⑤尼山石砚⑥果旦杏",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ". [答案]A[解析]生产的孔府家酒、楷雕如意、全毛地毯、龙头手杖和尼山石砚被誉为“鲁中五绝\"",
+          "OptionD" : "D.①②⑤⑥",
+          "OptionC" : "C.①②④"
+        },
+        {
+          "OptionB" : "B.②③",
+          "OptionA" : "A.①②",
+          "TopicContent" : "35.淄博市博山区有()等荣誉称号。①“中国陶瓷琉璃艺术之乡”②“中国琉璃之乡”③“中国鲁菜名城”",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ". [答案]C[解析]博山区有“中国陶瓷琉璃艺术之乡”、“中国琉璃之乡”、“中国鲁菜名城”等荣誉称号。",
+          "OptionD" : "D.①",
+          "OptionC" : "C.①②③"
+        },
+        {
+          "OptionB" : "B.①②④⑤",
+          "OptionA" : "A.①②③④⑤",
+          "TopicContent" : "36.下列属于博山区国家重点文物保护单位的是)①颜文姜祠②碧霞元君行宫③玉皇官④范公祠⑤凤凰山",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A [解析]博山区有国家重点文物保护单位颜文姜祠、碧霞元君行宫、玉皇宫、范公祠,凤凰山等。",
+          "OptionD" : "D.①②③④",
+          "OptionC" : "C.①②④⑤"
+        },
+        {
+          "OptionB" : "B.①②",
+          "OptionA" : "A.①②③",
+          "TopicContent" : "37.周村,为百年商埠,号称(),有保存完好的周村古商城,以丝绸和周村烧饼闻名①“天下第一村”②“金周村”③“早码头”",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A [解析]周村,为百年商埠,号称“天下第一村”、“金周村”、“旱码头”，有保存完好的周村古商城,以丝绸和周村烧饼闻名。",
+          "OptionD" : "D.①③",
+          "OptionC" : "C.②③"
+        },
+        {
+          "OptionB" : "B①②③④",
+          "OptionA" : "A.②③④",
+          "TopicContent" : "38.下列属于日照的荣誉的是①新亚欧大陆桥东方桥头堡②水上运动之都③世界清洁能源奖获得城市④东陇海核心城市",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ".[答案]B[解析]日照是新亚欧大陆桥东方桥头堡,水上运动之都,世界清洁能源奖获得城市,东陇海核心城市",
+          "OptionD" : "D.①②③",
+          "OptionC" : "C.①④"
+        },
+        {
+          "OptionB" : "B.①②③④",
+          "OptionA" : "A.②③④",
+          "TopicContent" : "39.下列属于日照市的岛屿的是①平岛②达山岛③车牛山岛④太公岛",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B [解析]日照市有岛屿4个,分别是平岛、达山岛、车牛山岛、太公岛。",
+          "OptionD" : "D.①②③",
+          "OptionC" : "C.①③④"
+        },
+        {
+          "OptionB" : "B.3",
+          "OptionA" : "A.4",
+          "TopicContent" : "40.日照市共有()个岛屿",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A[解析]日照市有岛屿4个,分别是平岛、达山岛、车牛山岛、太公岛",
+          "OptionD" : "D.6.",
+          "OptionC" : "C.5"
+        },
+        {
+          "OptionB" : "B.山东地形包括山地、丘陵、高原、盆地、平原等多种类型",
+          "OptionA" : "A.山东地势中部为凸起的山脉,西南、西北是低洼的平原",
+          "TopicContent" : "41.下列关于山东地形说法错误的是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]B[解析 ]山东地形包括山地、 丘陵、盆地、平原、湖泊等多种类型,不包括 高原",
+          "OptionD" : "D.山东东部缓丘起伏，为我国三大丘陵之一",
+          "OptionC" : "C.山东的西部及北部属华北平原的-部分"
+        },
+        {
+          "OptionB" : "B.费县人",
+          "OptionA" : "A.即墨人",
+          "TopicContent" : "42.据考古发现,山东省境内已知的最早人类为()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.元谋人",
+          "OptionC" : "C.沂源人"
+        },
+        {
+          "OptionB" : "B茶艺",
+          "OptionA" : "A.铁",
+          "TopicContent" : "43.后李文化遗址的发现证明了,博的历史最早可上溯到新石器时期的后李文化时代",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : ".[答案]D[解析]后李文化,因首次发掘于山东淄博市临淄区后李文化遗址而得名",
+          "OptionD" : "D.陶瓷",
+          "OptionC" : "C.纺织"
+        },
+        {
+          "OptionB" : "B.后李文化",
+          "OptionA" : "A.北辛文化",
+          "TopicContent" : "44.()遗址出现了夫妻合葬和夫妻带孩子的合葬,这标志着母系社会的结束,开始进入父系氏族社会",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.大口文化",
+          "OptionC" : "C.龙山文化"
+        },
+        {
+          "OptionB" : "B.青州",
+          "OptionA" : "A充州",
+          "TopicContent" : "45.夏禹分九州时,山东属于0",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.豫州",
+          "OptionC" : "C.徐州"
+        },
+        {
+          "OptionB" : "B刘齐",
+          "OptionA" : "A.姜齐",
+          "TopicContent" : "46. [多选]被评价为春秋四大国之一的齐国怡在山东境内事实上齐国可分为(和两个时代。",
+          "AnswerArr" : [
+            "A",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案]AC",
+          "OptionD" : "D.鲁齐",
+          "OptionC" : "C.田齐"
+        },
+        {
+          "OptionB" : "B枣庄市",
+          "OptionA" : "A.济宁市",
+          "TopicContent" : "47.春秋战国时期的鲁国国力最强时其疆域北至泰山南达徐淮东至黄海,西抵山东定陶一.带,其统治核心区大都位于今山东省境内为周王朝控制东方的--个重要邦国",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.荷泽市",
+          "OptionC" : "C.泰安市"
+        },
+        {
+          "OptionB" : "B燕国",
+          "OptionA" : "A齐国",
+          "TopicContent" : "48.在周代的介多邦国中,(是典型周礼的保存者和突施者。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案|C",
+          "OptionD" : "D魏国",
+          "OptionC" : "C.魯国"
+        },
+        {
+          "OptionB" : "B.鲁文化看重伦理",
+          "OptionA" : "A.齐文化崇尚功利",
+          "TopicContent" : "49.关于齐鲁文化，下列说法中不正确的是()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D鲁文化尊重传统",
+          "OptionC" : "C.齐文化追求复古"
+        },
+        {
+          "OptionB" : "B亢父",
+          "OptionA" : "A.定陶",
+          "TopicContent" : "50.汉代时,下列哪个城市不是全国三大纺织中心之(,大理精致的纺织品自三大纺织中心流向全国甚至贸与西域",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C [解析]山东是汉代“丝绸之路”的重要源头。",
+          "OptionD" : "D.临淄",
+          "OptionC" : "C.清河"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3520 @@
+{
+  "TITLE" : "专项：党史专题（280题）",
+  "MODULEARRS" : [
+    {
+      "ModuleTitile" : "模块1: 单项选择题(230题)",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.1927年",
+          "OptionA" : "A.1921年",
+          "TopicContent" : "1、8月1日，南昌起义打响了武装反抗国民党反动派的第一枪，标志着中国共产党独立领导武装斗争的开始。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案B",
+          "OptionD" : "D.1931年",
+          "OptionC" : "C.1928年"
+        },
+        {
+          "OptionB" : "B.中华民国国民政府",
+          "OptionA" : "A.陕甘宁边区政府",
+          "TopicContent" : "2、中国共产党最早建立起来的革命政府是()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.中华苏维埃共和国临时中央政府",
+          "OptionC" : "C.广州苏维埃政府"
+        },
+        {
+          "OptionB" : "B.八七会议",
+          "OptionA" : "A遵义会议",
+          "TopicContent" : "3、1927年8月，中国共产党确定实行土地革命和武装起义方针的会议是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.洛川会议",
+          "OptionC" : "C.中共六大"
+        },
+        {
+          "OptionB" : "B.张发奎",
+          "OptionA" : "A.叶挺",
+          "TopicContent" : "4、1927 年12月，我党领导发动的广州起义中，英勇牺牲的领导人是()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.张太雷",
+          "OptionC" : "C.叶剑英"
+        },
+        {
+          "OptionB" : "B.井冈山革命根据地",
+          "OptionA" : "A.湘鄂西革命根据地",
+          "TopicContent" : "5、大革命失败后，中国共产党创建的第-一个农村革命根据地是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.鄂豫皖革命根据地",
+          "OptionC" : "C.闽西革命根据地"
+        },
+        {
+          "OptionB" : "B.力求在运动中歼灭敌人",
+          "OptionA" : "A.不打无准备之仗",
+          "TopicContent" : "6、毛泽东提出的著名的十大军事原则的核心是()",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.消灭敌人有生力量",
+          "OptionC" : "C.集中兵力打歼灭战"
+        },
+        {
+          "OptionB" : "B.茨坪",
+          "OptionA" : "A.湘南",
+          "TopicContent" : "7、1928年4月，朱德、陈毅率领工农革命军向井冈山革命根据地转移，与毛泽东领导的湘赣边界秋起义部队在()会师。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.永新",
+          "OptionC" : "C.宁冈砻市"
+        },
+        {
+          "OptionB" : "B.红军",
+          "OptionA" : "A.新四军",
+          "TopicContent" : "8、1928 年6月，根据中共中央颁发的《军事工作大纲》规定，各革命根据地的工农革命军及其他工武装，开始陆续改称()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.革命军",
+          "OptionC" : "C.八路军"
+        },
+        {
+          "OptionB" : "B.彭德怀、周恩来",
+          "OptionA" : "A.朱德、周恩来",
+          "TopicContent" : "9、1930年8月，红军第1军团与第3军团会师后，前敌委员会举行联席会议，决定组成中国工农红军第一-方面军、中共红军第一方面军总前敌委员会和中国工农革命委员会， ()分别任方面军总司令、总政治委员。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.彭德怀、毛泽东",
+          "OptionC" : "C.朱德、毛泽东"
+        },
+        {
+          "OptionB" : "B.1934年8月",
+          "OptionA" : "A.1934年7月",
+          "TopicContent" : "10、1930年11月至1933年3月，红军取得四次反“围剿”胜利。由于“左倾’教条主义领导者的错误指挥导致红军第五次反“围剿’失利，中央红军被迫撤出苏区，于()开始长征。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.1934年12月",
+          "OptionC" : "C.1934年10月"
+        },
+        {
+          "OptionB" : "B.东北人民革命军",
+          "OptionA" : "A.东北抗日义勇军",
+          "TopicContent" : "11、1931年，日本帝国主义发动了“九一八”事变。为反抗侵略，中国共产党领导的()，在东北地区进行了长达14年之久艰苦卓绝的斗争。",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BC",
+          "OptionD" : "D.东北抗日救国军",
+          "OptionC" : "C.东北抗日联军"
+        },
+        {
+          "OptionB" : "B.第二",
+          "OptionA" : "A第一",
+          "TopicContent" : "12、1931年11月7日，鄂豫皖革命根据地的红军在湖北省黄安县七里坪组成中国工农红军()方面军。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.第四",
+          "OptionC" : "C.第三."
+        },
+        {
+          "OptionB" : "B.周恩来",
+          "OptionA" : "A.毛泽东",
+          "TopicContent" : "13、1931年11月27日，在中华苏维埃共和国临时中央政府执行委员会举行的第-一次会议上，选举()为临时中央政府执行委员会主席。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.张国焘",
+          "OptionC" : "C.项英"
+        },
+        {
+          "OptionB" : "B.红二十五军",
+          "OptionA" : "A.红二方面军",
+          "TopicContent" : "14、1934年10月10日，中共中央、中革军委从瑞金出发，率领() 主力及中央、军委机关和直属部队共8.6万余人，开始长征。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.中央红军",
+          "OptionC" : "C.红四方面军"
+        },
+        {
+          "OptionB" : "B.秦邦宪、徐向前",
+          "OptionA" : "A.项英、彭德怀",
+          "TopicContent" : "15、中央红军长征后，留在中央根据地领导坚持游击战争的是() 。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.陈毅、蔡申熙",
+          "OptionC" : "C.陈毅、项英"
+        },
+        {
+          "OptionB" : "B.黎平",
+          "OptionA" : "A.古田",
+          "TopicContent" : "16、1935 年1月召开的()会议，确立了毛泽东在红军和党中央的领导地位，挽救了党，挽救了红军，挽救了中国革命，成为党的历史上-一个生死攸关的转折点。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.通道",
+          "OptionC" : "C.遵义"
+        },
+        {
+          "OptionB" : "B.毛泽东、周恩来、王稼祥",
+          "OptionA" : "A.毛泽东、朱德、彭德怀",
+          "TopicContent" : "17、遵义会议后，中共中央政治局成立了三人军事指挥小组，其成员是() 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.毛泽东、朱德、周恩来.",
+          "OptionC" : "C.毛泽东、朱德、王稼祥"
+        },
+        {
+          "OptionB" : "B.17",
+          "OptionA" : "A.15",
+          "TopicContent" : "18、1935年5月25日，红-军团第-师第- -团() 名勇士在安顺场强渡大渡河，-举突破了被国民党军视为不可逾越的天险。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.21",
+          "OptionC" : "C.19"
+        },
+        {
+          "OptionB" : "B.叶剑英",
+          "OptionA" : "A.刘伯承",
+          "TopicContent" : "19、在长征途中，与彝族部落首领小叶丹歃血为盟留下佳话的红军将领是()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.林彪",
+          "OptionC" : "C.贺龙"
+        },
+        {
+          "OptionB" : "B.黄桥",
+          "OptionA" : "A.赵州桥",
+          "TopicContent" : "20、1935年5月 下旬，红一军团第二师第四团22名战士组成突击队，飞夺()， 保障红军主力通过大渡河。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.卢沟桥",
+          "OptionC" : "C.泸定桥"
+        },
+        {
+          "OptionB" : "B.夹金山",
+          "OptionA" : "A.大凉山",
+          "TopicContent" : "21、在长征途中，中央红军翻越的第一座大雪山是有“神仙山”之称的()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.岷山",
+          "OptionC" : "C.折多山"
+        },
+        {
+          "OptionB" : "B.反蒋抗日.",
+          "OptionA" : "A.停止内战，-致抗日",
+          "TopicContent" : "22、1935 年，中国共产党发表了著名的八一宣言,提出了() 的口号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.逼蒋抗",
+          "OptionC" : "C.国共合作，共同抗日"
+        },
+        {
+          "OptionB" : "B.1935年.",
+          "OptionA" : "A.1934年",
+          "TopicContent" : "23、()9月15日，红军第25军长征到达陕甘革命根据地与西北红军胜利会师，合编为红军第十五军团，红--方面军随后也到达陕甘革命根据地与该军团胜利会师。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1937年",
+          "OptionC" : "C.1936年"
+        },
+        {
+          "OptionB" : "B.静宁",
+          "OptionA" : "A.会宁",
+          "TopicContent" : "24、1935年10月 19日，中共中央率领的红军抵达陕甘苏区的() 。至此，红一方面军主力历时一-年、纵横11个省，胜利完成二万五千里长征。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.吴起镇",
+          "OptionC" : "C.延安"
+        },
+        {
+          "OptionB" : "B.宣传队",
+          "OptionA" : "A.主力军",
+          "TopicContent" : "25、毛泽东高度评价长征的伟大意义，长征是历史纪录上的第一次， 长征是宣言书，长征是()，长征是播种机。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.突击队",
+          "OptionC" : "C.战斗队"
+        },
+        {
+          "OptionB" : "B.埃德加斯诺",
+          "OptionA" : "A.艾格妮丝.史沫特莱",
+          "TopicContent" : "26、著有《西行漫记》、向海外介绍红军长征的外国记者是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.博复礼",
+          "OptionC" : "C.安娜路易斯斯特朗"
+        },
+        {
+          "OptionB" : "B.8位",
+          "OptionA" : "A.7位",
+          "TopicContent" : "27、中华人民共和国的元帅中，有()参加了红军长征。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.10位",
+          "OptionC" : "C.9位"
+        },
+        {
+          "OptionB" : "B.瓦窑堡会议",
+          "OptionA" : "A.六届四中全会",
+          "TopicContent" : "28、1935年 12月，中国共产党召开了著名的()，通过了《中央关于目前政治形势与党的任务决议》,确定了建立抗日民族统- -战线的政策。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.洛川会议",
+          "OptionC" : "C.遵义会议"
+        },
+        {
+          "OptionB" : "B.黄桥",
+          "OptionA" : "A.赵州桥",
+          "TopicContent" : "20、1935 年5月下旬，红一军团第二师第四团22名战士组成突击队，飞夺()，保障红军主力通过大渡河。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.卢沟桥",
+          "OptionC" : "C.泸定桥"
+        },
+        {
+          "OptionB" : "B.夹金山",
+          "OptionA" : "A.大凉山",
+          "TopicContent" : "21、在长征途中，中央红军翻越的第-座大雪山是有“神仙山”之称的()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.岷山",
+          "OptionC" : "C.折多山"
+        },
+        {
+          "OptionB" : "B.反蒋抗日",
+          "OptionA" : "A.停止内战，-致抗日",
+          "TopicContent" : "22、1935 年，中国共产党发表了著名的八一宣言,提出了() 的口号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.逼蒋抗",
+          "OptionC" : "C.国共合作，共同抗日"
+        },
+        {
+          "OptionB" : "B.1935年.",
+          "OptionA" : "A.1934年",
+          "TopicContent" : "23、() 9月15日，红军第25军长征到达陕甘革命根据地与西北红军胜利会师，合编为红军第十五军团，红一方面军随后也到达陕甘革命根据地与该军团胜利会师。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1937年",
+          "OptionC" : "C.1936年."
+        },
+        {
+          "OptionB" : "B.静宁",
+          "OptionA" : "A.会宁",
+          "TopicContent" : "24、1935年10月 19日，中共中央率领的红军抵达陕甘苏区的() 。至此，红一方面军主力历时一年、纵横11个省，胜利完成二万五千里长征。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.吴起镇",
+          "OptionC" : "C.延安"
+        },
+        {
+          "OptionB" : "B.宣传队",
+          "OptionA" : "A.主力军",
+          "TopicContent" : "25、毛泽东高度评价长征的伟大意义，长征是历史纪录上的第一次， 长征是宣言书，长征是()，长征是播种机。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.突击队",
+          "OptionC" : "C.战斗队"
+        },
+        {
+          "OptionB" : "B.埃德加斯诺",
+          "OptionA" : "A.艾格妮丝●史沫特莱",
+          "TopicContent" : "26、著有《西行漫记》、向海外介绍红军长征的外国记者是() 。 .",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.博复礼",
+          "OptionC" : "C.安娜路易斯斯特朗"
+        },
+        {
+          "OptionB" : "B.8位",
+          "OptionA" : "A.7位",
+          "TopicContent" : "27、中华人民共和国的元帅中，有()参加了红军长征。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.10位",
+          "OptionC" : "C.9位"
+        },
+        {
+          "OptionB" : "B.瓦窑堡会议",
+          "OptionA" : "A六届四中全会:",
+          "TopicContent" : "28、1935年12月， 中国共产党召开了著名的() ，通过了《中央关于目前政治形势与党的任务决议》,确定了建立抗日民族统- -战线的政策。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.洛川会议",
+          "OptionC" : "C.遵义会议"
+        },
+        {
+          "OptionB" : "B.王震、任弼时",
+          "OptionA" : "A.贺龙、肖克",
+          "TopicContent" : "29、1936年7月5日，红军第二、第六军团、红32军与红四方面军在甘孜会师后，奉中央革命军事委.员会命令，组成红军第二方面军，() 分别任总指挥、政治委员。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.贺龙、任弼时",
+          "OptionC" : "C.肖克、王震"
+        },
+        {
+          "OptionB" : "B.陕北洛川地区",
+          "OptionA" : "A.甘肃静宁、会宁地区",
+          "TopicContent" : "30、1936年 10月，中国工农红军第-一、二、四方面军胜利会师于()，长征胜利结束。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.陕北延安地区",
+          "OptionC" : "C.陕北瓦窑堡地区"
+        },
+        {
+          "OptionB" : "B.晋西事变",
+          "OptionA" : "A.西安事变",
+          "TopicContent" : "31、1936年12月12日凌晨，东北军张学良和西北军杨虎城发动了() ，逼蒋抗日，我党促成事变和平解决。.",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionD" : "D.豫西事变",
+          "OptionC" : "C.华北事变"
+        },
+        {
+          "OptionB" : "B.军事学院",
+          "OptionA" : "A.陕北公学",
+          "TopicContent" : "32、1937年1 月，中国抗日红军大学随中共中央、中央革命军事委员会领导机关从保安迁至延安，改名为()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C .",
+          "OptionD" : "D.彭杨军事学校",
+          "OptionC" : "C.中国人民抗日军事政治大学"
+        },
+        {
+          "OptionB" : "B.八- -三",
+          "OptionA" : "A九一八",
+          "TopicContent" : "33、1937年，日本侵略者挑起() 事变，全国抗日战争爆发。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.华北",
+          "OptionC" : "C.七七"
+        },
+        {
+          "OptionB" : "B.新四军",
+          "OptionA" : "B.八路军:",
+          "TopicContent" : "34、1937年8月和 10月，中共中央军委发布命令，将中国工农红军和南方红军游击队改编为()。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AB",
+          "OptionD" : "D.华南抗日游击军",
+          "OptionC" : "C.抗日联军"
+        },
+        {
+          "OptionB" : "B.平型关大捷",
+          "OptionA" : "A.台儿庄大捷",
+          "TopicContent" : "35、1937 年9月，八路军取得了()，这是全国抗战以来第一一个歼灭战的胜利，打破了日军“不可战胜”的神话。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.黄土岭战斗胜利",
+          "OptionC" : "C.长沙大捷"
+        },
+        {
+          "OptionB" : "B.林彪",
+          "OptionA" : "A杨靖宇",
+          "TopicContent" : "36、东北抗日联军的主要领导人有()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.彭雪枫",
+          "OptionC" : "C.罗荣桓"
+        },
+        {
+          "OptionB" : "B.《关于目前形势和党的任务的决定》",
+          "OptionA" : "A.《论持久战》.",
+          "TopicContent" : "37、毛泽东在1938年5月写的()驳斥了速胜论和亡国论。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.《矛盾论》",
+          "OptionC" : "C.《实践论》"
+        },
+        {
+          "OptionB" : "B.台儿庄战役",
+          "OptionA" : "A.忻口战役",
+          "TopicContent" : "38、1940年8月20日至12月初,八路军总部组织105个团，在华北发动了一次大规模的对日军进攻战役，史称()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.中条山战役",
+          "OptionC" : "C.百团大战"
+        },
+        {
+          "OptionB" : "B.陈毅、粟裕",
+          "OptionA" : "A陈毅、刘少奇",
+          "TopicContent" : "39、1941年1 月20日，在皖南事变后，中共中央军委发布重建新四军军部的命令,任命()分别为新四军代军长和政委。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.叶挺、刘少奇",
+          "OptionC" : "C.张云逸、罗炳辉"
+        },
+        {
+          "OptionB" : "B.金盆湾",
+          "OptionA" : "A.南泥湾",
+          "TopicContent" : "40、1941 年初，八路军359旅开赴() 地区，实行“ 屯田政策”，开展大生产运动。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.大风川",
+          "OptionC" : "C.槐树庄"
+        },
+        {
+          "OptionB" : "B.马永昌.",
+          "OptionA" : "A.马立训",
+          "TopicContent" : "41、抗日战争时期，在华北平原上活跃着- -支以回民兄弟为主组成的抗日部队，毛泽东称其为“百战百胜的回民支队”。这支部队的司令员是()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.马本斋",
+          "OptionC" : "C.马海德"
+        },
+        {
+          "OptionB" : "B.皖南事变",
+          "OptionA" : "A.晋西事变",
+          "TopicContent" : "42、1941年1月17日,周恩来在《新华日报》题写了:“千古奇冤，江南一叶;同室操戈,相煎何急? !的题词，揭露国民党顽固派制造() 的真相。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.确山惨案",
+          "OptionC" : "C.平江惨案"
+        },
+        {
+          "OptionB" : "B.晋西南抗日根据地",
+          "OptionA" : "A.晋察冀抗日根据地",
+          "TopicContent" : "43、抗日战争时期，我党创建的第一块农村根据地是()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.晋绥抗日根据地",
+          "OptionC" : "C.晋西北抗日"
+        },
+        {
+          "OptionB" : "B.减租减息",
+          "OptionA" : "A.开展大生产",
+          "TopicContent" : "44、1941 年12月6日，党外人士李鼎铭在陕甘宁边区第二次参议会上提出() 的提案，被共产党采纳并在各抗日根据地普遍实行。0",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.精兵简政",
+          "OptionC" : "C.拥政爱民"
+        },
+        {
+          "OptionB" : "B.彭雪枫",
+          "OptionA" : "A.左权",
+          "TopicContent" : "45、1942年5月25日，在山西辽县十字岭，八路军副参谋长() 指挥部队突破日军包围时,壮烈牺牲。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.刘志丹",
+          "OptionC" : "C.罗炳辉"
+        },
+        {
+          "OptionB" : "B.1941年",
+          "OptionA" : "A.1940年",
+          "TopicContent" : "46、() 1月15日，陕甘宁边区政府发布了《拥护军队的决定》、《拥军公约》 及《拥军运动月的指示》。25日，八路军后方留守兵团司令部和政治部联合作出《关于拥护政府爱护人民的决定》，在全军开展了拥军爱民运动。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.1943年",
+          "OptionC" : "C.1942年"
+        },
+        {
+          "OptionB" : "B.李杏阁",
+          "OptionA" : "A.戎冠秀",
+          "TopicContent" : "47、1944年3月，晋察冀边区召开英模大会，授予- -贯爱护军队、抢救伤员的平山县下盘松村妇救会主任() “北岳区拥军模范一子 弟兵的母亲’”的光荣称号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.明德英",
+          "OptionC" : "C.赵趁妮."
+        },
+        {
+          "OptionB" : "B.谭政",
+          "OptionA" : "A.王稼祥",
+          "TopicContent" : "48、1944年4月 11日，() 同志受毛泽东委托，在中共中央西北局高干会议上做了题为《关于军队政治工作问题》的报告，全面总结了人民军队政治工作的历史经验，明确了政治工作的基本方针、原则和任务。()",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.叶剑英",
+          "OptionC" : "C.彭德怀"
+        },
+        {
+          "OptionB" : "B.《为人民服务》",
+          "OptionA" : "A.《青年运动的方向》",
+          "TopicContent" : "49、1944年9月8日，毛泽东参加张思德的追悼会，发表了题为() 的著名演讲。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.《团结到底》",
+          "OptionC" : "C.《愚公移山》"
+        },
+        {
+          "OptionB" : "B.52.7万人",
+          "OptionA" : "A.46.9万人",
+          "TopicContent" : "50、在全国抗战中，八路军、新四军和华南人民抗日游击队对敌作战12.5万余次，消灭日、伪军171.4.万余人，其中日军() 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.60.3万人",
+          "OptionC" : "C.55万人"
+        },
+        {
+          "OptionB" : "B.120万人",
+          "OptionA" : "A.100万人",
+          "TopicContent" : "51、抗日战争中，中国共产党领导的抗日武装力量在取得对敌作战辉煌战绩的同时，自身也获得了巨，大发展，主力军和地方军由全国抗战开始时的11万余人发展到最后胜利时的约()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.132万人",
+          "OptionC" : "C.121万人"
+        },
+        {
+          "OptionB" : "B.战略、战术、体力",
+          "OptionA" : "A.智力、体力、技术",
+          "TopicContent" : "52、朱德在党的七大作的《解放区战场》军事报告中指出，人民军队练兵内容包括() 三个方面。，",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.战术、技术、体格",
+          "OptionC" : "C.刺杀、格斗、射击"
+        },
+        {
+          "OptionB" : "B.重庆",
+          "OptionA" : "A.西安",
+          "TopicContent" : "53、1945年8月， 中国共产党为了尽可能争取国内和平，派毛泽东、周恩来和王若飞赴()，同国民党进行谈判。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.南京",
+          "OptionC" : "C.成都"
+        },
+        {
+          "OptionB" : "B.8月21日",
+          "OptionA" : "A.8月15日",
+          "TopicContent" : "54、中国抗日战争结束的时间是1945年()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.9月9日",
+          "OptionC" : "C.9月2日"
+        },
+        {
+          "OptionB" : "B.上党战役",
+          "OptionA" : "A.晋中战役",
+          "TopicContent" : "55、1945 年9月10日至10月12日，晋冀鲁豫军区司令员刘伯承、政治委员邓小平指挥所属部队在山西省长治地区对第2战区司令长官阎锡山部英勇反击,共歼灭国民党军3.5万人，有力地配合了国共两党的和平谈判。这次战役被称作()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.中条山战役",
+          "OptionC" : "C.邯郸战役"
+        },
+        {
+          "OptionB" : "B.战略防御、战略相持、战略反攻",
+          "OptionA" : "A.战略防御、战略进攻、战略决战",
+          "TopicContent" : "56、人民解放战争经历了() 三个战略阶段,取得了解放战争的伟大胜利。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.战略防御、战略进攻、战略追击",
+          "OptionC" : "C.战略防御、战略相持、战略决战"
+        },
+        {
+          "OptionB" : "B.华东",
+          "OptionA" : "A.中原",
+          "TopicContent" : "57、1946 年6月26日，蒋介石反动集团以大举围攻() 解放区为起点，发动对解放区的全面进攻。人民解放军在各个战场上奋起反抗，全国解放战争正式爆发。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.晋冀鲁豫",
+          "OptionC" : "C.晋察冀"
+        },
+        {
+          "OptionB" : "B.陕北和东北解放区",
+          "OptionA" : "A.山东和中原解放区",
+          "TopicContent" : "58、全面内战爆发后，党领导的人民军队粉碎国民党军队全面进攻后，又粉碎了国民党军队对我()的重点进攻。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.山东和华北解放区",
+          "OptionC" : "C.陕北和山东解放区"
+        },
+        {
+          "OptionB" : "B.党委制",
+          "OptionA" : "A.民主集中制",
+          "TopicContent" : "59、1947年2月27日，中共中央发出《关于在军队中组织党委会的指示》，决定恢复1931年11月“左倾”教条主义领导者错误取消了的军队中各级()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.代表大会制",
+          "OptionC" : "C.民主生活制"
+        },
+        {
+          "OptionB" : "B.彭德怀",
+          "OptionA" : "A.朱德",
+          "TopicContent" : "60、1947年3月19日，中共中央机关撤出延安。在此后的一一个半月时间里，() 指挥西北野战兵团2.7万人，取得了青化砭、羊马河、蟠龙镇三次战役的胜利，稳定了陕北战局。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.刘伯承",
+          "OptionC" : "C.贺龙"
+        },
+        {
+          "OptionB" : "B.四平保卫战",
+          "OptionA" : "A.三下江南、四保临江",
+          "TopicContent" : "61、1946 年12月中旬至1947年4月上旬，东北民主联军取得了() 的胜利，削弱了东北国民党军的机动力量，是人民解放军在东北战场上由防御到进攻的转折点。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.新开岭战役",
+          "OptionC" : "C.鞍海战役"
+        },
+        {
+          "OptionB" : "B.孟良崮.",
+          "OptionA" : "A.抱犊崮",
+          "TopicContent" : "62、1947年5月 13日至16日，华东野战军在沂蒙山区的() 歼灭国民党军“五大主力”之一的整编第74师及整编第83师-部，共3.2万余人。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.平山崮",
+          "OptionC" : "C.团山崮"
+        },
+        {
+          "OptionB" : "B.1947年",
+          "OptionA" : "A.1946年",
+          "TopicContent" : "63、() 10月10日，中国人民解放军总部发布关于重新颁布“三大纪律八项注意’的训令,对人民军队实行多年的三大纪律八项注意内容作了统-规定。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1949年",
+          "OptionC" : "C.1948年，"
+        },
+        {
+          "OptionB" : "B.两个“务必”",
+          "OptionA" : "A.土地法大纲",
+          "TopicContent" : "64、1947年12月 25日至28日，中共中央在陕北米脂县杨家沟召开会议，毛泽东作了《目前形势和我们的任务》的报告，提出了著名的() 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.十大军事原则",
+          "OptionC" : "C.新式整军运动"
+        },
+        {
+          "OptionB" : "A.查阶级、查思想、查斗志",
+          "OptionA" : "B.，查阶级、查工作、查斗志库",
+          "TopicContent" : "65、从1947年冬至1948年夏，人 民解放军各野战军、各军区利用战役战斗间隙，开展了以“诉苦三查为主要内容的新式整军运动，“三查”是指()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.查思想、查阶级、查工作",
+          "OptionC" : "C.查思想、查工作、查作风"
+        },
+        {
+          "OptionB" : "B.46万",
+          "OptionA" : "A.45万",
+          "TopicContent" : "66、1948年9月 12日至11月2日，东北人民解放军发动的辽沈战役，共歼灭国民党军()人。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.55.5万",
+          "OptionC" : "C.47.2万"
+        },
+        {
+          "OptionB" : "B.武汉",
+          "OptionA" : "A.济南",
+          "TopicContent" : "67、1948年9月16日至24日，华东野战军集中7个多纵队14万人，攻克国民党军重兵坚守的()，全歼守敌10万余人，揭开了战略决战的序幕。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionD" : "D.青岛.",
+          "OptionC" : "C.太原"
+        },
+        {
+          "OptionB" : "B.淮海战役、平津战役、渡江战役",
+          "OptionA" : "A.济南战役、辽沈战役、淮海战役",
+          "TopicContent" : "68、1948年9月12日至1949年1月31日，人民解放军和国民党军进行了以()为主的大规模战略决战，共歼灭和改编国民党军154万余人,使国民党军的主力被基本消灭,从根本上动摇了国民党统治的基础。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.辽沈战役、淮海战役、平津战役",
+          "OptionC" : "C.平津战役、渡江战役、太原战役"
+        },
+        {
+          "OptionB" : "B.52万",
+          "OptionA" : "A.47.2万",
+          "TopicContent" : "69、1948年 11月6日到1949年1月10日，华东野战军和中原野战军发动的淮海战役，共歼灭国民党()人。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.58万",
+          "OptionC" : "C.55.5万"
+        },
+        {
+          "OptionB" : "B.47.2万",
+          "OptionA" : "A.47万",
+          "TopicContent" : "70、1948年11 月29日到1949年1月31日,东北野战军和华北军区第二、第三兵团发动平津战役,共歼灭和改编国民党军() 余人。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.55.5万",
+          "OptionC" : "C.52万"
+        },
+        {
+          "OptionB" : "B.衡宝战役",
+          "OptionA" : "A.上海战役",
+          "TopicContent" : "71、 从1949年4月20日开始，人民解放军第二、第三野战军和第四野战军先遣兵团及中原、华东军区的地方武装发起了() ，粉碎了国民党反动派凭借长江天险阻止人民解放军南进的企图。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.盐城战役",
+          "OptionC" : "C.渡江战役"
+        },
+        {
+          "OptionB" : "B.8月1日",
+          "OptionA" : "A.4月23日",
+          "TopicContent" : "72、1949 年() ,华东军区和第三野战军根据中共中央军委关于成立华东军区海军司令部”的指示，在江苏省白马庙组成华东军区海军领导机关。这一天， 被确定为海军成立纪念日。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.11月11日",
+          "OptionC" : "C.10月1日"
+        },
+        {
+          "OptionB" : "B.700",
+          "OptionA" : "A.600",
+          "TopicContent" : "73、1946年6 月至1950年6月，人民解放军共歼灭国民党军()余万人，包括生俘、毙伤、起义、投诚、起义和接受改编的人员，全国解放战争大规模作战结束。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.900车",
+          "OptionC" : "C.800"
+        },
+        {
+          "OptionB" : "B.1949",
+          "OptionA" : "A.1948 .",
+          "TopicContent" : "74、()年6月15日，中国人民革命军事委员会发布命令，公布中国人民解放军军旗、军徽样式:中国人民解放军军旗为红底，上缀金黄色的五角星及“八- -”二字;军徽为镶有金黄色边的五角红星，中嵌金黄色“八一”二字。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1951",
+          "OptionC" : "C.1950"
+        },
+        {
+          "OptionB" : "B.1949年4月",
+          "OptionA" : "A.1949年3月",
+          "TopicContent" : "75、 () ，毛泽东主席、朱德总司令发布《向全国进军的命令》，号召全军指战员奋勇前进，坚决、彻底、干净、全部地歼灭中国境内- -切敢于抵抗的国民党反动派。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1949年6月",
+          "OptionC" : "C.1949年5月"
+        },
+        {
+          "OptionB" : "B.广州",
+          "OptionA" : "C.重庆",
+          "TopicContent" : "76、1949年4月23日，人民解放军占领() ，宣告延续22年的国民党反动统治覆没。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.北平",
+          "OptionC" : "C.南京."
+        },
+        {
+          "OptionB" : "B.中国人民解放军进行曲",
+          "OptionA" : "A.黄河大合唱",
+          "TopicContent" : "77、1949 年9月，中国人民政治协商会议第-届全体会议决定()为代国歌。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.新四军军歌",
+          "OptionC" : "C.义勇军进行曲"
+        },
+        {
+          "AnswerArr" : [
+
+          ],
+          "AnswerContent" : "78、在三大战役中，人民群众出动支前的大小车辆141万辆，担架36万余副，牲畜260余万头，粮食",
+          "IsMultipleChoice" : true
+        },
+        {
+          "OptionB" : "B.800",
+          "OptionA" : "A.700",
+          "TopicContent" : "4.25亿公斤，支前民工达()余万人次。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.880",
+          "OptionC" : "C.850"
+        },
+        {
+          "OptionB" : "B.金门岛",
+          "OptionA" : "A.葫芦岛",
+          "TopicContent" : "79、1950年4 月15日，第四野战军10万余人成功渡海，- -举解放了()全境。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.海南岛",
+          "OptionC" : "C.珍宝岛"
+        },
+        {
+          "OptionB" : "B.1950",
+          "OptionA" : "A.1949",
+          "TopicContent" : "80、() 年10月19日，中国人民志愿军在彭德怀司令员兼政治委员的率领下，渡过鸭绿江，进行伟大的抗美援朝战争。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1952",
+          "OptionC" : "C.1951"
+        },
+        {
+          "OptionB" : "B.鸭绿江",
+          "OptionA" : "A.云山",
+          "TopicContent" : "81、志愿军第40军第118师渡过鸭绿江后，在开进途中于1950年10月25日在朝鲜北部()一带，与正在北进的敌人展开遭遇战，揭开了抗美援朝战争的序幕。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.金刚山",
+          "OptionC" : "C.长白山"
+        },
+        {
+          "OptionB" : "B.中国人民解放军军事学院",
+          "OptionA" : "A.中国人民抗日军事政治大学",
+          "TopicContent" : "82、1951 年1月，() 在南京成立，刘伯承任院长兼政治委员，毛泽东称它的建立是中国人民解放军建军史上重大转变的标志之一- -。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.中国人民解放军国防大学",
+          "OptionC" : "C.中国人民解放军国防科技大学"
+        },
+        {
+          "OptionB" : "B.邱少云.",
+          "OptionA" : "A.黄继光",
+          "TopicContent" : "83、1952年10月19日，在上甘岭战役中，() 用胸膛堵住敌人机枪的射击，为反击部队开辟了前进的道路，志愿军总部授予他‘特级英雄'荣誉称号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.许家朋.",
+          "OptionC" : "C.伍先华."
+        },
+        {
+          "OptionB" : "B.邱少云",
+          "OptionA" : "A.黄继光",
+          "TopicContent" : "84、抗美援朝战争期间，第15军第87团9连战士()，为保证潜伏部队的安全，严格遵守战场纪律,忍受烈火烧身而壮烈牺牲。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.胡修道",
+          "OptionC" : "C.董存瑞"
+        },
+        {
+          "OptionB" : "B.板门店",
+          "OptionA" : "A.平壤",
+          "TopicContent" : "85、1953年7 月27日，朝中方面代表团和美方代表团在朝鲜()签署停战协定，至此，历时3年多的抗美援朝战争宣告结束。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.开城",
+          "OptionC" : "C.汉城"
+        },
+        {
+          "OptionB" : "B.组织性、计划性、精确性、纪律性",
+          "OptionA" : "A组织性、计划性、准确性、纪律性",
+          "TopicContent" : "86、1953年底在北京召开的全国军事系统党的高级干部会议，对人民解放军的建设进行了总体规划和部署，明确要求全军做到“五统四性”，其中“四性”是指()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.政治性、准确性、纪律性、制度性",
+          "OptionC" : "C.政治性、计划性、精确性、制度性"
+        },
+        {
+          "OptionB" : "B.现代化人民军队",
+          "OptionA" : "A.现代化革命军队",
+          "TopicContent" : "87、全国军事系统党的高级干部会议确定我军军事建设的总方针、总任务是:建设- -支优良的()，以保卫我国社会主义建设，防御帝国主义侵略。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.现代化、正规化、革命化军队",
+          "OptionC" : "C.现代化、正规化军队"
+        },
+        {
+          "OptionB" : "B.《中华人民共和国兵役法》",
+          "OptionA" : "A.《中国人民解放军政治工作条例(草案)》",
+          "TopicContent" : "88、1954年4月15日，中共中央和中央军委颁布()。毛泽东亲自对其审阅，特别指出“中国共产党在中国人民解放军中的政治工作，是我军的生命线”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "D.《关于加强军队政治思想工作的决议》",
+          "OptionC" : "C.《中国人民解放军军官服役条例》"
+        },
+        {
+          "OptionB" : "B.海南岛渡海登陆作战",
+          "OptionA" : "A金门岛渡海登陆作战",
+          "TopicContent" : "89、1955年1 月，人民解放军发起()，这是我军首次陆、海、空联合作战。.",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.--江山岛渡海登陆作战",
+          "OptionC" : "C.大陈岛渡海登陆作战"
+        },
+        {
+          "OptionB" : "B.义务兵役制",
+          "OptionA" : "A.志愿兵役制",
+          "TopicContent" : "90、1955年7 月30日，一届全国人大二次会议通过《中华人民共和国兵役法》，规定人民解放军的兵役制度是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.旗兵制",
+          "OptionC" : "C.世兵制"
+        },
+        {
+          "OptionB" : "B.朱光亚",
+          "OptionA" : "A钱三强",
+          "TopicContent" : "91、1955年10 月，著名科学家() 从美国归国后，写出了《建立我国国防航空工业意见书》，对中国发展航空及导弹技术提出了建议。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.李四光",
+          "OptionC" : "C.钱学森"
+        },
+        {
+          "OptionB" : "B.1955年1月1日",
+          "OptionA" : "A.1954年1月1日",
+          "TopicContent" : "92、中央军委机关报《解放军报》，经过3个月的试版，于() 正式出版发行。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.1957年1月1日",
+          "OptionC" : "C.1956年1月1日"
+        },
+        {
+          "OptionB" : "B.速战速决",
+          "OptionA" : "A.积极进攻",
+          "TopicContent" : "93、1956 年3月，中央军委召开扩大会议，确立新中国实行()战略方针。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.积极防御",
+          "OptionC" : "C.诱敌深入"
+        },
+        {
+          "OptionB" : "B.金门岛",
+          "OptionA" : "A.大担岛",
+          "TopicContent" : "94、为打击国民党军对大陆窜扰、破坏，反对美国侵犯中国主权、干涉中国内政，1958 年8月，中央.军委决定对() 的国民党军实施惩罚性炮击。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.马祖岛.",
+          "OptionC" : "C.澎湖列岛"
+        },
+        {
+          "OptionB" : "B.广州军区“南海前哨钢八连”",
+          "OptionA" : "A.昆明军区“英勇善战钢八连”",
+          "TopicContent" : "95、1963年8月 1日，毛泽东主席专门写下《八连颂》一诗，赞扬()，号召全军各部队向该单位学习。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.中国人民志愿军“上甘岭特功八连”",
+          "OptionC" : "C.南京军区“南京路上好八连”车"
+        },
+        {
+          "OptionB" : "B.1962年8月15日",
+          "OptionA" : "A.1961年3月5日",
+          "TopicContent" : "96、() ，人民日报发表毛泽东题词“向雷锋同志学习”。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.1964年8月15 日",
+          "OptionC" : "C.1963年3月5日"
+        },
+        {
+          "OptionB" : "B.铁道兵",
+          "OptionA" : "A.工程兵",
+          "TopicContent" : "97、1966年7月1日，根据中央军委决定，原中国人民公安部队领导机构为基础，与军委炮兵管理战略导弹部队的机构合并，正式成立中国人民解放军()领导机关。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.防空兵.",
+          "OptionC" : "C.第二炮兵."
+        },
+        {
+          "OptionB" : "B.1970年4月24日",
+          "OptionA" : "A.1969年4月24日",
+          "TopicContent" : "98、() ，中国成功地发射了第- -颗人造地球卫星。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1972年4月24日",
+          "OptionC" : "C.1971年4月24日"
+        },
+        {
+          "OptionB" : "B.4",
+          "OptionA" : "A.3",
+          "TopicContent" : "99、新中国成立后，为了捍卫国家领土、主权和安全，我军共进行了() 次边境自卫反(还)击作战。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.6",
+          "OptionC" : "C.5"
+        },
+        {
+          "OptionB" : "B.现代化正规化军队",
+          "OptionA" : "A.现代化正规化革命军队",
+          "TopicContent" : "100、1981 年9月19日，中央军委主席邓小平在华北地区军事演习阅兵式上,明确地提出了把我军建设成为一支强大的 ()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.革命化现代化正规化军队",
+          "OptionC" : "C.英勇善战的革命军队"
+        },
+        {
+          "OptionB" : "B.转变到打赢现代条件下局部战争上来",
+          "OptionA" : "A.现代化正规化建设上来",
+          "TopicContent" : "101、1985 年，中央军委作出军队建设指导思想实行战略性转变的重大决策，即从立足早打、大打、打核战争的临战准备状态，转变到()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.转变到平战结合的轨道上来",
+          "OptionC" : "C.转变到和平时期建设轨道上来"
+        },
+        {
+          "OptionB" : "B.100",
+          "OptionA" : "A.50",
+          "TopicContent" : "102、1985年5、 6月，中央军委扩大会议通过《军队体制改革、精简整编方案》，决定裁军() 万。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.150",
+          "OptionC" : "C.30"
+        },
+        {
+          "OptionB" : "B.中国人民解放军进行曲",
+          "OptionA" : "A抗大校歌",
+          "TopicContent" : "103、1988年7月25日，经中共中央批准，中央军委发出通知，决定将() ，定为中国人民解放军军歌",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.新四军军歌",
+          "OptionC" : "C.义勇军进行曲"
+        },
+        {
+          "OptionB" : "B.文职干部制度",
+          "OptionA" : "A.新的军衔制度",
+          "TopicContent" : "104、1988年10月1日，中国人民解放军正式实行()， 标志着人民解放军现代化、正规化建设进入一个新阶段。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.授子予军队离休干部中国人民解放军功勋荣誉章的规定",
+          "OptionC" : "C.预备役制度"
+        },
+        {
+          "OptionB" : "B.《中国人民解放军军事训练规定》",
+          "OptionA" : "A.《中国人民解放军军事训练大纲》",
+          "TopicContent" : "105、1990年4月6日，中央军委颁布()，这是新中国成立以来第一部统管全军军事训练的基本法规。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.《中国人民解放军军事训练指导法》",
+          "OptionC" : "C.《中国人民解放军军事训练条例》"
+        },
+        {
+          "OptionB" : "A.4",
+          "OptionA" : "D.10",
+          "TopicContent" : "105、1991 年1月10日至16日，新中国成立以来最大规模的“双拥”工作会议在福州市召开，国家民政部、解放军总政治部首次命名了() 个双拥模范城(县)。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "C.8",
+          "OptionC" : "B.6"
+        },
+        {
+          "OptionB" : "B.柬埔寨",
+          "OptionA" : "A.苏丹",
+          "TopicContent" : "106、1992 年，中国首次派遣部队参与联合国维持和平行动的国家是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.刚果",
+          "OptionC" : "C.科特迪瓦"
+        },
+        {
+          "OptionB" : "B.15亿次",
+          "OptionA" : "A.20亿次",
+          "TopicContent" : "107、1992年11 月19日，由国防科技大学研制成功的中国第一台“银河- I ”巨型计算机通过国家鉴定。这台通用性并行巨型计算机的运算速度为()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.18亿次",
+          "OptionC" : "C.10亿次"
+        },
+        {
+          "OptionB" : "B1997年7月1日和1999年10月1日",
+          "OptionA" : "A.1997年7月1日和1999年12月20日",
+          "TopicContent" : "108、() ，中国人民解放军先后进驻香港特别行政区、澳门特别行政区，履行防务职责,是中国政府对香港、澳门恢复行使主权的重要标志。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.1997年8月1日和1999年10月1日",
+          "OptionC" : "C.1997年8月1日和1999年12月20日"
+        },
+        {
+          "OptionB" : "B.《中华人民共和国军事设施保护法》:",
+          "OptionA" : "A.《中华人民共和国国防法》",
+          "TopicContent" : "109、1997年3月14日，八届全国人大五次会议审议通过()，这是中华人民共和国成立以来第一部国防方面的法律。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.《中华人民共和国国防教育法》",
+          "OptionC" : "C.《中华人民共和国兵役法》"
+        },
+        {
+          "OptionB" : "B.中国人民解放军训练管理条例",
+          "OptionA" : "A中国人民解放军军事训练大纲",
+          "TopicContent" : "110、1997 年3月，第一部标志人民解放军训练质量管理法制化、标准化的法规颁布全军执行。其名称是()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.中国人民解放军军事训练等级评定标准",
+          "OptionC" : "C.中国人民解放军军事训练等级评定暂行规定"
+        },
+        {
+          "OptionB" : "B.战略规划部",
+          "OptionA" : "A.军训部",
+          "TopicContent" : "111、1998年4月，中央军委决定，成立中国人民解放军()，从而形成人民解放军四总部领导体制。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.总联勤部",
+          "OptionC" : "C.总装备部"
+        },
+        {
+          "OptionB" : "B.中华人民共和国国防建设法",
+          "OptionA" : "A.中华人民共和国国防法",
+          "TopicContent" : "112、2001 年4月28日，九届全国人大二十- -次会议通过我国第一部有关提高全民国防观念的法律。其名称为()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.中华人民共和国兵役法",
+          "OptionC" : "C.中华人民共和国国防教育法"
+        },
+        {
+          "OptionB" : "B.聂海胜",
+          "OptionA" : "A.杨利伟",
+          "TopicContent" : "113、2003年 10月15日，我国自行研制的“神舟”5号载人飞船，在酒泉卫星发射中心发射升空，中国首位航天员() 被顺利送上太空。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.李中华",
+          "OptionC" : "C.费俊龙"
+        },
+        {
+          "OptionB" : "B.2008",
+          "OptionA" : "A.2007",
+          "TopicContent" : "114、() 年12月26日，中国海军舰艇编队首次赴亚丁湾、索马里海域执行护航任务。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.2010",
+          "OptionC" : "C.2009"
+        },
+        {
+          "OptionB" : "B.革命性和先进性",
+          "OptionA" : "A.正义性和群众性",
+          "TopicContent" : "115、战争的() ，是人民战争的两个基本特征。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.正义性和广泛性"
+        },
+        {
+          "OptionB" : "B.人和武器.",
+          "OptionA" : "A.物质和精神.",
+          "TopicContent" : "116、人()是构成战斗力的两个基本要素。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.谋略和勇气"
+        },
+        {
+          "OptionB" : "B.后备力量的强大",
+          "OptionA" : "A.军事实力的强大",
+          "TopicContent" : "117、() 是综合国力中固有的重要内容。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.国防意识"
+        },
+        {
+          "OptionB" : "B.军事",
+          "OptionA" : "A.综合实力",
+          "TopicContent" : "118、历史表明，国家间的力量对比特别是大国的变化，() 是导致战略格局变动的重要因素。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.外交",
+          "OptionC" : "C.经济"
+        },
+        {
+          "OptionB" : "B.1994 年",
+          "OptionA" : "A.1993年",
+          "TopicContent" : "119、中国人民解放军驻香港部队正式完成组建于()，由来自陆海空军精锐之师组成。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.1996 年",
+          "OptionC" : "C.1995 年"
+        },
+        {
+          "OptionB" : "B.无产阶级的战争观和方法论、人民军队建设理论、人民战争思想、人民战争的战略战术、国防建设理论。",
+          "OptionA" : "A.战争观、方法论、人民军队建设、人民战争思想、积极防御。",
+          "TopicContent" : "120、毛泽东军事思想的主要内容主要包括() 五个部分。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.无产阶级的战争观和方法论、人民战争思想、党指挥枪、人民战争的战略战术、国防建设理论。"
+        },
+        {
+          "OptionB" : "C.《财经法》",
+          "OptionA" : "A.《土地改革法》挂旦而B. 《惩治反 革命条例》",
+          "TopicContent" : "121、新中国成立后制定的第一部基本法律是() 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionC" : "D.《婚姻法》."
+        },
+        {
+          "OptionB" : "B.资本主义工商业的社会主义改造",
+          "OptionA" : "A.农业的社会主义改造",
+          "TopicContent" : "122、党在过渡时期的总路线和总任务是，在-一个相当长的时期内，基本实现工业化和()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.手工业的社会主义改造",
+          "OptionC" : "C.官僚资本的社会主义改造"
+        },
+        {
+          "OptionB" : "B.1951",
+          "OptionA" : "A.1950",
+          "TopicContent" : "123、() 年，我国开始实施发展国民经济第-一个五 年计划。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.1953",
+          "OptionC" : "C.1952"
+        },
+        {
+          "OptionB" : "B.压缩规模，计划经济",
+          "OptionA" : "A.调整、巩固、充实、提高",
+          "TopicContent" : "124、1961 年，中国共产党八届九中全会提出国民经济调整的八字方针是()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.三级所有，队为基础",
+          "OptionC" : "C.保证重点，适当收缩"
+        },
+        {
+          "OptionB" : "B、十三大",
+          "OptionA" : "A、十五大",
+          "TopicContent" : "125、党在()首次使用“邓小平理论’的称谓。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D、十二大",
+          "OptionC" : "C、十四大"
+        },
+        {
+          "OptionB" : "B.1964年10月16日",
+          "OptionA" : "A.1963年10月16 日",
+          "TopicContent" : "126、()，我国在西北核试验基地首次进行原子弹爆炸试验，获得圆满成功。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.1967年6月17日!",
+          "OptionC" : "C.1965年5月14日"
+        },
+        {
+          "OptionB" : "B.防空兵",
+          "OptionA" : "A.炮兵",
+          "TopicContent" : "127、1966年7月 1日，根据中共中央、中央军委决定，以原中国人民公安部队领导机构为基础，与军委炮兵管理导弹部队的机构合并，正式成立中国人民解放军() 领导机关。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D.基建工程兵",
+          "OptionC" : "C.第二炮兵."
+        },
+        {
+          "OptionB" : "B.教育",
+          "OptionA" : "A.军队",
+          "TopicContent" : "128、1975 年，邓小平主持中央日常工作，首先提出()要整顿，拉开了全面整顿的序幕。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.铁路",
+          "OptionC" : "C.农业"
+        },
+        {
+          "OptionB" : "B.生产力决定生产关系.",
+          "OptionA" : "A.科学技术是生产力",
+          "TopicContent" : "129、在1978年3月召开的全国科学大会上，邓小平强调了() 这一马克思主义的观点。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.知识分子是无产阶级的一部分",
+          "OptionC" : "C.经济基础决定上层建筑"
+        },
+        {
+          "OptionB" : "B.《一切主观世界的东西都要接受实践的检验》",
+          "OptionA" : "A.《标准只有-一个》",
+          "TopicContent" : "130、1978年5月11日，《光明日报》 发表题为()的特约评论员文章，揭开了真理标准问题大讨论的序幕。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.《实践是检验真理的唯一 标准》",
+          "OptionC" : "C.《马克思主义的一个最基本的原则》"
+        },
+        {
+          "OptionB" : "B.十- -届三中全会",
+          "OptionA" : "A.第十一次全国代表大会",
+          "TopicContent" : "131、中国共产党()，作出了把党和国家工作中心转移到经济建设上、实行改革开放的历史性决策。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.第十二次全国代表大会",
+          "OptionC" : "C.十- -届六中全会"
+        },
+        {
+          "OptionB" : "B、开创了第一个敌后抗日根据地",
+          "OptionA" : "A、开创了第一个农村革命根据地",
+          "TopicContent" : "132、第四套人民币100元背面的风景图取自江西省西南部湘赣两省交界的罗霄山脉的中段，古有“郴衡湘赣之交，千里罗霄之腹”之称。中国革命史上在此地区()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C、成立了中华苏维埃临时中央政府"
+        },
+        {
+          "OptionB" : "B、民族区域自治",
+          "OptionA" : "A、民族自治",
+          "TopicContent" : "233、中国共产党解决民族问题的基本政策是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C、民族平等"
+        },
+        {
+          "OptionB" : "B、杜家台分洪工程",
+          "OptionA" : "A、荆江分洪工程",
+          "TopicContent" : "134、人() 是新中国成立后全国第-一个大型防洪水利工程。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionC" : "C、洪湖分洪工程"
+        },
+        {
+          "OptionB" : "B.《为人民服务》",
+          "OptionA" : "A.《论联合政府》",
+          "TopicContent" : "135、“紧紧地和中国人民站在一起，全心全意地为中国人民服务，就是这个军队的唯一宗旨”这一归纳最早出现于()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "D.《论人民民主专政》.",
+          "OptionC" : "C.《论十大关系》"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "OptionA" : "A.120海里B.200海里C.220海里D.300海里.",
+          "AnswerContent" : "参考答案: B",
+          "AnswerArr" : [
+            "B"
+          ],
+          "TopicContent" : "136、《联合国海洋法公约》 规定，每一国家 专属经济区外部界线至领海基线不应超过()。"
+        },
+        {
+          "OptionB" : "B.300",
+          "OptionA" : "A.200",
+          "TopicContent" : "137、中国的海洋国土面积约为() 多万平方公里。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.600",
+          "OptionC" : "C.400"
+        },
+        {
+          "OptionB" : "B.志愿",
+          "OptionA" : "A.义务",
+          "TopicContent" : "138、从建军之日起到建国初期的1954年，我军实行的是()兵役制。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.民兵与预备役相结合的",
+          "OptionC" : "C.义务兵与志愿兵相结合的"
+        },
+        {
+          "OptionB" : "B.1984年12月",
+          "OptionA" : "A.1986年1月",
+          "TopicContent" : "139、() ，根据国务院、中央军委的决定，在原军事学院、政治学院和后勤学院基础上合并成立中国最高军事学府国防大学。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案:C",
+          "OptionC" : "C.1985年12月"
+        },
+        {
+          "OptionB" : "B.1997年7月1日",
+          "OptionA" : "A.1996年7月1日",
+          "TopicContent" : "140、“一-国两制”在香港、澳门顺利实施，() 中英双方顺利移交香港政权。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.1998年7月1日"
+        },
+        {
+          "OptionB" : "B.12月12日",
+          "OptionA" : "A.12月21日",
+          "TopicContent" : "141、澳门政权于1999年()由葡萄牙移交至中华人民共和国。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.12月20日",
+          "OptionC" : "C.12月02日"
+        },
+        {
+          "OptionB" : "B.全国人大常委会",
+          "OptionA" : "A.全国人民代表大会",
+          "TopicContent" : "142、“大三通”最早在1979年() 在《告台湾同胞书》中提出。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.国防部",
+          "OptionC" : "C.中共十一届四中全会"
+        },
+        {
+          "OptionB" : "B.翟志刚",
+          "OptionA" : "A.杨利伟",
+          "TopicContent" : "143、2008年9月25日至28日，我国自主研制的“神舟”七号载人航天飞船太空飞行获得成功。航天员()进行出仓活动，中国人的足迹第一次印在茫茫太空。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.刘伯明",
+          "OptionC" : "C.景海鹏"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "A.《国防 教育法》",
+          "AnswerArr" : [
+            "A"
+          ],
+          "TopicContent" : "144、1977年3月14日，由八届全国人大五次会议审议通过()，它是我国国防和武装力量建设的基本法。"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "OptionA" : "C.《兵役法》",
+          "AnswerContent" : "参考答案: B",
+          "AnswerArr" : [
+            "B"
+          ],
+          "TopicContent" : "3. 《国防法》"
+        },
+        {
+          "OptionB" : "B.贺绿汀，聂耳",
+          "OptionA" : "A.田汉，冼星海",
+          "TopicContent" : "145、中华人民共和国国歌的词作者和曲作者分别是()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.田汉，聂耳",
+          "OptionC" : "C.贺绿汀，冼星海"
+        },
+        {
+          "OptionB" : "B.《反对日本进攻的方针、办法和前途》",
+          "OptionA" : "A.《中国共产党在抗日时期的任务》",
+          "TopicContent" : "146、我们党和国家十分重视国防教育。早在抗日战争时期,毛泽东就提出把国防教育作为抗日救国的“八大纲领”之一, 他是在哪篇著作中提出这一-观点的?",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D.《 上海、太原失陷以后抗日战争形式和任务》",
+          "OptionC" : "C.《为动员一 切力量争取抗战胜利而斗争》"
+        },
+        {
+          "OptionB" : "B.根本原则",
+          "OptionA" : "A.必然要求",
+          "TopicContent" : "147、坚持-一个中国原则，是两岸关系和平发展的()。(D)",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.政治基础",
+          "OptionC" : "C.基本立场"
+        },
+        {
+          "OptionB" : "B.廖承志",
+          "OptionA" : "A.杨思远",
+          "TopicContent" : "148、1982年7月24日，() 写了《致蒋经国先生信》,并以“度尽劫波兄弟在,相逢-笑泯恩仇”为这封情深意长的信作结。不久，宋美龄回公开信作复。这是在海峡两岸中断交30多年后的第一次公开对话。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.叶剑英"
+        },
+        {
+          "OptionB" : "B.96",
+          "OptionA" : "A.150",
+          "TopicContent" : "149、我国政府1958年9月4日关于领海的声明中宣布，中国的领海宽度为() 海里。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "c.6",
+          "OptionC" : "C.12"
+        },
+        {
+          "OptionB" : "B.东汉",
+          "OptionA" : "A.西汉",
+          "TopicContent" : "150、南沙群岛自古以来就是中国领土，中国人早在() 时首次发现该群岛，1621 年刊印的《郑和航海图》将其列人中国版图。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D.三国",
+          "OptionC" : "C.南北朝"
+        },
+        {
+          "OptionB" : "B.《波 茨坦公告》",
+          "OptionA" : "A.《开罗宣言》",
+          "TopicContent" : "151、台湾自古就是中国领土。在二战胜利前夕的一次国际会议上曾明确提出:...三国之宗旨在剥削日本，自1914年第- -次世界大战开始以后在太平洋所夺得或占领之-切岛屿，在使日本所窃取中国之 领土，例如满洲、台湾、澎湖列岛等，归还中国...”这毁关于将台湾主权归还中国的文字摘自() 。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.《雅尔塔协 定》"
+        },
+        {
+          "OptionB" : "B.上海、嘉兴",
+          "OptionA" : "A.上海、天津",
+          "TopicContent" : "152、1921 年7月23日至8月初，中国共产党第- -次全国代表大会先后在( )召开。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.北京、上海."
+        },
+        {
+          "OptionB" : "B.五四运动",
+          "OptionA" : "A中国共产党的成立",
+          "TopicContent" : "153、( )标志着中国工人阶级开始以独立的政治力量登上了历史舞台。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.二七大罢工"
+        },
+        {
+          "OptionB" : "B.中共二大",
+          "OptionA" : "A中共一大",
+          "TopicContent" : "154、第- -次明确提出彻底的反帝反封建的民主革命纲领的会议是(B)",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.中共三大"
+        },
+        {
+          "OptionB" : "B.毛泽东",
+          "OptionA" : "A.蔡和森",
+          "TopicContent" : "155、“中国共产党这一称谓的最早提出者是(A)。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.陈独秀"
+        },
+        {
+          "OptionB" : "B.黄埔军校的建立",
+          "OptionA" : "A、国民党第一次全国代表 大会的召开",
+          "TopicContent" : "156、( )标志着第一次国共合作正式建立。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.北伐战争的开始"
+        },
+        {
+          "OptionB" : "B.党内合作",
+          "OptionA" : "A.党外合作",
+          "TopicContent" : "157、中共三大确立的国共合作方式是( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.平等合作"
+        },
+        {
+          "OptionB" : "B.资产阶级政党",
+          "OptionA" : "A.代表工农利益的政党",
+          "TopicContent" : "158、第一次国共合作建立后，国民党的性质演变为(C)。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.工人、农民、小资产阶级和民族资产阶级的革命联盟"
+        },
+        {
+          "OptionB" : "B.反帝反封建的民主革命",
+          "OptionA" : "A中共领导的中国人民的反帝爱国",
+          "TopicContent" : "159、五卅运动是( )运动。牛公众号:公基题库",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.无产阶级革命"
+        },
+        {
+          "OptionB" : "B.广州起义",
+          "OptionA" : "A.南昌起义",
+          "TopicContent" : "160、标志着中国共产党开始独立领导革命战争和创建人民军队的事件是()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.秋收起义"
+        },
+        {
+          "OptionB" : "A.井冈山会师.",
+          "OptionA" : "C.三湾改编",
+          "TopicContent" : "161、()从组织上确立了党对军队的绝对领导，为建立--支无产阶级领导下的新型人民军队奠定了基础。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "B.工农武装割据"
+        },
+        {
+          "OptionB" : "B.井冈山斗争中",
+          "OptionA" : "A八七会议上",
+          "TopicContent" : "162、“政权是由枪杆子中取得的”这一论断是毛泽东在() 提出的。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.反“围剿”斗争中"
+        },
+        {
+          "OptionB" : "B.上海",
+          "OptionA" : "A.莫斯科郊外的五一村",
+          "TopicContent" : "163、1928 年6月18日至7月11日，中国共产党第六次全国代表大会在(A)召开。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.列宁格勒近郊"
+        },
+        {
+          "OptionB" : "B.《关于纠正党内的错误思想》",
+          "OptionA" : "A.《关于军事战略问题》",
+          "TopicContent" : "164、古田会议通过的()决议案是中国共产党和红军建设的纲领性文献。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.《中国革命与中国共产党的任务》"
+        },
+        {
+          "OptionB" : "B.黎平会议",
+          "OptionA" : "A.古田会议",
+          "TopicContent" : "165、红军长征途中召开的( ) ,开始确立了毛泽东同志在党中央和红军的领导地位，挽救了党、挽救了红军、挽救了中国革命，成为党的历史上一个生死攸关的转折点。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.遵义会议"
+        },
+        {
+          "OptionB" : "B.洛川会议",
+          "OptionA" : "A八七会议",
+          "TopicContent" : "166、1935 年12月，中共中央政治局( )确定了抗日民族统- -战线的策略方针。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.瓦窑堡会议"
+        },
+        {
+          "OptionB" : "B.五.二0运动",
+          "OptionA" : "A.一二.九运动.",
+          "TopicContent" : "167、华北事变后，()标志着中国人民抗日救亡运动新高潮的到来。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.一二.-运动"
+        },
+        {
+          "OptionB" : "B.西安事变的和平解决",
+          "OptionA" : "A三大主力红军会师",
+          "TopicContent" : "168、标志着中国由国内战争走向抗日民族解放战争的转折点的事件是( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.第二次国共合作的建立"
+        },
+        {
+          "OptionB" : "B.军队",
+          "OptionA" : "A全面",
+          "TopicContent" : "169、中共洛川会议提出，争取抗战胜利的关键是实行中国共产党提出的( )抗战路线。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.游击"
+        },
+        {
+          "OptionB" : "B.《我的修养要则》",
+          "OptionA" : "A.《关于党性问题的报告大纲》",
+          "TopicContent" : "170、1939 年7月，刘少奇在延安马列学院的重要讲演(C) , 详细阐述了共产党员修养的内容和方法,第一次提出加强共产党员党性修养的必要性和重要意义。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.《论共产党员的修养》"
+        },
+        {
+          "OptionB" : "B.党风、学风、文风",
+          "OptionA" : "A.学风、党风、文风",
+          "TopicContent" : "171、1942 年,中国共产党在全党范围内进行了一次整风运动，其主要任务是反对主观主义以整顿( ),反对宗派主义以整顿()，反对党八股以整顿()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.文风、党风、学风"
+        },
+        {
+          "OptionB" : "B、列宁",
+          "OptionA" : "A、马克思",
+          "TopicContent" : "172、在马克思主义党的学说发展史上最先提出“党风”概念的是()。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C、毛泽东"
+        },
+        {
+          "OptionB" : "B.王稼祥",
+          "OptionA" : "A.张闻天",
+          "TopicContent" : "173、“ 毛泽东思想”这一-概念的提出者是( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.周恩来"
+        },
+        {
+          "OptionB" : "B.六届六中全会",
+          "OptionA" : "A.六大",
+          "TopicContent" : "174、党的( )确立了毛泽东思想为全党的指导思想。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.七大"
+        },
+        {
+          "OptionB" : "B.抗日战争",
+          "OptionA" : "A甲午中日战争",
+          "TopicContent" : "175、()是近百年来中国人民反对外国侵略者所取得的第--次完全胜利的民族解放战争。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.抗美援朝战争"
+        },
+        {
+          "OptionB" : "B.南京谈判",
+          "OptionA" : "A.停战谈判",
+          "TopicContent" : "176、抗日战争胜利后，国共双方举行了最高级别谈判,双方代表签署了《政府与中共代表会谈纪要》,这就是历史上著名的( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.重庆谈判"
+        },
+        {
+          "OptionB" : "B.北京",
+          "OptionA" : "A.延安",
+          "TopicContent" : "177、1949年3月，中共中央在( )召开七届二中全会，毛泽东在会上向全党同志提出了著名的“两个务必”思想。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.西柏坡"
+        },
+        {
+          "OptionB" : "B.《土地改革法》",
+          "OptionA" : "A.《中国土地法大纲》",
+          "TopicContent" : "178、在解放区的土地改革运动中颁布的土地法案是()",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.《土地法令》"
+        },
+        {
+          "OptionB" : "B.朱德",
+          "OptionA" : "A.叶剑英",
+          "TopicContent" : "179、1940 年8月，为粉碎日军进攻，八路军副总指挥( )指挥105个团共20余万人在华北地区发动了百团大战",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.彭德怀"
+        },
+        {
+          "OptionB" : "B.建国初期",
+          "OptionA" : "A.解放战争时期",
+          "TopicContent" : "180、中国彻底摧毁几千年的封建剥削制度是在( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.社会主义现代化建设新时期"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "OptionA" : "A.1949",
+          "AnswerContent" : "参考答案: B",
+          "AnswerArr" : [
+            "B"
+          ],
+          "TopicContent" : "181、我国社会主义初级阶段开始于( )年。",
+          "OptionB" : "B.1956公众C.1978"
+        },
+        {
+          "OptionB" : "B'避敌主力，打其虚弱”，集中优势兵力歼灭敌人",
+          "OptionA" : "A把革命的火种洒向西部",
+          "TopicContent" : "182、“红军不怕远征难，万水千山之等闲”，当年红军远征”的直接原因是( )",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C红军第五次反剿’的失利，被迫实施战略转移"
+        },
+        {
+          "OptionB" : "B.和谐发展",
+          "OptionA" : "A.在综合平衡中稳步前进",
+          "TopicContent" : "183、党的八大提出了( )的经济建设方针。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.多快好省地建设社会主义"
+        },
+        {
+          "OptionB" : "B是破除党内把马克思主义教条化的伟大思想解放动",
+          "OptionA" : "A是一次全党范围内的马克思主义思想教育运动",
+          "TopicContent" : "184、下列关于对延安整风运动的表述，不正确的是( )",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C确立了毛泽东思想为全党的指导思想"
+        },
+        {
+          "OptionB" : "B.经济建设",
+          "OptionA" : "A.社会主义现代化建设",
+          "TopicContent" : "185.中国共产党十一届三中全会确定把全党的工作重点转移到()上来。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.改革开放"
+        },
+        {
+          "OptionB" : "B.《关于建国以来党的若干历史问题的决议》",
+          "OptionA" : "A.《关于若干历史问题的决议》",
+          "TopicContent" : "186、党的十- -届六中全会通过的( )， 标志着党胜利地完成了指导思想.上的拨乱反正。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.《关于党内政治生活的若干准则》"
+        },
+        {
+          "OptionB" : "B.我国处于全面小康社会阶段",
+          "OptionA" : "A.我国处在社会主义初级阶段",
+          "TopicContent" : "187、人( )是邓小平同志和中国共产党对当代中国基本国情的科学判断。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.我国属于中等发达国家"
+        },
+        {
+          "OptionB" : "B.计划经济与市场经济相结合的",
+          "OptionA" : "A.有计划的商品经济",
+          "TopicContent" : "188、党的十四大作出三项具有深远意义的决策:一是抓住机遇,加快发展;二是明确我国经济体制改革的目标是建立(C)体制;三是提出用邓小平建设有中国特色社会主义理论武装全党。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.社会主义市场经济"
+        },
+        {
+          "OptionB" : "B.“一国两制”",
+          "OptionA" : "A.改革开放",
+          "TopicContent" : "189、1997 年7月1日，香港回归祖国，标志着邓小平( )构想获得巨大成功。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.全方位外交"
+        },
+        {
+          "OptionB" : "B.坚持与时俱进",
+          "OptionA" : "A.立党为公、执政为民",
+          "TopicContent" : "190、“三个代表”重要思想的本质是(A)。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionC" : "C.一切从实际出发"
+        },
+        {
+          "OptionB" : "B.党内民主",
+          "OptionA" : "A.协商民主",
+          "TopicContent" : "191、党的十六大提出，要以(B) 带动人民民主，发挥其对人民民主的重要示范和带动作用。",
+          "AnswerArr" : [
+
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: F",
+          "OptionC" : "C.民主集中制"
+        },
+        {
+          "OptionB" : "B.《中共中央关于完善社会主义市场经济体制若干问题的决定》",
+          "OptionA" : "A.《中共中央关于加强党的执政能力建设的决定》",
+          "TopicContent" : "192、党的十六届四中全会通过了( )。这是我们党第-一个全 面总结党的执政经验、指导全党担当起执政兴国历史使命的纲领性文件。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.《中共中央关于构建社会主义和谐社会若干重大问题的决定》"
+        },
+        {
+          "OptionB" : "B、蔡和森",
+          "OptionA" : "A、李大钊",
+          "TopicContent" : "193、在中国传播马克思主义的杰出代表、《我的马克思主义观》 一文的作者是(A)。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案:A",
+          "OptionC" : "C、赵世炎"
+        },
+        {
+          "OptionB" : "B.全面协调可持续发展",
+          "OptionA" : "A.以人为本.",
+          "TopicContent" : "194、科学发展观的核心是(A)。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C.和谐社会"
+        },
+        {
+          "OptionB" : "B、资产阶级民主革命",
+          "OptionA" : "A、新民主主义革命",
+          "TopicContent" : "195、1919 年的五四运动是一场彻底的反对帝国主义和封建主义的群众爱国运动。它标志着中国( )的伟大开端。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C、社会主义革命"
+        },
+        {
+          "OptionB" : "B.民主集中制",
+          "OptionA" : "A.首长负责制",
+          "TopicContent" : "196、党的组织原则是( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C.领导负责制"
+        },
+        {
+          "OptionB" : "B.解放和发展生产力",
+          "OptionA" : "A.实践“三个代表”",
+          "TopicContent" : "197、党的根本立场和惟一宗旨是( ) ,这是无产阶级政党区别于其他阶级政党的重要标志，也是共产党员党性修养的最高原则和根本内容。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.全心全意为人民服务"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "OptionA" : "A.《共产党宣言》",
+          "AnswerContent" : "C.《德意志意识形态》",
+          "AnswerArr" : [
+            "C"
+          ],
+          "TopicContent" : "198、马克思、恩格斯在( )一书中指出，共产党人的最终目的是消灭阶级，消灭剥削，建立共产主义社会。",
+          "OptionB" : "B.《关于费尔巴哈的提纲》"
+        },
+        {
+          "OptionB" : "B.经济领导",
+          "OptionA" : "A工作领导",
+          "TopicContent" : "199、从领导内容上来讲,党的领导是政治领导、( )和组织领导的统一。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C.思想领导"
+        },
+        {
+          "OptionB" : "B、群众路线",
+          "OptionA" : "A、廉政建设",
+          "TopicContent" : "200、党的建设的四项基本要求是:坚持党的基本路线,坚持解放思想、实事求是,坚持( ) ,坚持民",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C、全心全意为人民服务"
+        },
+        {
+          "OptionB" : "B、共产主义",
+          "OptionA" : "A、社会主义",
+          "TopicContent" : "201、中国共产党党员是中国工人阶级的有( )觉悟的先锋战士。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C、政治思想"
+        },
+        {
+          "OptionB" : "B、四年",
+          "OptionA" : "A、三年",
+          "TopicContent" : "202、党章规定，党的全国代表大会每(C) 举行- -次，由中央委员会召集。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C、五年"
+        },
+        {
+          "OptionB" : "B、五人",
+          "OptionA" : "A、三人",
+          "TopicContent" : "203、党章规定，企业、农村、机关、学校、科研院所、街道、人民解放军连队和其他基层单位，凡有正式党员()以上的，都应当成立党的基层组织。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C、七人"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "A、中心工作B、全部工作C、主要任务",
+          "AnswerArr" : [
+            "A"
+          ],
+          "TopicContent" : "204、党的基层组织是党在社会基层组织中的战斗堡垒，是党的(B) 和战斗力的基础。"
+        },
+        {
+          "OptionB" : "B、.上海",
+          "OptionA" : "A、北平",
+          "TopicContent" : "205、人民解放军发动渡江战役，于1949年4月23日占领()，宣告延续22年的国民党反动统治的覆",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C、南京"
+        },
+        {
+          "OptionB" : "B、毛泽东思想",
+          "OptionA" : "A、马克思主义",
+          "TopicContent" : "206、党的十七大在我党历史上第一次郑重地鲜明地完整地提出了高举(D) 伟大旗帜。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D、中国特色社会主义",
+          "OptionC" : "C、邓小平发展理论"
+        },
+        {
+          "OptionB" : "B、 第一个纲领",
+          "OptionA" : "A、第一个章程",
+          "TopicContent" : "207、1921年7月23日，中国共产党第一次全国代表大会 在上海举行，8月2日移至浙江嘉兴南湖继续举行并胜利闭幕。在南湖会议上,通过了中国共产党( )，选举产生了党的领导机构一中央局， 宣告了中国共产党的正式成立。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C、 第一个纲领和第一一个决议"
+        },
+        {
+          "OptionB" : "B、鄂豫皖",
+          "OptionA" : "A、海陆丰.",
+          "TopicContent" : "208、毛泽东领导的秋收起义军进攻长沙受挫后,起义部队到( )地区建立革命根据地。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C、井冈山"
+        },
+        {
+          "OptionB" : "B、统一战线、武装斗争、党的建设",
+          "OptionA" : "A、政治民主、军事民主、经济民主",
+          "TopicContent" : "209、1939 年7月7日，在华北联合大学举行的开学典礼上，毛泽东首次将(B) 称之为中国革命中战胜敌人的三个法宝。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C、理论联系实际、密切联系群众、批评和自我批评"
+        },
+        {
+          "OptionB" : "B、中共十一届六中全会",
+          "OptionA" : "A、中共十一届三中全会.",
+          "TopicContent" : "210、1978 年12月18日至22日，() 作出了把全党工作的重点转移到社会主义现代化建设上来的战略决策，这是建国以来党的历史具有深远意义的伟大转折。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C、中共十二大"
+        },
+        {
+          "OptionB" : "B、谦虚谨慎、戒骄戒躁、艰苦奋斗",
+          "OptionA" : "A、理论联系实际，密切联系群众，批评和自我批评",
+          "TopicContent" : "211、中国共产党的三大优良作风是( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionC" : "C、实事求是、群众路线、民主集中制"
+        },
+        {
+          "OptionB" : "B刘少奇",
+          "OptionA" : "A、毛泽东",
+          "TopicContent" : "212、正式确定中国共产党的三大优良作风，即理论和实践相结合，密切联系群众、批评和自我批评,是( )在《论联合政府》中提出的。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C、张闻天"
+        },
+        {
+          "OptionB" : "B、《论人民民主专政》",
+          "OptionA" : "A、《论联合 政府》",
+          "TopicContent" : "213、1949 年6月30日，毛泽东发表了( )的重要文章。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C、《 目前形势和我们的任务》"
+        },
+        {
+          "OptionB" : "B、澳门",
+          "OptionA" : "A、香港",
+          "TopicContent" : "214、为了解决台湾、香港、澳门的问题，实现祖国统一，邓小平创造性地提出“一国两制”的伟大构想。“一国两制”最早是针对() 提出的。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D、钓鱼岛",
+          "OptionC" : "C、台湾"
+        },
+        {
+          "OptionB" : "B、指引、服务、保证和协调",
+          "OptionA" : "A、政治领导、思想领导和组织领导",
+          "TopicContent" : "215、党的领导的主要内容是( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionC" : "C、从群众中来，到群众中去"
+        },
+        {
+          "OptionB" : "B、现代农业、工业、交通运输业、科学技术",
+          "OptionA" : "A、现代农业、工业、交通运输业、国防",
+          "TopicContent" : "216、周恩来在三届人大一-次会议上提出的四个现代化的内容是( )。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionC" : "C、现代农业、工业、国防、科学技术"
+        },
+        {
+          "IsMultipleChoice" : false,
+          "OptionA" : "A、毛泽东B、周恩来C、刘少奇D、邓小平",
+          "AnswerContent" : "参考答案: B",
+          "AnswerArr" : [
+            "B"
+          ],
+          "TopicContent" : "217、( )最早提出“知识分子已经是工人阶级的一-部分”观点。"
+        },
+        {
+          "OptionB" : "B、从预备期满转为正式党员之日算起",
+          "OptionA" : "A、从支部大会接收为预备党员之日算起",
+          "TopicContent" : "218、中国共产党党员的党龄，( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionC" : "C、从上级党委批准为预备党员之日算起."
+        },
+        {
+          "OptionB" : "B、五四运动",
+          "OptionA" : "A、新文化运动",
+          "TopicContent" : "219、标志着中国新民主主义革命开端的历史事件是()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D、五卅运动",
+          "OptionC" : "C、中国共产党成立"
+        },
+        {
+          "OptionB" : "B、中共三大的召开",
+          "OptionA" : "A、国民党第一-次全国代表大会的召开",
+          "TopicContent" : "220、第一次国共合作正式建立的标志是( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionD" : "D、北伐战争的开始",
+          "OptionC" : "C、黄埔军校的建立"
+        },
+        {
+          "OptionB" : "B、洛川会议",
+          "OptionA" : "A、八七会议",
+          "TopicContent" : "221、1935 年12月，中共中央在( )_ 上确定了抗日民族统- -战线的策略方针。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D、十二月会议",
+          "OptionC" : "C、瓦窑堡会议"
+        },
+        {
+          "OptionB" : "B、台儿庄战役",
+          "OptionA" : "A、平型关大捷.",
+          "TopicContent" : "222、全面抗战爆发后，八路军打的第-一个大胜仗是()。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D、长沙大捷",
+          "OptionC" : "C、武汉会战"
+        },
+        {
+          "OptionB" : "B、9月3日",
+          "OptionA" : "A、9月2日",
+          "TopicContent" : "223、1945 年()，日本代表在投降书上签字，日军128万人向中国投降。至此，中国抗日战争胜利结束,世界反法西斯战争也胜利结束。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A .",
+          "OptionD" : "D、8月16日",
+          "OptionC" : "C、8月15日"
+        },
+        {
+          "OptionB" : "B、济南战役",
+          "OptionA" : "A、孟良崮战役",
+          "TopicContent" : "224、人民解放战争的战略反攻开始于(C)。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案C",
+          "OptionD" : "D、渡江战役",
+          "OptionC" : "C、刘邓、陈谢、陈粟三军驰骋中原"
+        },
+        {
+          "OptionB" : "B、《论十大关系》",
+          "OptionA" : "A、《关于正确处理人民内部矛盾的问题》",
+          "TopicContent" : "225、1956 年4月，毛泽东发表( ), 初步提出了中国社会主义建设的基本方针，就是要把国内外- -切积极因素调动起来，为社会主义事业服务。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D、《论人 民民主专政》",
+          "OptionC" : "C、《目 前形势和我们的任务》"
+        },
+        {
+          "OptionB" : "B、26",
+          "OptionA" : "A、25",
+          "TopicContent" : "226、1971年10月25日，第()届联合国大会通过决议,恢复中华人民共和国在联合国的一切合法权益。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: B",
+          "OptionD" : "D、28",
+          "OptionC" : "C、27"
+        },
+        {
+          "OptionB" : "B、党的十五大",
+          "OptionA" : "A、党的十四大",
+          "TopicContent" : "227、( )对党章进行了修改,把中国特色社会主义理论体系写入党章。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionC" : "C、党的十六大;，D、 党的十七大"
+        },
+        {
+          "OptionB" : "B、党的十五届六中全会",
+          "OptionA" : "A、党的十四届四中全会",
+          "TopicContent" : "228、首次明确提出“提高党的建设科学化水平”这一重大命题的会议是( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: D",
+          "OptionD" : "D.党的十七届四中全会",
+          "OptionC" : "C、党的十六届四中全会题库"
+        },
+        {
+          "OptionB" : "B、周恩来",
+          "OptionA" : "A、毛泽东.",
+          "TopicContent" : "229、1947年7月至9月，在()主持下，中共中央工作委员会在河北平山县西柏坡召开全国土地会议,制定了《中国土地法大纲》。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: C",
+          "OptionD" : "D、任弼时",
+          "OptionC" : "C、刘少奇"
+        },
+        {
+          "OptionB" : "B、《中华 人民共和国土地法》",
+          "OptionA" : "A、《中华人民共和国宪法》",
+          "TopicContent" : "230、1954年9月15日至28日,第--届全国人民代表大会第一次会议在北京隆重召开。大会通过了(),以根本大法的形式，把中国共产党在过渡时期的总路线作为国家在过渡时期的总任务确定下来。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "参考答案: A",
+          "OptionD" : "D、《中华人 民共和国第一一个五年计划》",
+          "OptionC" : "C、《中 国共产党党章》"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块2: 多项选择题(50 题)",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.不拿群众一针一线",
+          "OptionA" : "A.一切行动听指挥",
+          "TopicContent" : "1、1928年4月，毛泽东将过去陆续提出的工农纪律和注意事项归纳为“三条纪律”和“六项注意”，后来发展为“三大纪律八项注意”,体现了新型人民军队的本质,是我军的光荣传统之-一。其中三大纪律内容是()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.不虐待俘虏",
+          "OptionC" : "C.一切缴获要归公"
+        },
+        {
+          "OptionB" : "B.敌疲我打、敌退我追",
+          "OptionA" : "A.敌进我退、敌驻我扰",
+          "TopicContent" : "2、1928 年5月，毛泽东和朱德等总结工农革命军作战经验，提出游击战争的基本原则，即以()为内容的“十六字诀”。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AB",
+          "OptionD" : "D.迁回穿插、围城打援",
+          "OptionC" : "C.集中兵力、诱敌深入"
+        },
+        {
+          "OptionB" : "B.红军必须置于中国共产党绝对领导之下",
+          "OptionA" : "A.红军是-个执行革命的政治任务的武装集团",
+          "TopicContent" : "3、1929年12月，中共红四军第九次代表大会通过的决议，即古田会议决议，确立了()。重要原则。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D.红军必须建立-一个很好的内部和外部关系",
+          "OptionC" : "C.红军必须建立强有力的政治工作"
+        },
+        {
+          "OptionB" : "B.党的领导",
+          "OptionA" : "A.部队建设",
+          "TopicContent" : "4、由于国民党的干涉，中国工农红军主力在改编八路军时，取消了政治委员制度，并将各师政治部改称政训处。为加强()，1937年10月，中共中央和中央军委决定八路军各师恢复政治委员制度和政治部名称。",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BC",
+          "OptionD" : "D.组织工作",
+          "OptionC" : "C.思想政治工作"
+        },
+        {
+          "OptionB" : "B.东江纵队",
+          "OptionA" : "A八路军.",
+          "TopicContent" : "5、抗日战争时期中国共产党领导的武装力量有() 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D.山西青年抗敌决死队",
+          "OptionC" : "C.新四军"
+        },
+        {
+          "OptionB" : "B.争取中间势力",
+          "OptionA" : "A.发展进步势力",
+          "TopicContent" : "6、1940年3 月，毛泽东在延安党的高级干部会议上作了《目前抗日统- -战线中的策略问题》报告，提出()的基本策略方针。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABD",
+          "OptionD" : "D.反对顽固势力",
+          "OptionC" : "C.消灭颃固势力"
+        },
+        {
+          "IsMultipleChoice" : true,
+          "OptionA" : "A.官兵一致B.军民- 致C.军政- 致D.瓦解敌军",
+          "AnswerContent" : "参考答案: ABD",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "TopicContent" : "7、抗战时期，毛泽东概括了我军政治工作的三大原则，内容是()。"
+        },
+        {
+          "OptionB" : "B.反对宗派主义以整顿党风",
+          "OptionA" : "A.反对主观主义以整顿学风车",
+          "TopicContent" : "8、从1942年春天起，中共中央、中央军委在全党全军范围内开展了一次普遍的整风运动。整风运动的任务是()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.反对官僚主义以整顿作风",
+          "OptionC" : "C.反对党八股以整顿文风"
+        },
+        {
+          "OptionB" : "B.和人民群众紧密联系在一起的作风",
+          "OptionA" : "A.理论和实际相结合的作风",
+          "TopicContent" : "9、在党的七大上，毛泽东把我党我军长期的革命实践中形成的优良作风概括为()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC .",
+          "OptionD" : "D.艰苦奋斗的作风",
+          "OptionC" : "C.自我批评的作风"
+        },
+        {
+          "OptionB" : "B.全心全意为人民服务的宗旨",
+          "OptionA" : "A.坚定正确的政治方向",
+          "TopicContent" : "10、我党我军在延安13年艰苦斗争中，培育和形成了延安精神，它包括()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D.艰苦奋斗的作风",
+          "OptionC" : "C.实事求是的思想路线"
+        },
+        {
+          "OptionB" : "B.骨干作用",
+          "OptionA" : "A.带头作用",
+          "TopicContent" : "11、1945年1月10日，陕甘宁边区召开劳动英雄和模范工作者大会，毛泽东在讲话中赞扬英雄模范发挥了()三个作用。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.示范作用",
+          "OptionC" : "C.桥梁作用"
+        },
+        {
+          "OptionB" : "B.民主.",
+          "OptionA" : "A.和平",
+          "TopicContent" : "12、抗战胜利后，中华民族面临两个前途、两种命运的斗争，中国共产党和广大人民要建立-一个()的新中国，而国民党集团则坚持内战、独裁、分裂，要把中国引向黑暗。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.富强.",
+          "OptionC" : "C.独立"
+        },
+        {
+          "OptionB" : "B.体力互助",
+          "OptionA" : "A.思想互助",
+          "TopicContent" : "13、1946年 12月，全军普遍开展以() 三大互助运动为基本内容的王克勤运动”，这一-运动成为群众性政治工作的一项重要内容。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.生活互助.",
+          "OptionC" : "C.技术互助"
+        },
+        {
+          "OptionB" : "B.陈粟野战军",
+          "OptionA" : "A.刘邓野战军",
+          "TopicContent" : "14、1947年7 月，() 三路大军挺进中原，人民解放军由战略防御转入战略进攻。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.林罗野战军",
+          "OptionC" : "C.陈谢集团"
+        },
+        {
+          "OptionB" : "B.官教兵",
+          "OptionA" : "A.官教官",
+          "TopicContent" : "15、1947 年9月，朱德总结军队工作中走群众路线的经验，提出军事教育走群众路线，实行()的办法。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BCD",
+          "OptionD" : "D.兵教兵",
+          "OptionC" : "C.兵教官"
+        },
+        {
+          "OptionB" : "B.立功创模运动",
+          "OptionA" : "A.诉苦三查运动",
+          "TopicContent" : "16、1947年9 月30日，华东军区政治部《军政杂志》发表《连队工作的三把钥匙》社论，指出:连队政治工作有许多宝贵经验和新的创造，特别是() 三种群众性运动，是打通连队工作之门的三把重要钥匙。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.整风运动",
+          "OptionC" : "C.团结互助运动"
+        },
+        {
+          "OptionB" : "B.经济民主",
+          "OptionA" : "A.军事民主",
+          "TopicContent" : "17、1948年1月30日，毛泽东为中央军委起草了《军队内部的民主运动》指示，将军队内部的民主生活概括为() 三大民主。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.管理民主",
+          "OptionC" : "C.政治民主"
+        },
+        {
+          "OptionB" : "B.西北野战军中原野战军",
+          "OptionA" : "A.东北野战军华东野战军",
+          "TopicContent" : "18、1948年11月1日，中央军委发出《关于统-一全军组织及部队番号的决定》规定:全军部队分为野战部队、地方部队、游击部队。野战军分别是()。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AB",
+          "OptionD" : "D.晋冀鲁豫野战军华北野战军",
+          "OptionC" : "C.华北野战军晋绥野战军"
+        },
+        {
+          "OptionB" : "B.反对宗派主义以整顿党风",
+          "OptionA" : "A反对主观主义以整顿学风车",
+          "TopicContent" : "19、从1942年春天起，中共中央、中央军委在全党全军范围内开展了-次普遍的整风运动。整风运动的任务是() 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D.反对官僚主义以整顿作风",
+          "OptionC" : "C.反对党八股以整顿文风"
+        },
+        {
+          "OptionB" : "B.西北野战军中原野战军",
+          "OptionA" : "A.东北野战军华东野战军",
+          "TopicContent" : "20、1948年11 月1日，中央军委发出《关于统一-全军组织及部队番号的决定》规定:全军部队分为野战部队、地方部队、游击部队。野战军分别是()。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AB",
+          "OptionD" : "D.晋冀鲁豫野战军华北野战军",
+          "OptionC" : "C.华北野战军晋绥野战军"
+        },
+        {
+          "OptionB" : "B.中原野战军改称第二野战军",
+          "OptionA" : "A.西北野战军改称第- -野战军",
+          "TopicContent" : "21、1949 年1月，中共中央军委发出指示，决定将四大野战军分别改称() 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D.东北野战军改称第四野战军",
+          "OptionC" : "C.华东野战军改称第三野战军"
+        },
+        {
+          "OptionB" : "B.绥远方式",
+          "OptionA" : "A北平方式",
+          "TopicContent" : "22、毛泽东在中共七届二中全会上指出:今后解决这一百多万残余国民党军队的方式，不外是()三种方式。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC .",
+          "OptionD" : "D.太原方式",
+          "OptionC" : "C.天津方式"
+        },
+        {
+          "OptionB" : "B.务必使同志们继续保持批评与自我批评的作风",
+          "OptionA" : "A.务必使同志们继续地保持谦虚谨慎、不骄不躁的作风",
+          "TopicContent" : "23、在七届二中全会上，毛泽东提出“两个务必’的内容是()。",
+          "AnswerArr" : [
+            "A",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AD",
+          "OptionD" : "D.务必使同志们继续保持艰苦奋斗的作风",
+          "OptionC" : "C.务必使同志们继续保持实事求是的作风"
+        },
+        {
+          "OptionB" : "B.五颗五角星及相互关系象征中国共产党领导下的革命人民大团结",
+          "OptionA" : "A.旗面的红色象征革命",
+          "TopicContent" : "24、五星红旗的基本含义是()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D.星用黄色是为在红底上显出光明",
+          "OptionC" : "C.四颗小五角星各有一尖正对着大星的-一个中心点,表示围绕着-一个中心 而团结、"
+        },
+        {
+          "OptionB" : "B.齿轮象征工人阶级",
+          "OptionA" : "A天安门图像象征着民族精神",
+          "TopicContent" : "25、中华人民共和国国徽包括五星、天安门、齿轮、麦稻穗，基本含义是()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D.五星代表中国共产党领导下的中国人民大团结",
+          "OptionC" : "C.麦稻穗象征农民阶级"
+        },
+        {
+          "OptionB" : "B.《纪律条令》",
+          "OptionA" : "A.《内务条令》",
+          "TopicContent" : "26、1951 年2月1日，人民解放军第一次颁布共同条令草案包括()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABD",
+          "OptionD" : "D.《队列条令》",
+          "OptionC" : "C.《警备条令》"
+        },
+        {
+          "OptionB" : "B.导弹",
+          "OptionA" : "A.原子弹",
+          "TopicContent" : "27、我国坚持独立自主、自力更生方针，国防科技工业取得了“两弹一星”的重大成就。 “两弹- -星 ”是指",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABD",
+          "OptionD" : "D.人造地球卫星，",
+          "OptionC" : "C.氢弹"
+        },
+        {
+          "OptionB" : "B.自力更生、艰苦奋斗",
+          "OptionA" : "A热爱祖国、无私奉献",
+          "TopicContent" : "28、1999年9月 18日，中共中央、国务院、中央军委在人民大会堂隆重举行表彰为研制“两弹- -星”做出突出贡献的科技专家大会。这次大会上概括的“两弹-星”精神是()",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC .",
+          "OptionD" : "D.求实创新、突破尖端",
+          "OptionC" : "C.大力协同、勇于登攀"
+        },
+        {
+          "OptionB" : "B、周恩来",
+          "OptionA" : "A、毛泽东",
+          "TopicContent" : "29、遵义会议以后，中共中央决定组成三人军事指挥小组，全权负责军事指挥。这三人是()。车",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC .",
+          "OptionD" : "D、朱德",
+          "OptionC" : "C、王稼祥"
+        },
+        {
+          "OptionB" : "B、统一战线",
+          "OptionA" : "A、实事求是",
+          "TopicContent" : "30、毛泽东在《<共产党人>发刊词》- -文中总结的中国革命的三大法宝是( )。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BCD",
+          "OptionD" : "D、党的建设",
+          "OptionC" : "C、武装斗争"
+        },
+        {
+          "OptionB" : "B、代表小资产阶级的非党左派进步分子",
+          "OptionA" : "A、代表工人阶级和贫农的共产党员",
+          "TopicContent" : "31、抗日战争时期，按“三三制”原则组成的边区政府，其成员包括()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABD",
+          "OptionD" : "D、代表开明绅士和中等资产阶级的中间派",
+          "OptionC" : "C、代表大资产阶级利益的国民党党员"
+        },
+        {
+          "OptionB" : "B、反对宗派主义以整顿党风",
+          "OptionA" : "A、反对主观主义以整顿学风",
+          "TopicContent" : "32、1942 年，中国共产党在全党范围内进行了-一次整风运动，其主要任务是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC .",
+          "OptionD" : "D、反对分散主义以整顿政风",
+          "OptionC" : "C、反对党八股以整顿文风"
+        },
+        {
+          "OptionB" : "B、做出了把党和国家工作重心转移到城市的决定",
+          "OptionA" : "A、确立毛泽东思想为党的指导思想",
+          "TopicContent" : "33、中共七大的重大意义在于( )。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ACD",
+          "OptionD" : "D、为抗日战争和新民主主义革命的胜利做了重要准备",
+          "OptionC" : "C、实现了全党空前的团结和统一"
+        },
+        {
+          "OptionB" : "B、和人民群众密切地联系在一起",
+          "OptionA" : "A、理论和实践相结合",
+          "TopicContent" : "34、毛泽东在《论联合政府》中提出的党的三大作风是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D、与时俱进",
+          "OptionC" : "C、自我批评"
+        },
+        {
+          "OptionB" : "B、独立自主",
+          "OptionA" : "A、解放思想",
+          "TopicContent" : "35、毛泽东思想活的灵魂是( )。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BCD",
+          "OptionD" : "D、群众路线",
+          "OptionC" : "C、实事求是"
+        },
+        {
+          "OptionB" : "B、没收中农的土地归贫农所有",
+          "OptionA" : "A、没收封建阶级的土地归农民所有",
+          "TopicContent" : "36、中国新民主主义革命的三大经济纲领是()。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ACD",
+          "OptionD" : "D、保护民族工商实业",
+          "OptionC" : "C、没收四大家族为首的垄断资本归新民主主义国家所有"
+        },
+        {
+          "OptionB" : "B、反浪费",
+          "OptionA" : "A、反贪污",
+          "TopicContent" : "37、新中国开展的“三反”运动是指( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D、反偷税漏税",
+          "OptionC" : "C、反官僚主义"
+        },
+        {
+          "OptionB" : "B、逐步实现国家对农业的社会主义改造",
+          "OptionA" : "A、逐步实现国家的社会主义工业化",
+          "TopicContent" : "38、党在过渡时期总路线的基本内容包括( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D、逐步实现国家对资本主义工商业的社会主义改造",
+          "OptionC" : "C、逐步实现国家对手工业的社会主义改造"
+        },
+        {
+          "OptionB" : "B、巩固",
+          "OptionA" : "A、调整",
+          "TopicContent" : "39、1961 年1月，八届九中全会正式决定对国民经济实行( )的八字方针。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D、提高",
+          "OptionC" : "C、充实"
+        },
+        {
+          "OptionB" : "B、坚持社会主义道路",
+          "OptionA" : "A、坚持改革开放",
+          "TopicContent" : "40、邓小平提出的我们必须在思想政治上坚持的四项基本原则是( )。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BCDE",
+          "OptionD" : "D、坚持马列主义、毛泽东思想E、坚持人民民主专政",
+          "OptionC" : "C、坚持共产党的领导"
+        },
+        {
+          "OptionB" : "B、互相监督",
+          "OptionA" : "A、长期共存",
+          "TopicContent" : "41、中国共产党与各民主党派实行( )的方针。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D、荣辱与共.",
+          "OptionC" : "C、肝胆相照"
+        },
+        {
+          "OptionB" : "B、是否有利于构建社会主义和谐社会",
+          "OptionA" : "A、是否有利于发展社会主义社会的生产力",
+          "TopicContent" : "42、邓小平提出的“三个有利于标准”是( )。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ACD",
+          "OptionD" : "D、是否有利于提高人民的生活水平",
+          "OptionC" : "C、是否有利于增强社会主义国家的综合国力"
+        },
+        {
+          "OptionB" : "B、发展生产力",
+          "OptionA" : "A、解放生产力",
+          "TopicContent" : "43、社会主义的本质是( ABCDE)。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCDE",
+          "OptionD" : "D、消除两极分化E、最终达到共同富裕",
+          "OptionC" : "C、消灭剥削"
+        },
+        {
+          "OptionB" : "B、讲发展",
+          "OptionA" : "A、讲学习",
+          "TopicContent" : "44、加强思想政治建设的“三讲”是指( )。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ACD",
+          "OptionD" : "D、讲政治",
+          "OptionC" : "C、讲正气"
+        },
+        {
+          "OptionB" : "B、中国先进生产力的发展要求",
+          "OptionA" : "A、中国社会发展的方向",
+          "TopicContent" : "45、“三个代表”重要思想的集中概括就是:中国共产党必须始终代表( )。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: BCD",
+          "OptionD" : "D、中国最广大人民的根本利益",
+          "OptionC" : "C、中国先进文化的前进方向"
+        },
+        {
+          "OptionB" : "B、中国人民和中华民族",
+          "OptionA" : "A、中国工人阶级",
+          "TopicContent" : "46、党的十六大通过的党章中明确规定:中国共产党是( )的 先锋队。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AB",
+          "OptionD" : "D、知识分子.",
+          "OptionC" : "C、劳动群众"
+        },
+        {
+          "OptionB" : "B、社会主义建设规律",
+          "OptionA" : "A、共产党执政规律",
+          "TopicContent" : "47、党的十七大提出，要进一步把握( )， 提高运用科学理论分析和解决实际问题能力。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABD",
+          "OptionD" : "D、人类社会发展规律",
+          "OptionC" : "C、社会主义改革规律"
+        },
+        {
+          "OptionB" : "B、中国特色社会主义理论体系",
+          "OptionA" : "A、中国特色社会主义道路",
+          "TopicContent" : "48、高举中国特色社会主义伟大旗帜，最根本的就是要坚持( )。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: AB",
+          "OptionD" : "D、中国特色社会主义改革开放",
+          "OptionC" : "C、中国特色社会主义政治制度"
+        },
+        {
+          "OptionB" : "B、建设什么样的党，怎样建设党",
+          "OptionA" : "A、什么是社会主义，怎样建设社会主义",
+          "TopicContent" : "49、中国特色社会主义理论体系是围绕探索和回答()三大基本问题形成的系统完整的科学理论体系。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABC",
+          "OptionD" : "D、建设什么样的国家，怎样建设",
+          "OptionC" : "C、实现什么样的发展，怎样发展."
+        },
+        {
+          "OptionB" : "B、统筹区域发展",
+          "OptionA" : "A、统筹城乡发展",
+          "TopicContent" : "50、贯彻落实科学发展观要求做到的几个统筹是(ABCDE)。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "参考答案: ABCD",
+          "OptionD" : "D、统筹人与自然和谐发展、统筹国内发展和对外开放",
+          "OptionC" : "C、统筹经济社会发展"
+        }
+      ]
+    }
+  ]
+}

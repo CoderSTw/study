@@ -1,0 +1,3044 @@
+{
+  "TITLE" : "专项：悦享全国时政",
+  "MODULEARRS" : [
+    {
+      "ModuleTitile" : "模块1: 21年5月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.安全",
+          "OptionA" : "A.简约.",
+          "TopicContent" : "1. (多选)国家主席习近平5月7日同国际奥委会主席巴赫通电话。他强调，中方对北京冬奥会、冬残奥会如期成功举行充满信心，愿同国际奥委会和国际社会-道,确保北京冬奥会、冬残奥会成为一届( ) 的奥运盛会。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.精彩",
+          "OptionC" : "C.节俭"
+        },
+        {
+          "OptionB" : "B.祖冲之号",
+          "OptionA" : "A.九章号.",
+          "TopicContent" : "2.记者5月8日从中国科学技术大学获悉，该校潘建伟院士团队近期成功研制了目前国际上超导量子比特数量最多的量子计算原型机( ) 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.张衡号",
+          "OptionC" : "C.圆周号"
+        },
+        {
+          "OptionB" : "B.整治地下水污染，拥抱美好的明天",
+          "OptionA" : "A.珍惜每- -滴清水， 建设节水型城市",
+          "TopicContent" : "3.5月9日至15日是第30个全国城市节约用水宣传周,今年活动的主题为( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.贯彻新发展理念，建设节水型城市",
+          "OptionC" : "C.养成节水好习惯,树立绿色好风尚"
+        },
+        {
+          "OptionB" : "B.武汉",
+          "OptionA" : "A北京",
+          "TopicContent" : "4.5月10日,以“中国品牌，世界共享;聚力双循环，引领新消费”为主题的2021年中国品牌日活动在( )隆重开幕。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D._上海.",
+          "OptionC" : "C.杭州"
+        },
+        {
+          "OptionB" : "B.坡道定点停车和起步",
+          "OptionA" : "A.倒车入库",
+          "TopicContent" : "5.记者5月10日从公安部新闻发布会上获悉, 2021年6月1日起,优化驾驶证考试内容和程序。小型自动挡汽车科目二考试取消( ) 项目,考试由5项减少为4项。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.直角拐弯",
+          "OptionC" : "C.侧方位停车"
+        },
+        {
+          "OptionB" : "B.弘扬中国精神",
+          "OptionA" : "A.坚持中国道路",
+          "TopicContent" : "6. (多选)中共中央总书记、国家主席、中央军委主席习近平5月9日给《文史哲》编辑部全体编辑人员回信，对办好哲学社会科学期刊提出殷切期望。他指出，增强做中国人的骨气和底气,让世界更好认识中国、了解中国，需要深入理解中华文明，从历史和现实、理论和实践相结合的角度深入阐释如何更好( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.发展中国经济",
+          "OptionC" : "C.凝聚中国力量"
+        },
+        {
+          "OptionB" : "B.14. 1178亿",
+          "OptionA" : "A. 13.1745亿",
+          "TopicContent" : "7.5月12日，国务院新闻办公室举行新闻发布会,介绍第七次全国人口普查主要数据结果。根据数据，第七次全国人口普查显示，全国人口共( )人。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.15.1363亿",
+          "OptionC" : "C.14.6721亿"
+        },
+        {
+          "OptionB" : "B.广东",
+          "OptionA" : "A.河南",
+          "TopicContent" : "8. (多选) 5月12日,第七次全国人口普查显示，全国人口共141178万人。数据表明，31个省份中，人口超过1亿的省份有2个，是()。",
+          "AnswerArr" : [
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BD",
+          "OptionD" : "D.山东",
+          "OptionC" : "C.四川"
+        },
+        {
+          "OptionB" : "B.12",
+          "OptionA" : "A.11",
+          "TopicContent" : "9.今年5月12日是我国第( ) 个全国防灾减灾日, 5月8日至14日为第( ) 个防灾减灾宣传周，主题是“防范化解灾害风险,筑牢安全发展基础”。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.15",
+          "OptionC" : "C.13"
+        },
+        {
+          "OptionB" : "B.三峡水利工程",
+          "OptionA" : "A.南水北调工程",
+          "TopicContent" : "10.习近平总书记于5月14日上午在河南省南阳市主持召开推进南水北调后续工程高质量发展座谈会并发表重要讲话。他指出，( ) 是中华民族的世纪创举。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.引黄灌溉工程",
+          "OptionC" : "C.“四横三纵、南北调配、东西互济”的水资源配置格局"
+        },
+        {
+          "OptionB" : "B.长征一-号",
+          "OptionA" : "A.天问一号",
+          "TopicContent" : "11.5月15日7时18分,根据“祝融号”火星车发回遥测信号确认，( ) 着陆巡视器成功着陆于火星乌托邦平原南部预选着陆区，我国首次火星探测任务着陆火星取得圆满成功，中国成为第二个实现火星着陆的国家。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.嫦娥一号",
+          "OptionC" : "C.天宫- -号"
+        },
+        {
+          "OptionB" : "B.湖南",
+          "OptionA" : "A.山东",
+          "TopicContent" : "12.近日，( ) 在全国首创试点首席数据官制度,为全面落实首席数据官制度积累可复制、可推广的经验做法，在全国范围内具有示范引领意义。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.广东",
+          "OptionC" : "C.天津"
+        },
+        {
+          "OptionB" : "B.疫",
+          "OptionA" : "A.仁",
+          "TopicContent" : "13. 2021“一带-路”年度汉字发布活动5月15日在山东济宁曲阜尼山圣境举行。活动揭晓2021“一带-路”年度汉字是( ) 字。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.互",
+          "OptionC" : "C.信"
+        },
+        {
+          "OptionB" : "B.大堡核电站",
+          "OptionA" : "A.田湾核电站",
+          "TopicContent" : "14. (多选)5月19日下午，国家主席习近平在北京通过视频连线,同俄罗斯总统普京共同见证两国核能合作项目( ) 开工仪式。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] AB",
+          "OptionD" : "D.渤中核电站",
+          "OptionC" : "C.远东核电站"
+        },
+        {
+          "OptionB" : "B.《同舟共济克时艰，命运与共创未来》",
+          "OptionA" : "A.《携手共建人类卫生健康共同体》",
+          "TopicContent" : "15.5月21日晚，国家主席习近平应邀在北京以视频方式出席全球健康峰会，并发表题为( ) 的重要讲话。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.《构建新发展格局，实现互利发展》",
+          "OptionC" : "C.《携手共建开放创新的世界》"
+        },
+        {
+          "OptionB" : "B.65",
+          "OptionA" : "A.50",
+          "TopicContent" : "16.5月21日,国家主席习近平同巴基斯坦总统阿尔维就中巴建交( ) 周年互致贺电。他在贺电中指出,中国和巴基斯坦是全天候战略合作伙伴,在涉及彼此核心利益和重大关切问题.上相互坚定支持。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.75",
+          "OptionC" : "C.70"
+        },
+        {
+          "OptionB" : "B.五峰山长江大桥",
+          "OptionA" : "A.宜宾临港长江大桥",
+          "TopicContent" : "17.5月21日，( ) 北岸钢箱梁成功架设,标志着大桥全面进入上部结构施工阶段。该桥是我国首座公铁平层布置的钢箱梁斜拉桥、世界跨度最大的公铁两用钢箱梁斜拉桥、世界最宽的公铁两用桥。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.江津长江公路大桥",
+          "OptionC" : "C.南溪仙源长江大桥"
+        },
+        {
+          "OptionB" : "B.改革先锋",
+          "OptionA" : "A.共和国勋章",
+          "TopicContent" : "18. (多选)中国工程院院士袁隆平,因多器官功能衰竭，于5月22日在长沙逝世,享年91岁。以下为袁隆平获得的荣誉和奖项的有( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.世界杰出华人奖",
+          "OptionC" : "C.国家科技进步奖"
+        },
+        {
+          "OptionB" : "B.张洪",
+          "OptionA" : "A.阎庚华",
+          "TopicContent" : "19.5月24日，已经失明25年的中国盲人( ) 成功从尼泊尔-侧登上世界最高峰珠穆朗玛峰，成为亚洲首位登上珠峰的盲人。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.潘多",
+          "OptionC" : "C.夏伯渝"
+        },
+        {
+          "OptionB" : "B.新中国史，",
+          "OptionA" : "A.中国近代史",
+          "TopicContent" : "20. (多选)近日,中共中央办公厅印发《关于在全社会开展党史、( ) 宣传教育的通知》，对在中国共产党成立100周年之际开展“四史”宣传教育作出安排部署。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD",
+          "OptionD" : "D.社会主义发展史",
+          "OptionC" : "C.改革开放史"
+        },
+        {
+          "AnswerArr" : [
+
+          ],
+          "AnswerContent" : "21.5月28日，我国正在开展的第16轮( ) 装置物理实验实现了可重复的1.2亿度101秒等离子体运行和",
+          "IsMultipleChoice" : true
+        },
+        {
+          "OptionB" : "B. EAST",
+          "OptionA" : "A. FAST",
+          "TopicContent" : "1.6亿度20秒等离子体运行，再次创造托卡马克实验装置运行新的世界纪录。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D. EOST",
+          "OptionC" : "C. MOST"
+        },
+        {
+          "OptionB" : "B.诚信",
+          "OptionA" : "A.创新",
+          "TopicContent" : "22.5月28日,中国科学院第二十次院士大会、中国工程院第十五次院士大会和中国科学技术协会第十次全国代表大会在北京人民大会堂隆重召开。中共中央总书记、国家主席、中央军委主席习近平出席大会并发表重要讲话指出，( ) 是科学精神的必然要求。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.忠诚",
+          "OptionC" : "C.求实"
+        },
+        {
+          "OptionB" : "B.天和二号",
+          "OptionA" : "A.天和一号",
+          "TopicContent" : "23.5月29日晚,我国在海南文昌航天发射场准时点火发射( ) 货运飞船。这是空间站货物运输系统的第一次应用性~飞行。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.天舟二号",
+          "OptionC" : "C.天舟一号"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块2: 21年6月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B. HarmonyOS 2",
+          "OptionA" : "A.鸿蒙0S2. 0手机开发者Beta版",
+          "TopicContent" : "1.6月2日晚20:00，华为宣布，旗下手机、平板电脑等多款设备将陆续启动( ) 升级。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.安卓.",
+          "OptionC" : "C. i0S"
+        },
+        {
+          "OptionB" : "B.60人与自然和谐相处",
+          "OptionA" : "A.50人 与自然和谐共生",
+          "TopicContent" : "2.6月5日是第( ) 个世界环境日。今年世界环境日的主题为:生态系统恢复。中国的主题为: ( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.80人与自然和谐相处",
+          "OptionC" : "C. 70人与自然和谐共生"
+        },
+        {
+          "OptionB" : "B.聂海胜",
+          "OptionA" : "A.费俊龙",
+          "TopicContent" : "3. (多选)6月17日，我国在酒泉卫星发射中心，运用长征二号F运载火箭，将搭乘着神舟十二号载人飞船的( ) 三名航天员顺利送入太空。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD",
+          "OptionD" : "D.汤洪波",
+          "OptionC" : "C.刘伯明"
+        },
+        {
+          "OptionB" : "B.青藏铁路",
+          "OptionA" : "A.拉林铁路",
+          "TopicContent" : "4.6月25日，西藏首条电气化铁路( )正式开通运营，复兴号高原内电双源动车组同步投入运营,这是复兴号首次开进西藏。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.新藏铁路",
+          "OptionC" : "C.川藏铁路"
+        },
+        {
+          "OptionB" : "B.三峡水电站",
+          "OptionA" : "A.白鹤滩水电站",
+          "TopicContent" : "5.金沙江( ) 首批机组于6月28日安全准点投产发电。该水电站是实施“西电东送”的国家重大工程，是当今世界在建规模最大、技术难度最高的水电工程。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.葛洲坝水电站",
+          "OptionC" : "C.绿洲滩水电站"
+        },
+        {
+          "OptionB" : "B.雷锋",
+          "OptionA" : "A.马毛姐",
+          "TopicContent" : "6.毛主席曾为( ) 题词“好好学习、天天向上”。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.江姐.",
+          "OptionC" : "C.张思德"
+        },
+        {
+          "OptionB" : "B.践行宗旨",
+          "OptionA" : "A.坚定信念",
+          "TopicContent" : "7. (多选)领导人在“七一勋章”颁授仪式上的讲话强调: “七-勋章”获得者，就是各条战线党员中的杰出代表。在他们身上,生动体现了中国共产党人( ) 的高尚品质和崇高精神。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.廉洁奉公",
+          "OptionC" : "C.拼搏奉献"
+        },
+        {
+          "OptionB" : "B.斧头",
+          "OptionA" : "A.齿轮",
+          "TopicContent" : "8. (多选)中国共产党党徽为( )组成的图案。",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] CD",
+          "OptionD" : "D.锤头",
+          "OptionC" : "C.镰刀"
+        },
+        {
+          "OptionB" : "B.上海;交叉、融合、相生、共赢",
+          "OptionA" : "A..上海;智联世界,无限可能",
+          "TopicContent" : "9. 2021全球人工智能技术大会(GAITC2021)6月5日在( ) 召开，大会主题: ( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.杭州;交叉、融合、相生、共赢",
+          "OptionC" : "C.杭州;智联世界，无限可能"
+        },
+        {
+          "OptionB" : "B.江苏",
+          "OptionA" : "A.浙江",
+          "TopicContent" : "10.6月10日，中共中央、国务院发布关于支持( ) 高质量发展建设共同富裕示范区的意见。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.广东",
+          "OptionC" : "C._上海"
+        },
+        {
+          "OptionB" : "B.2030年",
+          "OptionA" : "A.2025年",
+          "TopicContent" : "11.6月10日,中共中央、国务院发布关于支持浙江高质量发展建设共同富裕示范区的意见。到( ) , 浙江省高质量发展取得更大成就，基本实现共同富裕。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.2050年",
+          "OptionC" : "C.2035年."
+        },
+        {
+          "OptionB" : "B.房产税法; 12个",
+          "OptionA" : "A.房产税法; 11个",
+          "TopicContent" : "12.十三届全国人大常委会第二十九次会议6月10日表决通过了( ) 。我国现行18个税种中已有( ) 税种制定了法律，税收法定加快落实，税收立法再进一程。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.印花税法; 12个",
+          "OptionC" : "C.印花税法; 11个"
+        },
+        {
+          "OptionB" : "B.外国制裁法",
+          "OptionA" : "A.反外国制裁法",
+          "TopicContent" : "13.6月10日下午，十三届全国人大常委会第二十九次会议表决通过了《中华人民共和国( ) 》,是我国为了坚决维护国家主权、尊严和核心利益，反对西方霸权主义和强权政治而制定的一部专门]的反外国制裁法，为我国依法反制外国歧视性措施提供有力的法治支撑和保障。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.反霸权法",
+          "OptionC" : "C.反制裁法"
+        },
+        {
+          "OptionB" : "B.①②③⑤⑥",
+          "OptionA" : "A.①②③④⑥",
+          "TopicContent" : "14.6月11日,国家航天局公布了天问一号探测器着陆火星首批科学影像图，标志着我国首次火星探测任务取得圆满成功。在我国航天发展史上,天问一号任务实现了几个首次: ( ) 。①首次实现地火转移轨道探测器发射;②首次实现行星际飞行;③首次实现地外行星软着陆;④首次实现地外行星表面巡视探测;⑤首次实现4亿公里距离的测控通信;⑥首次获取第一手的火星 科学数据。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.①②③④⑤⑥",
+          "OptionC" : "C.①②④⑤⑥"
+        },
+        {
+          "OptionB" : "B.理论自信",
+          "OptionA" : "A.道路自信",
+          "TopicContent" : "15. (多选) 6月16日出版的第12期《求是》杂志将发表习近平的重要文章《以史为镜、以史明志，知史爱党、知史爱国》。文章强调，广泛开展宣传教育,加强思想舆论引导，坚定广大干部群众对中国特色社会主义的( ) ，进一步激发全体人民爱党、爱国、爱社会主义的巨大热情。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.文化自信",
+          "OptionC" : "C.制度自信"
+        },
+        {
+          "OptionB" : "B.校外教育培训管理司",
+          "OptionA" : "A.校外教育培训监管司",
+          "TopicContent" : "16.6月15日，教育部宣布成立( ) 。其主要职责是:承担面向中小学生(含幼儿园儿童)的校外教育培训管理工作，指导校外教育培训机构党的建设，拟订校外教育培训规范管理政策。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.校外培训机构管理司",
+          "OptionC" : "C.校外培训机构监管司"
+        },
+        {
+          "OptionB" : "B.刘伯明",
+          "OptionA" : "A.聂海胜",
+          "TopicContent" : "17.神舟十二号载人飞船于6月17日9时22分发射成功, :飞行乘组由航天员聂海胜、刘伯明和汤洪波三人组成。其中( ) 是第一次参加载人航天任务。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.杨利伟",
+          "OptionC" : "C.汤洪波"
+        },
+        {
+          "OptionB" : "B.天宫核心舱;自主快速交会对接",
+          "OptionA" : "A.天宫核心舱;手动快速交会对接",
+          "TopicContent" : "18.6月17日，神舟十二号载人飞船成功发射，并与与( ) 成功实现( ) , 6月17日18时48分,航天员聂海胜、刘伯明、汤洪波先后进入天和核心舱，标志着中国人首次进入自己的空间站。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.天和核心舱;自主快速交会对接",
+          "OptionC" : "C.天和核心舱;手动快速交会对接"
+        },
+        {
+          "OptionB" : "B.国家的历史",
+          "OptionA" : "A.党的历史",
+          "TopicContent" : "19.在庆祝中国共产党成立100周年之际，习近平6月18日前往中国共产党历史展览馆,参观“‘不忘初心、牢记使命’中国共产党历史展览”，并带领党员领导同志重温入党誓词。他强调，( ) 是最生动、最有说服力的教科书。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.开放的历史",
+          "OptionC" : "C.民族的历史"
+        },
+        {
+          "OptionB" : "B.红色血脉;红色资源",
+          "OptionA" : "A.红色资源;红色血脉",
+          "TopicContent" : "20.中共中央政治局6月25日下午就用好红色资源、赓续红色血脉进行第三十-次集体学习。习近平在主持学习时强调，( ) 是我们党艰辛而辉煌奋斗历程的见证，是最宝贵的精神财富。( ) 是中国共产党政治本色的集中体现，是新时代中国共产党人的精神力量源泉。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.红色精神;红色血脉",
+          "OptionC" : "C.红色资源;红色精神"
+        },
+        {
+          "OptionB" : "B.成都天府国际机场;成都",
+          "OptionA" : "A.成都双流国际机场;成都",
+          "TopicContent" : "21.6月27日，( ) 正式开航投运。( ) 成为继上海、北京之后,我国内地第三个拥有双国际枢纽机场的城市。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.大连金州湾国际机场;大连",
+          "OptionC" : "C.青岛胶东国际机场;青岛"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块3: 21年7月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.实现中华民族伟大复兴",
+          "OptionA" : "A.实现共产主义",
+          "TopicContent" : "1. 一百年来,中国共产党团结带领中国人民进行的一切奋斗、一切牺牲、一切创造，归结起来就是一个主题:",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.建设社会主义现代化国家",
+          "OptionC" : "C.实现全面小康"
+        },
+        {
+          "OptionB" : "B.深刻改变了中国人民和中华民族的前途和命运",
+          "OptionA" : "A.深刻改变了近代以后中华民族发展的方向和进程",
+          "TopicContent" : "2. (多选)7月1日上午,庆祝中国共产党成立100周年大会在北京天安门广场隆重举行，各界代表7万余人以盛大仪式欢庆中国共产党百年华诞。中共中央总书记、国家主席、中央军委主席习近平发表重要讲话提到，中国产生了共产党,这是开天辟地的大事变，( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.深刻改变了新时代中国特色社会主义的巨大成就",
+          "OptionC" : "C.深刻改变了世界发展的趋势和格局"
+        },
+        {
+          "OptionB" : "B.坚持真理、坚守理想，不怕牺牲、英勇斗争，对党忠诚、不负人民",
+          "OptionA" : "A.坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争，对党忠诚、不负人民",
+          "TopicContent" : "3.-百年前，中国共产党的先驱们创建了中国共产党,形成了( ) 的伟大建党精神,这是中国共产党的精神之源。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.践行初心、担当使命，不怕牺牲、英勇斗争，对党忠诚、不负人民",
+          "OptionC" : "C.坚持真理、坚守理想，践行初心、担当使命，不怕牺牲、英勇斗争,对党忠诚、不负人民"
+        },
+        {
+          "OptionB" : "B.全心全意为人民服务",
+          "OptionA" : "A.中国共产党领导",
+          "TopicContent" : "4. ( ) 是中国特色社会主义最本质的特征,是中国特色社会主义制度的最大优势,是党和国家的根本所在、命脉所在，是全国各族人民的利益所系、命运所系。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.继续推进马克思主义中国化",
+          "OptionC" : "C.团结带领中国人民不断为美好生活而奋斗"
+        },
+        {
+          "OptionB" : "B.民主执政",
+          "OptionA" : "A.科学执政",
+          "TopicContent" : "5. (多选)新的征程上,我们必须坚持党的全面领导，不断完善党的领导，增强“四个意识”、坚定“四个自信”、做到“两个维护”，牢记“国之大者”,不断提高党( )水平，充分发挥党总揽全局、协调各方的领导核心作用!",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.依法执政",
+          "OptionC" : "C.综合执政"
+        },
+        {
+          "OptionB" : "B.新时代社会主义",
+          "OptionA" : "A.中国特色社会主义",
+          "TopicContent" : "6. ( )是我们立党立国的根本指导思想，是我们党的灵魂和旗帜。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.马克思主义",
+          "OptionC" : "C.社会主义"
+        },
+        {
+          "OptionB" : "B.创新时代",
+          "OptionA" : "A.观察时代",
+          "TopicContent" : "7. (多选)新的征程上,我们必须坚持马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观，全面贯彻新时代中国特色社会主义思想，坚持把马克思主义基本原理同中国具体实际相结合、同中华优秀传统文化相结合,用马克思主义( )，继续发展当代中国马克思主义、21 世纪马克思主义!",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ACD",
+          "OptionD" : "D.引领时代",
+          "OptionC" : "C.把握时代"
+        },
+        {
+          "OptionB" : "B.全心全意为人民服务",
+          "OptionA" : "A.坚持和发展中国特色社会主义",
+          "TopicContent" : "8. ( )是党的全部理论和实践立足点,更是党百年奋斗得出的历史结论。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.走自己的路",
+          "OptionC" : "C.创造中国式现代化新道路"
+        },
+        {
+          "OptionB" : "B.基本路线",
+          "OptionA" : "A.基本理论",
+          "TopicContent" : "9. (多选)新的征程上，我们必须坚持党的( ) ,统筹推进“五位- -体”总体布局、协调推进“四个全面”战略布局，全面深化改革开放，立足新发展阶段，完整、准确、全面贯彻新发展理念,构建新发展格局，推动高质量发展，推进科技自立自强，保证人民当家作主，坚持依法治国，坚持社会主义核心价值体系，坚持在发展中保障和改善民生，坚持人与自然和谐共生,协同推进人民富裕、国家强盛、中国美丽。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.基本道路",
+          "OptionC" : "C.基本方略"
+        },
+        {
+          "OptionB" : "B.政治建军、创新强军、科技强军、人才强军、依法治军",
+          "OptionA" : "A.政治建军、改革强军、科技强军、人才强军",
+          "TopicContent" : "10.新的征程上,我们必须全面贯彻新时代党的强军思想，贯彻新时代军事战略方针,坚持党对人民军队的绝对领导，坚持走中国特色强军之路，全面推进( ) ，把人民军队建设成为世界-流军队，以更强大的能力、更可靠的手段捍卫国家主权、安全、发展利益!",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.政治建军、改革强军、人才强军、依法治军、综合治军",
+          "OptionC" : "C.政治建军、改革强军、科技强军、人才强军、依法治军"
+        },
+        {
+          "OptionB" : "B.和平、友好、和睦",
+          "OptionA" : "A.团结、友好、和谐",
+          "TopicContent" : "11. ( ) 是中华民族5000多年来- -直追求 和传承的理念，中华民族的血液中没有侵略他人、称王称霸的基因。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.和平、和睦、和谐",
+          "OptionC" : "C.团结、合作、进步"
+        },
+        {
+          "OptionB" : "B.全球发展的贡献者",
+          "OptionA" : "A.世界和平的建设者",
+          "TopicContent" : "12. (多选)中国共产党关注人类前途命运，同世界上- -切进步力量携手前进,中国始终是( ) !",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.世界和平的统治者",
+          "OptionC" : "C.国际秩序的维护者"
+        },
+        {
+          "OptionB" : "B.合作共赢、促进发展",
+          "OptionA" : "A.团结合作、创新发展",
+          "TopicContent" : "13.新的征程上,我们必须坚持( ) ，坚持一致性和多样性统一, 加强思想政治引领，广泛凝聚共识,广聚天下英才，努力寻求最大公约数、画出最大同心圆，形成海内外全体中华儿女心往一-处想、 劲往一-处使的生动局面，汇聚起实现民族复兴的磅确力量!",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D .",
+          "OptionD" : "D.大团结大联合",
+          "OptionC" : "C.团结友爱、共创幸福"
+        },
+        {
+          "OptionB" : "B.始终坚持党要管党、全面从严治党",
+          "OptionA" : "A.不断推进党的建设新的伟大工程",
+          "TopicContent" : "14. ( ) 是中国共产党区别于其他政党的显著标志。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.勇于自我革命",
+          "OptionC" : "C.爱国统-战线"
+        },
+        {
+          "OptionB" : "B.深圳特区",
+          "OptionA" : "A.浦东新区",
+          "TopicContent" : "15. 2021年7月15日，《中共中央国务院关于支持( ) 高水平改革开放打造社会主义现代化建设引领区的意见》正式发布。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.济南-青岛-烟台",
+          "OptionC" : "C.海南"
+        },
+        {
+          "OptionB" : "B.单独二孩.",
+          "OptionA" : "A.独生子女",
+          "TopicContent" : "16.当前，为进一步适应人口形势新变化和推动高质量发展新要求，我国实施了( ) 生育政策及配套支持措施。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.三孩",
+          "OptionC" : "C.二孩"
+        },
+        {
+          "OptionB" : "B.樊振东，",
+          "OptionA" : "A.马龙",
+          "TopicContent" : "17.7月30日，( ) 获得东京奥运会乒乓球男子单打金牌，实现双圈大满贯,即两次获得奥运会、世乒赛和世界杯三大赛单打冠军!",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D.王楚钦",
+          "OptionC" : "C.许昕"
+        },
+        {
+          "OptionB" : "B.386. 4",
+          "OptionA" : "A.486. 4",
+          "TopicContent" : "18.中共中央组织部最新党内统计数据显示，截至2021年6月5日，中国共产党党员总数为9514.8万名，党的基层组织总数为( ) 万个。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.524.8",
+          "OptionC" : "C.577.3"
+        },
+        {
+          "OptionB" : "B.刘伯明",
+          "OptionA" : "A.聂海胜",
+          "TopicContent" : "19. (多选) 7月4日，神舟十二号航天员( ) 身着中国自主研制的新-代“飞天”舱外航天服，已先后从天和核心舱节点舱成功出舱,标志着我国空间站阶段航天员首次出舱活动取得圆满成功。",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BC",
+          "OptionD" : "D.翟志刚",
+          "OptionC" : "C.汤洪波"
+        },
+        {
+          "OptionB" : "B.技术",
+          "OptionA" : "A.科技",
+          "TopicContent" : "20.习近平7月9日下午主持召开中央全面深化改革委员会第二十次会议强调，农业现代化，( ) 是基础,必须把民族种业搞上去,把种源安全提升到关系国家安全的战略高度，集中力量破难题、补短板、强优势、控风险，实现种业科技自立自强、种源自主可控。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.种子.",
+          "OptionC" : "C.粮食"
+        },
+        {
+          "OptionB" : "B.思想工作",
+          "OptionA" : "A.统战工作",
+          "TopicContent" : "21. ( ) 是党的优良传统、鲜明特色和突出政治优势，是- -切工作的生命线。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.政治工作",
+          "OptionC" : "C.思想政治工作"
+        },
+        {
+          "OptionB" : "B.第15个",
+          "OptionA" : "A.第14个",
+          "TopicContent" : "22.7月11日是( )中国航海日，今年中国海航日活动以“开启航海新征程、共创航运新未来”为主题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.第17个",
+          "OptionC" : "C.第16个"
+        },
+        {
+          "OptionB" : "B.上海",
+          "OptionA" : "A.北京",
+          "TopicContent" : "23. (多选)全国碳排放权交易市场7月16日在( )三地同时举行开市启动仪式， 发电行业成为首个纳入全国碳市场的行业。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.武汉",
+          "OptionC" : "C.广州"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块4: 21年8月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.10秒32",
+          "OptionA" : "A.10秒83",
+          "TopicContent" : "1.2021年8月1日，在东京奥运会男子百米飞人大战半决赛中，小组前两名和两个最好成绩晋级。苏炳添凭借( )的成绩直接拿下第三组小组第一,晋级决赛!",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.9秒83",
+          "OptionC" : "C.9秒93"
+        },
+        {
+          "OptionB" : "B.为人民服务",
+          "OptionA" : "A.党对军队绝对领导",
+          "TopicContent" : "2. 2021年8月1日出版的第15期<求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《加强党史军史和光荣传统教育,确保官兵永远听党话、跟党走》。文章指出，( ) 的根本原则和制度，是人民军队完全区别于- -切旧军队的政治特质和根本优势。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.听党指挥",
+          "OptionC" : "C.能打胜仗"
+        },
+        {
+          "OptionB" : "B.依法治军",
+          "OptionA" : "A.全心全意为人民服务",
+          "TopicContent" : "3.2021年8月1日出版的第15期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章。文章强调,我军之所以能够战胜各种艰难困苦、不断从胜利走向胜利,最根本的就是( ) 。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C .",
+          "OptionD" : "D.从群众中来到群众中去",
+          "OptionC" : "C.坚定不移听党话、跟党走"
+        },
+        {
+          "OptionB" : "B.第二",
+          "OptionA" : "A.第一",
+          "TopicContent" : "4.8月2日，2021年《财富》世界500强排行榜发布。今年上榜的中国企业数量达143家，排名全球( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.第四",
+          "OptionC" : "C.第三"
+        },
+        {
+          "OptionB" : "B.刘津茹",
+          "OptionA" : "A.吕嘉琦",
+          "TopicContent" : "5.8月5日下午，女子10米跳台决赛中,中国选手( )以总成绩466.2冠军，她也是本届东京奥运会中国代表团年龄最小的运动员。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.龚康怡",
+          "OptionC" : "C.全红婵"
+        },
+        {
+          "OptionB" : "B.大数据推动需求导向新型智慧城市建设",
+          "OptionA" : "A.开放、包容、贵和尚中、和而不同",
+          "TopicContent" : "6.第一届中国新型智慧城市建设峰会拟于11月在青岛开幕。峰会以“( ) ”为主题。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.数据驱动、特色发展的新型智慧城市建设新模式",
+          "OptionC" : "C.千城千面品牌赋能全域探索智领未来"
+        },
+        {
+          "OptionB" : "B.有道德情操",
+          "OptionA" : "A.有理想信念",
+          "TopicContent" : "7. (多选) 2021年8月,教育部、中央宣传部、中央编办等九部门近日印发《中西部欠发达地区优秀教师定向培养计划》,要求加强中西部欠发达地区教师定向培养，造就- -批( ) 的“四有”好老师，建设高质量中小学教师队伍。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD .",
+          "OptionD" : "D.有仁爱之心",
+          "OptionC" : "C.有扎实学识"
+        },
+        {
+          "OptionB" : "B.推动体卫融给",
+          "OptionA" : "A.深化体教融合",
+          "TopicContent" : "8. (多选) 2021年8月，国务院印发《全民健身计划(2021- -2025年) 》(以下简称《计划》)。《计划》中明确指出，要在( ) 三个方面推进全民健身融合发展。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.促进体旅融合",
+          "OptionC" : "C.推广体校融合"
+        },
+        {
+          "OptionB" : "B.15分钟",
+          "OptionA" : "A.5分钟",
+          "TopicContent" : "9.国务院日前印发《全民健身计划(2021- 2025年)》,《计划》明确,到2025年,县(市、区)、 乡镇(街道)、行政村(社区)三级公共健身设施和社区( ) 健身圈实现全覆盖。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.60分钟",
+          "OptionC" : "C.30分钟"
+        },
+        {
+          "OptionB" : "B.西安半坡遗址",
+          "OptionA" : "A.北京市怀柔县城西遗址",
+          "TopicContent" : "10. 2021年8月，经过碳十四测年确认，( ) 铸铜作坊在公元前640- -550年开始出现制式化金属货币的铸造活动。这-数据首次提供了有关中国早期铸币遗址的绝对年代信息，也使( ) 成为世界范围内己知最古老的铸币作坊。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.北京市房山区周口店遗址",
+          "OptionC" : "C.河南荥阳官庄遗址"
+        },
+        {
+          "OptionB" : "B.科学求实、遵纪守法",
+          "OptionA" : "A.为国争光、无私奉献",
+          "TopicContent" : "11. (多选) 2021年8月8日，2020东京奥运会落下帷幕。16个比赛日里，《义勇军进行曲》一次又一次在东京上空奏响，中国健儿-次又一次在奥林匹克赛场创造历史，用拼搏和汗水为祖国争光、为人生添彩,生动诠释了奥林匹克精神和中华体育精神。中华体育精神的内涵是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.团结协作、顽强拼搏",
+          "OptionC" : "C.勇攀高峰、敢为人先"
+        },
+        {
+          "OptionB" : "B.“放管服”改革纵深推进，营商环境大幅优化",
+          "OptionA" : "A.党对法治政府建设的领导不断加强，责任督察和示范创建活动深入实施,法治政府建设推进机制基本形成",
+          "TopicContent" : "12. (多选) 2021年8月，中共中央、国务院印发了《法治政府建设实施纲要(2021- 2025年)》，并发出通知，要求各地区各部门]结合实际认真贯彻落实。提到,党的十八大以来，特别是《法治政府建设实施纲要(2015- 2020年)》贯彻落实5年来，各地区各部门]多措并举、改革创新，法治政府建设取得重大进展，包括( )等。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.行政执法体制机制改革大力推进，严格规范公正文明执法水平普遍提高",
+          "OptionC" : "C.依法行政制度体系日益健全，重大行政决策程序制度初步建立,行政决策公信力持续提升"
+        },
+        {
+          "OptionB" : "B. 2023",
+          "OptionA" : "A. 2022",
+          "TopicContent" : "13.近日，中共中央、国务院印发了《法治政府建设实施纲要》。《纲要》总体目标是:到( ) 年，政府行为全面纳入法治轨道，职责明确、依法行政的政府治理体系日益健全,行政执法体制机制基本完善。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D. 2030",
+          "OptionC" : "C.2025"
+        },
+        {
+          "OptionB" : "B.8月19日",
+          "OptionA" : "A.8月17日",
+          "TopicContent" : "14. 2021年( ), 第四个中国医师节即将到来。在以习近平同志为核心的党中央坚强领导下，在全面建设社会主义现代化国家的新阶段,广大医务工作者坚持以人民为中心的发展思想，始终把保障人民健康放在优先发展的战略位置、展现新作为，努力为14亿多人民带来更多福祉。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.9月19日",
+          "OptionC" : "C.9月17日"
+        },
+        {
+          "OptionB" : "B.制度建设",
+          "OptionA" : "A.政治建设",
+          "TopicContent" : "15.8月16日出版的第16期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《总结党的历史经验，加强党的( ) 》。文章强调，党的( )是一个永恒课题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.作风建设",
+          "OptionC" : "C.思想建设"
+        },
+        {
+          "OptionB" : "B.平衡性",
+          "OptionA" : "A.公平性",
+          "TopicContent" : "16. (多选)中共中央总书记、国家主席、中央军委主席、中央财经委员会主任习近平8月17日主持召开中央财经委员会第十次会议。会议强调，要提高发展的( ) ,加快完善社会主义市场经济体制，增强区域发展的平衡性,强化行业发展的协调性，支持中小企业发展。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD",
+          "OptionD" : "D.包容性",
+          "OptionC" : "C.协调性"
+        },
+        {
+          "OptionB" : "B.“七十年风雨兼程建设美丽幸福西藏”",
+          "OptionA" : "A.“建设美丽幸福西藏共圆伟大复兴梦想”",
+          "TopicContent" : "17.2021年8月19日上午,西藏各族各界干部群众2万多人欢聚在布达拉宫广场,热烈庆祝西藏和平解放70周年。中共中央总书记、国家主席、中央军委主席习近平在贺匾上题词( ) 。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.“西藏和平解放七十载团结共圆伟大复 兴梦”",
+          "OptionC" : "C.“七十年解放风雨兼程百年 建党共圆伟大梦想”"
+        },
+        {
+          "OptionB" : "B.艰苦创业",
+          "OptionA" : "A.牢记使命",
+          "TopicContent" : "18. (多选)8月23日,习近平总书记来到塞罕坝机械林场尚海纪念林。他强调,塞罕坝精神是中国共产党精神谱系的组成部分。全党全国人民要发扬这种精神,把绿色经济和生态文明发展好。塞罕坝精神是指( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.刻苦钻研",
+          "OptionC" : "C.绿色发展"
+        },
+        {
+          "OptionB" : "B.9.11亿",
+          "OptionA" : "A.8.11亿",
+          "TopicContent" : "19.2021年8月27日，中国互联网络信息中心(CNNIC)发布的第48次《中国互联网络发展状况统计报告》显示，截至2021年6月,我国网民规模为( ) ,互联网普及率达71.6%。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.11.11亿",
+          "OptionC" : "C.10.11亿"
+        },
+        {
+          "OptionB" : "B.青岛市",
+          "OptionA" : "A.济南市",
+          "TopicContent" : "20.8月30日举行的第十二次中日韩文化部长会议上, 3国部长分别向中国温州市、( ) ,日本大分县和韩国庆州市授予了2022年“东亚文化之都”荣誉称号。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.淄博市",
+          "OptionC" : "C.烟台市"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块5: 21年9月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.台湾",
+          "OptionA" : "A.粵港澳",
+          "TopicContent" : "1.近日，中共中央、国务院印发了《横琴粵澳深度合作区建设总体方案》。习近平总书记强调，建设横琴新区的初心就是为( ) 产业多元发展创造条件。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.澳门",
+          "OptionC" : "C.香港"
+        },
+        {
+          "OptionB" : "B.共产主义远大理想",
+          "OptionA" : "A.马克思主义信仰",
+          "TopicContent" : "2. (多选) 2021年秋季学期中央党校(国家行政学院)中青年干部培训班9月1日.上午在中央党校开班。中共中央总书记、国家主席、中央军委主席习近平在开班式上发表重要讲话强调,中国共产党成立- -百年来,始终是有崇高理想和坚定信念的党。这个理想信念，就是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.中国特色社会主义共同理想",
+          "OptionC" : "C.中华民族伟大复兴"
+        },
+        {
+          "OptionB" : "B.天津",
+          "OptionA" : "A.深圳",
+          "TopicContent" : "3.国家主席习近平9月2日晚在2021年中国国际服务贸易交易会全球服务贸易峰会.上发表视频致辞指出,中方将继续支持中小企业创新发展,深化新三板改革,设立( ) 证券交易所,打造服务创新型中小企业主阵地。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.广州",
+          "OptionC" : "C.北京"
+        },
+        {
+          "OptionB" : "B.悟空;",
+          "OptionA" : "A.墨子",
+          "TopicContent" : "4.9月7日，我国暗物质卫星( ) 首度面向全球共享伽马光子科学数据。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.飞天",
+          "OptionC" : "C.鹊桥"
+        },
+        {
+          "OptionB" : "B.为业",
+          "OptionA" : "A.为学:",
+          "TopicContent" : "5. (多选)9月8日，中共中央总书记、国家主席、中央军委主席习近平给全国高校黄大年式教师团队代表回信时指出，希望广大教师真正把( ) 统- -起来，当好学生成长的引路人，为培养德智体美劳全面发展的社会主义建设者和接班人、全面建设社会主义现代化国家不断作出新贡献。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ACD",
+          "OptionD" : "D.为人",
+          "OptionC" : "C.为事"
+        },
+        {
+          "OptionB" : "B.《开放共建繁荣创新引领未来》",
+          "OptionA" : "A.《携手金砖合作应对共同挑战》",
+          "TopicContent" : "6.金砖国家领导人第十三次会晤9月9日晚以视频方式举行。中国国家主席发表了题为( ) 的重要讲话。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.《共商共筑金砖命运共同体》",
+          "OptionC" : "C.《金砖新未来新活力与新愿景》"
+        },
+        {
+          "OptionB" : "B.湖北武汉",
+          "OptionA" : "A.云南昆明",
+          "TopicContent" : "7.国际粮食减损大会9月10日在( ) 开幕,主题为“减少粮食损失浪费,促进世界粮食安全”。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.江西南昌",
+          "OptionC" : "C.山东济南"
+        },
+        {
+          "OptionB" : "B.迈向数字文明新时代- . -携手构建网络空间命运共同体",
+          "OptionA" : "A.互联互通，共享共治一一携手构建网络空间命运共同体",
+          "TopicContent" : "8.9月10日，国新办举行2021年世界互联网大会乌镇峰会发布会。本次大会主题是( ) 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.创新驱动，造福人类- -一携手构建网络空间命运共同体",
+          "OptionC" : "C.创造互信共治的数字世界一- 携手构建网络空间命运共同体"
+        },
+        {
+          "OptionB" : "B.10第二",
+          "OptionA" : "A.10 第一",
+          "TopicContent" : "9.9月13日，工业和信息化部部长肖亚庆在会,上表示，自2010年以来,我国制造业已连续( ) 年位居世界(),是世界上工业体系最为健全的国家。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.11第二",
+          "OptionC" : "C.11第一"
+        },
+        {
+          "OptionB" : "B.13延安",
+          "OptionA" : "A.13合肥",
+          "TopicContent" : "10.中华人民共和国第( ) 届运动会开幕式9月15日20时在( ) 奥体中心体育场举行。中共中央总书记、国家主席、中央军委主席习近平出席开幕式并宣布运动会开幕。十四运会竞赛项目共设34个大项、51个分项、405个小项，创历届之最。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.14绥德",
+          "OptionC" : "C.14西安"
+        },
+        {
+          "OptionB" : "B.天宫一号",
+          "OptionA" : "A.天舟一-号",
+          "TopicContent" : "11.9月20日15时许，长征七号遥四运载火箭搭载( ) 货运飞船在中国文昌航天发射场点火起飞，将与空间站核心舱进行自主快速交会对接为后续神舟十三号飞行任务做好保障准备。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.天宫三号",
+          "OptionC" : "C.天舟三号"
+        },
+        {
+          "OptionB" : "B.《加强互利合作共创美好未来》",
+          "OptionA" : "A.《坚定信心共克时艰共建更加美好的世界》",
+          "TopicContent" : "12.国家主席习近平9月21日在北京以视频方式出席第七十六届联合国大会一般性辩论并发表题为 ( ) 的重要讲话。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.《携手共命运，同心促发展》",
+          "OptionC" : "C.《共同开创亚洲和世界的美好未来》"
+        },
+        {
+          "OptionB" : "B. 50",
+          "OptionA" : "A.40.",
+          "TopicContent" : "13.国家主席习近平9月21日在北京以视频方式出席第七十六届联合国大会-般性辩论。 他指出,今年是中.国共产党成立100周年，也是中华人民共和国恢复在联合国合法席位( ) 周年。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.70",
+          "OptionC" : "C.60."
+        },
+        {
+          "OptionB" : "B.11",
+          "OptionA" : "A.10",
+          "TopicContent" : "14.世界知识产权组织近日发布的《2021年全球创新指数》报告显示，中国排名第( ) 位,较2020年上升2位。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.13",
+          "OptionC" : "C.12"
+        },
+        {
+          "OptionB" : "B. 2025",
+          "OptionA" : "A. 2022",
+          "TopicContent" : "15.中共中央、国务院印发的《知识产权强国建设纲要》9月22日发布,为我国加快建设知识产权强国作出全面部署。纲要提出,到( ) 年,我国知识产权综合竞争力跻身世界前列，中国特色、世界水平的知识产权强国基本建成。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.2050",
+          "OptionC" : "C.2035"
+        },
+        {
+          "OptionB" : "B.新理念",
+          "OptionA" : "A.新构架",
+          "TopicContent" : "16. (多选)9月26日,国家主席习近平向2021年世界互联网大会乌镇峰会致贺信指出,数字技术正以( )全面融入人类经济、政治、文化、社会、生态文明建设各领域和全过程，给人类生产生活带来广泛而深刻的影响。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD",
+          "OptionD" : "D.新模式",
+          "OptionC" : "C.新业态"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块6: 21年10月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.治疗新冠肺炎",
+          "OptionA" : "A预防自闭症",
+          "TopicContent" : "1.9月30日,联合国教科文组织公布第24届世界杰出女科学家获奖名单,浙江大学神经科学中心执行主任胡海岚，因在神经科学领域的重大发现而获奖,她的研究工作促进了新一代( ) 药物的研发。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.抗抑郁",
+          "OptionC" : "C.防衰老"
+        },
+        {
+          "OptionB" : "B.社会主义行.",
+          "OptionA" : "A.中国共产党行",
+          "TopicContent" : "2.10月1日出版的第19期《求是》杂志将发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《用好红色资源、康续红色血脉,努力创造无愧于历史和人民的新业绩》。文章指出,中国共产党为什么能,中国特色社会主义为什么好，从根本卜说，是因为( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "[答案] D3北京时间10月4日下午，2021 年诺贝尔生理学或医学奖率先揭晓，科学家大卫.朱利叶斯(David Julius)和阿登●帕塔普蒂安(Ardem Patapoutian)因在( ) 方面的贡献获奖。A.控制昼夜节律的分子机制B.细胞如何感知和适应氧气供应C.丙型肝炎病毒D.发现温度和触觉感受器",
+          "OptionC" : "C.中国人民行."
+        },
+        {
+          "OptionB" : "B.3,3",
+          "OptionA" : "A.2,4",
+          "TopicContent" : "4.2021年10月7日获悉,神舟十三号载人飞船与长征二号F遥十三运载火箭组合体已转运至发射区,将择机实施发射。这次任务是空间站阶段的第二次载人飞行，将有( ) 名航天员搭乘神舟十三号载人飞船前往空间站，展开为期( ) 个月的太空生活。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.2,5",
+          "OptionC" : "C.3,6"
+        },
+        {
+          "OptionB" : "B.2025 2030本世纪中叶",
+          "OptionA" : "A.2030 2035 本世纪中叶",
+          "TopicContent" : "5.中共中央国务院印发《黄河流域生态保护和高质量发展规划纲要》,纲要指出规划期至( ) 年，中期展望至()年，远期展望至( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.2030 2040本世纪中叶",
+          "OptionC" : "C.2025 2035本世纪中叶"
+        },
+        {
+          "OptionB" : "B.全面建设社会，主义现代化国家",
+          "OptionA" : "A.全面建成社会主义现代化强国",
+          "TopicContent" : "6.今年是辛亥革命110周年，是中国共产党成立100周年，中国人民正意气风发向着( ) 的第二个百年奋斗目标迈进。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "[答案] A7经过长期奋斗，实现中华民族伟大复兴具备了更为( ) 的制度保证、更为( ) 的物质基础、更为( )的精神力量。A.完善坚强主动B完美坚实积极C完善坚实主动D完美坚强积极",
+          "OptionC" : "C.全面建成社会主义科技化国家"
+        },
+        {
+          "OptionB" : "B.中国共产党",
+          "OptionA" : "A.中华文化",
+          "TopicContent" : "8.实现中华民族伟大复兴，必须有领导中国人民前进的坚强力量，这个坚强力量就是( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "[答案] B9实现中华民族伟大复兴， ( )是最根本的问题。A理论B.制度C.文化D.道路",
+          "OptionC" : "C.中国特色社会主义道路"
+        },
+        {
+          "OptionB" : "B.党的建设",
+          "OptionA" : "A.武装斗争",
+          "TopicContent" : "10. ( )始终是中国共产党凝聚人心、汇聚力量的重要法宝。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D统- -战线",
+          "OptionC" : "C.土地革命."
+        },
+        {
+          "OptionB" : "B.国民教育体系人才计划开发",
+          "OptionA" : "A.国民教育体系人力资源开发",
+          "TopicContent" : "11.10月12日获悉，中共中央办公厅、国务院办公厅印发了《关于推动现代职业教育高质量发展的意见》提出,职业教育是()和()的重要组成部分。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.公民教育体系人才计划开发",
+          "OptionC" : "C.公民教育体系人力资源开发"
+        },
+        {
+          "OptionB" : "B.我们的解决方案在自然中",
+          "OptionA" : "A.生态文明:共建地球生命共同体",
+          "TopicContent" : "12.10月11日，《生物多样性公约》第+五次缔约方大会在云南昆明开幕,主题为( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.保护美丽生态，呵护绿色家园",
+          "OptionC" : "C.绿水青山就是金山银山"
+        },
+        {
+          "OptionB" : "B.大熊猫",
+          "OptionA" : "A.三江源",
+          "TopicContent" : "13. (多选) 10月12日领导人宣布，下列属于中国正式设立第一 -批国家公园的有( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.武夷山",
+          "OptionC" : "C.东北虎豹"
+        },
+        {
+          "OptionB" : "B.《大理宣言》",
+          "OptionA" : "A.《云南宣言》",
+          "TopicContent" : "14.2021年10月13日,联合国《生物多样性公约》缔约方大会第十五次会议第一-阶段会议通过了( ) 。该《宣言》呼吁各方采取行动，响应共建地球生命共同体的号召，遏制生物多样性丧失，增进人类福祉，实现可持续发展。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.《海南宣言》",
+          "OptionC" : "C.《昆明宣言》"
+        },
+        {
+          "OptionB" : "B.王亚平",
+          "OptionA" : "A.翟志刚",
+          "TopicContent" : "15. (多选)神州十三号飞行组乘员包括( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D叶光富",
+          "OptionC" : "C.聂海胜"
+        },
+        {
+          "OptionB" : "B.“羲和号”.",
+          "OptionA" : "A.“伏羲号”",
+          "TopicContent" : "16.10月14日,我国在太原卫星发射中心采用长征二二号丁运载火箭，成功发射首颗太阳探测科学技术试验卫星()。标志着我国正式步入“探日”时代。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.“祝融号”",
+          "OptionC" : "C.“夸父号”"
+        },
+        {
+          "OptionB" : "B.体现社会主义国家性质",
+          "OptionA" : "A.符合我国国情和实际",
+          "TopicContent" : "17. (多选) 10月13日,中共中央总书记、国家主席、中央军委主席习近平出席中央人大工作会议并发表重要讲话，强调人民代表大会制度是( ) 的好制度,是我们党领导人民在人类政治制度史上的伟大创造,是在我国政治发展史乃至世界政治发展史上具有重大意义的全新政治制度。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD .",
+          "OptionD" : "D.保障实现中华民族伟大复兴",
+          "OptionC" : "C.保证人民当家作主"
+        },
+        {
+          "OptionB" : "B.根本方法",
+          "OptionA" : "A本质要求",
+          "TopicContent" : "18.10月16日出版的第20期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《扎实推动共同富裕》。文章强调，共同富裕是社会主义的( ) ，是中国式现代化的重要特征。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.重要法宝",
+          "OptionC" : "C必要之路"
+        },
+        {
+          "OptionB" : "B.张连刚",
+          "OptionA" : "A.黄大发",
+          "TopicContent" : "19.10月18日，中央宣传部队云发布的方式，向全社会宣传发布( )同志的先进事迹，授予他“时代楷模\"称号，褒扬他是为乡亲们打造金山银山的绿化将军”。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D张连印",
+          "OptionC" : "C:张伟丽"
+        },
+        {
+          "OptionB" : "B以水定地",
+          "OptionA" : "A以水定城",
+          "TopicContent" : "20. (多选)中共中央总书记、国家主席、中央军委主席习近平10月22日下午主持召开深入推动黄河流域生态保护和高质量发展座谈会并发表重要讲话强调,要坚决落实( ) ,走好水安全有效保障、水资源高效利用、水生态明显改善的集约节约发展之路。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D以水定产",
+          "OptionC" : "C以水定人"
+        },
+        {
+          "OptionB" : "B.创新",
+          "OptionA" : "A发展",
+          "TopicContent" : "21. (多选)中共中央总书记、国家主席、中央军委主席习近平10月22日下午主持召开深入推动黄河流域生态保护和高质量发展座谈会并发表重要讲话指出，要统筹( ) 两件大事,提高风险防范和应对能力。",
+          "AnswerArr" : [
+            "A",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] AD",
+          "OptionD" : "D.安全",
+          "OptionC" : "C.保护"
+        },
+        {
+          "OptionB" : "B.同心.",
+          "OptionA" : "A.圆梦",
+          "TopicContent" : "22.10月26日，北京2022年冬奥会开幕倒计时100天主题活动26日晚在京举办，北京冬奥会奖牌( ) 发布。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.冰清",
+          "OptionC" : "C.金玉"
+        },
+        {
+          "OptionB" : "B.亿亿",
+          "OptionA" : "A.亿",
+          "TopicContent" : "23.10月26日获悉，中科院量子创新研究院科研团队在超导量子和光量子计算方面取得重要进展，光量子计算研究团队构建了113个光子的量子计算原型机“九章二号\" ,处理特定问题的速度比超级计算机快( ) 倍。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.亿亿亿亿",
+          "OptionC" : "C.亿亿亿"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块7: 21年11月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.共产主义远大理想.",
+          "OptionA" : "A.马克思主义信仰",
+          "TopicContent" : "1. (多选) 11月1日出版的第21期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《坚定理想信念补足精神之钙》。文章强调，革命理想高于天。中国共产党成立一百年来,始终是有崇高理想和坚定信念的党。这个理想信念，就是( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.脱贫共同富裕理想",
+          "OptionC" : "C.中国特色社会主义共同理想"
+        },
+        {
+          "OptionB" : "B.黄旭华曾庆红",
+          "OptionA" : "A.王泽山侯德云",
+          "TopicContent" : "2.2021年11月3日，2020 年度国家科学技术奖励大会在人民大会堂举行,中国航空工业集团有限公司( )院士和清华大学( ) 院士分获国家最高科学技术奖。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]D",
+          "OptionD" : "D.顾诵芬王大中",
+          "OptionC" : "C刘永坦钱七虎"
+        },
+        {
+          "OptionB" : "B.西昌",
+          "OptionA" : "A.太原",
+          "TopicContent" : "3.11月5日10时19分，我国在( ) 卫星发射中心用长征六号运载火箭，成功将广目地球科学卫星发射升空。这是全球首颗专门服务联合国2030年议程科学卫星。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.文昌.",
+          "OptionC" : "C.酒泉"
+        },
+        {
+          "OptionB" : "B.同世界共享市场机遇",
+          "OptionA" : "A维护真正的多边主义",
+          "TopicContent" : "4. (多选)习近平在第四届中国国际进口博览会开幕式上发表主旨演讲强调，中国将坚定不移( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.维护世界共同利益",
+          "OptionC" : "C.推动高水平开放"
+        },
+        {
+          "OptionB" : "B.《同舟共济，创造美好未来》",
+          "OptionA" : "A.《打造人类命运共同体》",
+          "TopicContent" : "5.11月4日晚，国家主席习近平以视频方式出席第四届中国国际进口博览会开幕式并发表题为( ) 的主旨演讲。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.《绘就共同发展的美好画卷》",
+          "OptionC" : "C.《让开放的春风温暖世界》"
+        },
+        {
+          "OptionB" : "B.改革30",
+          "OptionA" : "A.改革20",
+          "TopicContent" : "6.2021年11月4日，习近平在第四届中国国际进口博览会开幕式上的主旨演讲中指出，( ) 是当代中国的鲜明标识。今年是中国加入世界贸易组织( ) 周年。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.开放30",
+          "OptionC" : "c.开放20"
+        },
+        {
+          "OptionB" : "B.①②③⑤",
+          "OptionA" : "A.①②③④",
+          "TopicContent" : "7.2021年11月11日,届六中全会在北京举行十九届六中全会指出了中国共产党百年奋斗的历史意义有( )。①从根本上改变了中国人民的前途命运②开辟了实中华民族伟大复兴的正确道路③展示了马克思主义的强大生命力④深刻影响了世界历史进程⑤锻造了走在时代前列的中国共产党",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.①②③④⑤",
+          "OptionC" : "c.①③④⑤"
+        },
+        {
+          "OptionB" : "B.景海鹏王亚平",
+          "OptionA" : "A.翟志刚王亚平",
+          "TopicContent" : "8.11月7日,中国首位出舱航天员( ) 时隔13年后再次进行出舱活动; ( ) 成为中国首位进行出舱活动的女航天员，迈出了中国女性舱外太空行走第- -步。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.聂海胜刘洋",
+          "OptionC" : "c.费俊龙刘洋"
+        },
+        {
+          "OptionB" : "B.党的领导中国特色社会主 义道路",
+          "OptionA" : "A.党的领导改革开放之路",
+          "TopicContent" : "9.2021年11月11日,十九届六中全会指出，中国共产党和中国人民以英勇顽强的奋斗向世界庄严宣告,( )是决定当代中国前途命运的关键一招，( ) 是指引中国发展繁荣的正确道路,中国大踏步赶上了时代。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.改革开放中国特色社会主 义道路",
+          "OptionC" : "C.改革开放改革开放之路"
+        },
+        {
+          "OptionB" : "B.70",
+          "OptionA" : "A.60",
+          "TopicContent" : "10.11月6日,中共中央总书记、国家主席、中央军委主席习近平致信祝贺新华社建社( ) 周年,代表党中央向新华社全体同志致以热烈的祝贺,并在第二十二个中国记者节到来之际，向全国广大新闻工作者致以节日的问候。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.90",
+          "OptionC" : "C.80"
+        },
+        {
+          "OptionB" : "B.全面协作伙伴关系",
+          "OptionA" : "A.全面战略伙伴关系",
+          "TopicContent" : "11.2021年11月22日习近平在北京以视频方式出席并主持中国一-东盟建立对话关系30周年纪念峰会。习近平指出，今天,我们正式宣布建立中国东盟( )。这是双方关系史上新的里程碑，将为地区和世界和平稳定、繁荣发展注入新的动力。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D新时代协作伙伴关系",
+          "OptionC" : "C.新时代战略伙伴关系"
+        },
+        {
+          "OptionB" : "B.11月8日.11月9日",
+          "OptionA" : "A.11月5日11月8日",
+          "TopicContent" : "12.2021年( )，是我国第二十二个记者节，( ) 是全国第30个119消防日。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.11月1日11月4日",
+          "OptionC" : "C.11月8日11月5日"
+        },
+        {
+          "OptionB" : "B深圳证券交易所",
+          "OptionA" : "A.上海证券交易所",
+          "TopicContent" : "13.11月15日，我国第三家证券交易所( ) 揭牌开市,定位是服务创新型中小企业。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.香港证券交易所",
+          "OptionC" : "C北京证券交易所"
+        },
+        {
+          "OptionB" : "B.中国特色社会主义新时代",
+          "OptionA" : "A.社会主义现代化建设",
+          "TopicContent" : "14.11月16日，《中共中央关于党的百年奋斗重大成就和历史经验的决议》公布。《决议》突出( ) 这个重点，重点总结新时代党和国家事业取得的历史性成就、发生的历史性变革和积累的新鲜经验。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.马克思主义中国化",
+          "OptionC" : "C.改革开放以来的成就"
+        },
+        {
+          "OptionB" : "B心联通硬联通软联通.",
+          "OptionA" : "A软联通心联通硬联通",
+          "TopicContent" : "15.11月19日，中共中央总书记、国家主席、中央军委主席习近平在北京出席第三次“一-带一路”建设座谈会并发表重要讲话。他强调，要坚持共商共建共享原则，把基础设施( ) 作为重要方向,把规则标准( )作为重要支撑，把同共建国家人民( ) 作为重要基础，推动共建“- -带-路”高质量发展。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D心联通软联通硬联通 ，",
+          "OptionC" : "C.硬联通软联通心联通"
+        },
+        {
+          "OptionB" : "B.江西省潦河灌区",
+          "OptionA" : "A.江苏省里运河-高邮灌区",
+          "TopicContent" : "16. (多选) 11月26日下午，2021 年(第八批)世界灌溉工程遗产名录公布，我国新增( ) 3个工程!",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "[答案] ABD17最新数据显示，截至11月1日,全国市场主体总量超( ) 户,近10年净增1亿户。亿万市场主体的磅礴力量推动了我国经济总量、国家财力和社会财富稳定增长，承载了7亿多人就业的基本盘。A.1亿B.1.5亿C.2亿D.2.5亿",
+          "OptionC" : "C.山东古运河"
+        },
+        {
+          "OptionB" : "B.悟空号",
+          "OptionA" : "A.墨子号",
+          "TopicContent" : "18.11月26日，由我国科研团队研发的“( ) ”全海深无人无缆潜水器完成10896米深潜,创造新的世界纪录。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D蛟龙号",
+          "OptionC" : "C.奋斗者号."
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块8: 21年12月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.唾液传播",
+          "OptionA" : "A.血液传播",
+          "TopicContent" : "1. (多选) 2021年12月1日是第34个“世界艾滋病日”,主题是“生命至上终结艾滋健康平等”。艾滋病的传播途径有( ) 。",
+          "AnswerArr" : [
+            "A",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ACD .",
+          "OptionD" : "D.母婴传播",
+          "OptionC" : "C.性接触传播"
+        },
+        {
+          "OptionB" : "B.桂林",
+          "OptionA" : "A.昆明",
+          "TopicContent" : "2. (多选) 12月3日，复兴号“绿巨人”和“澜沧号”动车组列车缓缓开动，开启一-段跨越山河、相互奔赴的旅程。这标志着连接( ) 和( )、采用中国标准的中老铁路全线开通运营。",
+          "AnswerArr" : [
+            "A",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] AC",
+          "OptionD" : "D.仰光",
+          "OptionC" : "C.万象"
+        },
+        {
+          "OptionB" : "B.6年",
+          "OptionA" : "A.5年",
+          "TopicContent" : "3.国家统计局公布的全国粮食生产数据显示，2021 年全国粮食总产量13657亿斤,比上年增加267亿斤,增长2.0%，全年粮食产量再创新高,连续( ) 保持在1. 3万亿所以上。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.8年",
+          "OptionC" : "C.7年"
+        },
+        {
+          "OptionB" : "B.供给冲击",
+          "OptionA" : "A.需求收缩",
+          "TopicContent" : "4. (多选)中央经济工作会议12月8日至10日在北京举行。会议指出，在充分肯定成绩的同时，必须看到我国经济发展面临( ) 三重压力。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.疫情冲击",
+          "OptionC" : "C.预期转弱"
+        },
+        {
+          "OptionB" : "B.9月18日",
+          "OptionA" : "A.7月7日.",
+          "TopicContent" : "5. ( )是南京大屠杀死难者国家公祭日。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.12月13日",
+          "OptionC" : "C.12月11日"
+        },
+        {
+          "OptionB" : "B.缺氧环境",
+          "OptionA" : "A.真空环境",
+          "TopicContent" : "6. 2021年12月9日，“天宫课堂”第一课正式开讲。在课堂上,我们看到泡腾片扔进水中的产生的气泡不再上浮，而是相互挤压，水球也被气泡撑得更大。这一-现象与太空的( ) 环境有关。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D。[解析]泡腾片实验与太空的微重力环境有关。在中国空间站的失重环境中，因为浮力的消失,泡腾片扔进水中的产生的气泡不再上浮，而是相互挤压。",
+          "OptionD" : "D.微重力环境",
+          "OptionC" : "C.低压环境"
+        },
+        {
+          "OptionB" : "B.能量守恒",
+          "OptionA" : "A.角动量守恒",
+          "TopicContent" : "7.2021年12月9日，“天宫课堂”第- -课正式开讲。在课堂上,航天员上半身向左转动时,下半身就会向右转。这- -现象可以用( ) 来解释。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A。[解析]航天员上半身向左转动时，按照角动量守衡的原则，下半身就会向右转。",
+          "OptionD" : "D.质量守恒，",
+          "OptionC" : "C.动量守恒"
+        },
+        {
+          "OptionB" : "B.“天和”核心舱发射成功",
+          "OptionA" : "A.“祝融号”火星车抵达火星表面",
+          "TopicContent" : "8. (多选) 2021年，中国航天-次次在浩瀚太空中刷新“中国高度”，对此下列说法正确的是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.首颗太阳探测科学技术试验卫星“羲和号”成功发射",
+          "OptionC" : "C.“天问一号”巡视器成功陆火星"
+        },
+        {
+          "OptionB" : "B.政党合作年",
+          "OptionA" : "A.科技创新年",
+          "TopicContent" : "9. 2021年12月31日,习近平和俄罗斯总统普京互致新年贺电。习近平强调, 2022年,双方将开启中俄( ),续写两国世代友好新篇章。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.体育交流年",
+          "OptionC" : "C.文化交流年"
+        },
+        {
+          "OptionB" : "B.历史自信",
+          "OptionA" : "A.文化自信",
+          "TopicContent" : "10. 2021年12月28日,中共中央政治局召开党史学习教育专题民主生活会,习近平指出,在新的赶考之路上,我们能否继续交出优异答卷，关键在于有没有坚定的( ) 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.制度自信",
+          "OptionC" : "C.道路自信"
+        },
+        {
+          "OptionB" : "B.保证粮食安全",
+          "OptionA" : "A.保障好初级产品供给",
+          "TopicContent" : "11. 2021年12月26日,中央农村工作会议在北京召开。习近平强调，( ) 是- -个重大战略性问题,中国人的饭碗任何时候都要牢牢端在自己手中,饭碗主要装中国粮。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A。",
+          "OptionD" : "D.保障种子安全",
+          "OptionC" : "C.保持18亿亩耕地红线"
+        },
+        {
+          "OptionB" : "B.抓好粮食和重要农产品生产供应",
+          "OptionA" : "A.巩固脱贫攻坚成果",
+          "TopicContent" : "12. (多选) 2021年12月26日,中央农村工作会议在北京召开。会议指出，做好2022年“三农”工作,要牢牢守住( ) 两条底线。",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] CD",
+          "OptionD" : "D.不发生规模性返贫",
+          "OptionC" : "C.保障国家粮食安全"
+        },
+        {
+          "OptionB" : "B.稳中求进、稳中求好",
+          "OptionA" : "A.稳中求好",
+          "TopicContent" : "13. 2021年12月10日，中央经济工作会议在北京举行。会议要求，明年经济工作要( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.稳字当头、稳中求进",
+          "OptionC" : "C.稳字当头、稳中向好"
+        },
+        {
+          "OptionB" : "B.农民",
+          "OptionA" : "A.人民",
+          "TopicContent" : "14.12月14日，国家主席习近平在中国文学艺术界联合会第十- -次全国代表大会、中国作家协会第十次全国代表大会发表重要讲话指出，( ) 是文艺之母。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A。",
+          "OptionD" : "D.基层",
+          "OptionC" : "C.演员"
+        },
+        {
+          "OptionB" : "B.汉景帝刘启的阳陵",
+          "OptionA" : "A.汉高祖刘邦的长陵",
+          "TopicContent" : "15.12月14日，国家文物局通报指出，通过考古研究，基本确认江村大墓为西汉早期( ) 。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.汉武帝刘彻的茂陵",
+          "OptionC" : "C.汉文帝刘恒的霸陵"
+        },
+        {
+          "OptionB" : "B._上海",
+          "OptionA" : "A.北京",
+          "TopicContent" : "16. (多选) 12月16日出版的第24期《求是》杂志发表习近平的重要文章《深入实施新时代人才强国战略加快建设世界重要人才中心和创新高地》。文章指出,综合考虑，可以在( ) 建设高水平人才高地。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.粤港澳大湾区",
+          "OptionC" : "C.成渝地区"
+        },
+        {
+          "OptionB" : "B.敢于开拓创新",
+          "OptionA" : "A.勇于自我革命",
+          "TopicContent" : "17. 2021年12月31日，国家主席习近平发表二O二二年新年贺词。习近平指出，我曾谈到当年毛主席与黄炎培先生的“窑洞对”,我们只有( ) 才能赢得历史主动。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.乐于奉献自我",
+          "OptionC" : "C.善于联系群众"
+        },
+        {
+          "OptionB" : "B.全面小康",
+          "OptionA" : "A.整体小康",
+          "TopicContent" : "18. (多选)民之所忧，我必念之;民之所盼，我必行之。( ) 是我们党给人民的交代，也是对世界的贡献。",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BC .",
+          "OptionD" : "D.共同富裕",
+          "OptionC" : "C.摆脱贫困"
+        },
+        {
+          "OptionB" : "B.王亚平",
+          "OptionA" : "A.翟志刚",
+          "TopicContent" : "19. (多选)习总书记在新年贺词中提到,我们的三位航天员正在浩瀚太空“出差”。他们分别是: ( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.聂海胜",
+          "OptionC" : "C.叶光富"
+        },
+        {
+          "OptionB" : "B.《中庸》",
+          "OptionA" : "A.《论语》",
+          "TopicContent" : "20.“致广大而尽精微”这句话出自( ) ，意为干事创业,既要登高望远、胸怀大局，又要落实落细、积微成著。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.《淮南子》",
+          "OptionC" : "C.《大学》"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块9: 22年1月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.六十",
+          "OptionA" : "A.三十",
+          "TopicContent" : "1. 2022年1月1日,新修订的《民事诉讼法》施行,根据该法第95条，“受送达人下落不明，或者用本节规定的其他方式无法送达的，公告送达。自发出公告之日起，经过( ) 日，即视为送达。，",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.一百八十",
+          "OptionC" : "C.九十"
+        },
+        {
+          "OptionB" : "B.民族区域自治",
+          "OptionA" : "A.党的团结统一",
+          "TopicContent" : "2.1月1日出版的第1期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平在党的十九届六中全会第二次全体会议上的重要讲话《以史为鉴、开创未来,埋头苦干、勇毅前行》。讲话指出,历史和现实都证明，( ) 是党和人民前途和命运所系，是全国各族人民根本利益所在,任何时候任何情况下都不能含糊、不能动摇。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.人民民主专政",
+          "OptionC" : "C.批评与自我批评"
+        },
+        {
+          "OptionB" : "B.联系群众",
+          "OptionA" : "A.从严治党",
+          "TopicContent" : "3.1月1日出版的第1期<求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平在党的十九届六中全会第二次全体会议上的重要讲话《以史为鉴、开创未来,埋头苦干、勇毅前行》。讲话指出，我们党历史这么长、规模这么大、执政这么久，如何跳出治乱兴衰的历史周期率?经过百年奋斗特别是党的十八大以来新的实践，我们党又给出了第二个答an，这就是( ) 。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.实事求是",
+          "OptionC" : "C.自我革命"
+        },
+        {
+          "OptionB" : "B.区域全面经济伙伴关系协定(RCEP)",
+          "OptionA" : "A.数字经济伙伴关系协定(DEPA)",
+          "TopicContent" : "4.2022年1月1日，( ) 生效实施，这标志着全球人口最多、经贸规模最大、最具发展潜力的自由贸易区正式启航。.",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.跨太平洋伙伴关系协定(TPP)",
+          "OptionC" : "C.全面与进步跨太平洋伙伴关系协定(CPTPP)"
+        },
+        {
+          "OptionB" : "B.澳大利亚",
+          "OptionA" : "A.韩国",
+          "TopicContent" : "5. (多选) 2022年1月1日，区域全面经济伙伴关系协定正式生效实施。区域全面经济伙伴关系协定含盖下列哪些国家()。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD[解析] RCEP现有15个成员国，包括中国、日本、韩国、澳大利亚、新西兰5国以及东盟10国(印尼、马来西亚、菲律宾、新加坡、泰国、文莱、越南、老挝、缅甸、柬埔寨) ,从人口数量、经济体量、贸易总额三方面看，均占全球总量的约30%。",
+          "OptionD" : "D.日本",
+          "OptionC" : "C.新西兰"
+        },
+        {
+          "OptionB" : "B.济南",
+          "OptionA" : "A.北京",
+          "TopicContent" : "6. 2022年1月4日，国务院批复同意在( ) 设立国家植物园。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.东营",
+          "OptionC" : "C.青岛"
+        },
+        {
+          "OptionB" : "B.促进社会发展和人类进步",
+          "OptionA" : "A.落实全民健身战略",
+          "TopicContent" : "7.2022年1月4日,习近平在北京考察2022年冬奥会、冬残奥会筹办备赛工作。在速滑馆地下一层,习近平:指出，建设体育强国、健康中国，最根本的是( ) 。这是全面建设社会主义现代化国家的一-个重要方面。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.增强人民体质、保障人民健康",
+          "OptionC" : "C.以人为本"
+        },
+        {
+          "OptionB" : "B.专科",
+          "OptionA" : "A.高中",
+          "TopicContent" : "8.1月23日，中共中央办公厅印发了《事业单位领导人员管理规定》。规定指出，事业单位领导人员一般应当具有( ) 以上文化程度。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.研究生",
+          "OptionC" : "C.大学本科"
+        },
+        {
+          "OptionB" : "B.道路问题",
+          "OptionA" : "A.制度问题",
+          "TopicContent" : "9.2022年1月11日,省部级主要领导干部学习贯彻党的十九届六中全会精神专题研讨班在中央党校(国家行政学院)开班，习近平在开班式上发表重要讲话指出，习近平指出，( ) 是- -个政党、- -个国家的根本性问题。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.战略问题",
+          "OptionC" : "C.思想问题"
+        },
+        {
+          "OptionB" : "B.在分化的世界中打造共同命运",
+          "OptionA" : "A.构建高质量伙伴关系，共创全球发展新时代",
+          "TopicContent" : "10. 2022年，中国成为金砖国家主席国。金砖“中国年”主题为( )。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.深化金砖伙伴关系，开辟更加光明未来",
+          "OptionC" : "C.领导力:应势而为，勇于担当"
+        },
+        {
+          "OptionB" : "B.《携手推进一带- -路建设》",
+          "OptionA" : "A.《共商共筑人类命运共同体》",
+          "TopicContent" : "11.1月25日下午，国家主席习近平在北京主持中国同中亚五国建交30周年视频峰会，发表了题为( ) 的重要讲话。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.《面向未来开拓进取促发展》",
+          "OptionC" : "C.《携手共命运- -起向未来》"
+        },
+        {
+          "OptionB" : "B.土库曼斯坦是永久中立国",
+          "OptionA" : "A.哈萨克斯坦是世界上最大的内陆国",
+          "TopicContent" : "12. 2022年1月25日,习近平在北京主持中国同中亚五国建交30周年视频峰会,关于中亚五国下列说法错误的是《)。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D[解析]中亚五国:哈萨克斯坦、吉尔吉斯斯坦、塔吉克斯坦、土库曼斯坦、乌兹别克斯坦。其中,哈萨克斯坦是世界上最大的内陆国，土库曼斯坦是永久中立国。这五个国家，都是亚信的成员国或观察员国。五个国家中，有四个是上海合作组织成员国(土库曼斯坦不是成员国)。",
+          "OptionD" : "D.这五个国家都是上海合作组织成员国",
+          "OptionC" : "C.这五个国家都是亚信的成员国或观察员国"
+        },
+        {
+          "OptionB" : "B.团结奋斗",
+          "OptionA" : "A.实事求是",
+          "TopicContent" : "13.中共中央总书记、国家主席、中央军委主席习近平在2022年春节团拜会发表讲话强调，一百年来, 党和人民取得的一切成就都是( ) 的结果，( ) 是中国共产党和中国人民最显著的精神标识。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.自强不息",
+          "OptionC" : "C.勇于创新"
+        },
+        {
+          "OptionB" : "B.美国、东盟、欧盟、日本、韩国",
+          "OptionA" : "A.韩国、东盟、欧盟、美国、日本",
+          "TopicContent" : "14. 2021年,以美元计价,我国进出口规模达到了6.05万亿美元,年度进出口规模首次突破6万亿美元关口。以下对我国前五大贸易伙伴排序正确的是( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.东盟、欧盟、美国、日本、韩国",
+          "OptionC" : "C.欧盟、东盟、美国、日本、韩国"
+        },
+        {
+          "OptionB" : "B.15.4%",
+          "OptionA" : "A.14.8%",
+          "TopicContent" : "15. 2022年2月10日，甲借给乙十万元并约定利息，现在债务到期甲请求乙按照合同约定利率支付利息。假如借款时约定利息为( ) ，人民法院应支持甲的请求。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.36%",
+          "OptionC" : "C.24%"
+        },
+        {
+          "OptionB" : "B.“冰丝带”.",
+          "OptionA" : "A.“冰蝴蝶”",
+          "TopicContent" : "16. 2020年12月25日，北京2022年冬奥会标志性场馆国家速滑馆( ) 完工。国家速滑馆是北京冬奥会唯一新建的冰上项目竞赛场馆。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.“冰立方”",
+          "OptionC" : "C.“冰美人”"
+        },
+        {
+          "OptionB" : "B.“冬梦”“飞跃”",
+          "OptionA" : "A.“冬月” “飞月”",
+          "TopicContent" : "17. 2017年12月15日，2022年北京冬奥会会徽和冬残奥会会徽发布，冬奥会会徽名为( ) ,冬残奥会会徽名为()。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.“冬越” “飞梦”",
+          "OptionC" : "C.“冬跃” “飞越”"
+        },
+        {
+          "OptionB" : "B.我国第一位夺得冬奥会金牌的运动员是王潆",
+          "OptionA" : "A.北京成为全球首个荣获过冬、夏两季奥运会举办权的城市",
+          "TopicContent" : "18. (多选)下列关于冬奥会的说法中不正确的是( ) 。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD[解析] 2002年2月,在美国盐湖城第19届冬季奥运会短道速滑女子500米决赛中,杨扬夺得金牌，实现了中国在冬奥会上金牌“零的突破”。杨扬成为中国第- -位冬奥会冠军。 因此B选项错误。1921 年，国际奥林匹克委员会决定于1924年在法国的夏蒙尼举行“1924国际冬季体育运动周”活动,在这项活动结束两年后，国际奥委会正式确认这届比赛为第-届冬季奥运会。因此C选项错误。冬奥会项目可以分为竞速类(更快)、技巧类(更高)和综合类(更强)。因此D选项错误。.",
+          "OptionD" : "D.冬奥会项目分为竞速类和技巧类，其中冰壶属于竞速类项目",
+          "OptionC" : "C.第一届冬奥会在加拿大温哥华举办"
+        },
+        {
+          "OptionB" : "B.23",
+          "OptionA" : "A.22",
+          "TopicContent" : "19. 2015年7月31日,国际奥委会主席巴赫宣布:中国北京获得2022年第( ) 届冬季奥林匹克运动会主办权。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C .",
+          "OptionD" : "D.25",
+          "OptionC" : "C.24"
+        },
+        {
+          "OptionB" : "B.赵丹",
+          "OptionA" : "A.高亭宇",
+          "TopicContent" : "20. (多选) 1月30日从参加2022年北京冬奥会的中国体育代表团获悉，速度滑冰名将( ) 和钢架雪车女将( ) 将担任北京冬奥会中国代表团开幕式旗手。",
+          "AnswerArr" : [
+            "A",
+            "B"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] AB",
+          "OptionD" : "D.武大靖",
+          "OptionC" : "C.谷爱凌"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块10: 22年2月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.符合新体制特点",
+          "OptionA" : "A.符合现代化特点",
+          "TopicContent" : "1. (多选)中共中央、国务院、中央军委近日印发了《军队功勋荣誉表彰条例》。《条例》指出,要加强体系设计，构建富有新时代特色、( ) ，全面聚焦备战打仗的军队功勋荣誉表彰体系。",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BC",
+          "OptionD" : "D.体现新时代要求",
+          "OptionC" : "C.体现新使命要求"
+        },
+        {
+          "OptionB" : "B.实现人的全面发展",
+          "OptionA" : "A.打造体育命运共同体",
+          "TopicContent" : "2.2月5日,国家主席习近平在北京2022年冬奥会欢迎宴会.上的致辞上指出,奥林匹克运动的目标是( ) 。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.促进人的身体健康",
+          "OptionC" : "C.加快奥运经济布局"
+        },
+        {
+          "OptionB" : "B.思想道德",
+          "OptionA" : "A.理想信念",
+          "TopicContent" : "3. (多选)中办和国办近日印发了《关于加强新时代关心下一代工作委员会工作的意见》。《意见》指出要以()为重点。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.法治教育",
+          "OptionC" : "C.传统文化"
+        },
+        {
+          "OptionB" : "B.积极引导青少年培育和践行社会主义核心价值观",
+          "OptionA" : "A.讲好红色故事、传承红色基因",
+          "TopicContent" : "4. (多选)中办和国办近日印发了《关于加强新时代关心下一代工作委员会工作的意见》。以下属于《意见》提出的重点任务的是( ) 。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABD",
+          "OptionD" : "D.加强青少年法治教育和权益保护",
+          "OptionC" : "C.实施“四老”关爱下一代工程"
+        },
+        {
+          "OptionB" : "B.5%",
+          "OptionA" : "A.4%",
+          "TopicContent" : "5.2月8日，教育部发布2022年工作要点，明确教育优先发展战略地位，坚持国家财政性教育经费占国内生产总值(GDP) 比例“不低于( )”。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.7%",
+          "OptionC" : "C.6%"
+        },
+        {
+          "OptionB" : "B.第二",
+          "OptionA" : "A第一",
+          "TopicContent" : "6.世界知识产权组织发布数据显示，2021年,我国申请人通过《专利合作条约》(PCT)途径提交的国际专利申请达6.95万件,连续第三年位居申请量排行榜( ) 位。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.第四",
+          "OptionC" : "C.第三"
+        },
+        {
+          "OptionB" : "B.70%",
+          "OptionA" : "A.60%",
+          "TopicContent" : "7.工业和信息化部2月13日表示，截至2021 年底，我国累计建成并开通5G基站142. 5万个，5G基站总量占全球( )以上，我国已建成全球最大5G网络。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.90%",
+          "OptionC" : "C.80%"
+        },
+        {
+          "OptionB" : "B.全心全意为人民服务",
+          "OptionA" : "A.中国共产党的领导",
+          "TopicContent" : "8.2月16日出版的第4期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章。文章指出，必须牢牢把握( ) 这个定性，坚定不移走中国特色社会主义法治道路。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.中国特色社会主义",
+          "OptionC" : "C.坚持人民民主专政"
+        },
+        {
+          "OptionB" : "B.德育",
+          "OptionA" : "A.劳动",
+          "TopicContent" : "9.2月17日，教育部召开新闻发布会表示，每所中小学校将至少配备1名( )副校长,偏远地区、农村地区学校和城市薄弱学校优先配备。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.美育",
+          "OptionC" : "C.法治"
+        },
+        {
+          "OptionB" : "B.苏翊鸣",
+          "OptionA" : "A.谷爱凌",
+          "TopicContent" : "10. (多选)2月20日,中国代表团公布,冬奥会冠军( ) 和( ) 当选北京冬奥会闭幕式中国代表团旗手。",
+          "AnswerArr" : [
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] CD",
+          "OptionD" : "D.徐梦桃",
+          "OptionC" : "C.高亭宇"
+        },
+        {
+          "OptionB" : "B.第18个",
+          "OptionA" : "A.第17个.",
+          "TopicContent" : "11.2月22日2022年中央一号文件公布这份文件题为 中共中央国务院关于做好2022年全面推进乡村振兴重点工作的意见》。这是21世纪以来( )指导 “三农”工作的中央一号文件。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.第22个",
+          "OptionC" : "C.第19个"
+        },
+        {
+          "OptionB" : "B.东北地区",
+          "OptionA" : "A.黄淮海地区",
+          "TopicContent" : "12.中央一号文件 提出加大耕地轮作补贴和产油大县奖励力度,集中支持适宜区域、重点品种、经营服务主体,在( )开展粮豆轮作。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.华南地区",
+          "OptionC" : "C.西北地区"
+        },
+        {
+          "OptionB" : "B.生态保护红线、耕地和永久基本农田、城镇开发边界",
+          "OptionA" : "A.城镇开发边界、耕地和永久基本农田、生态保护红线",
+          "TopicContent" : "13. 2022年2月22日，《中共中央国务院关于做好2022年全面推进乡村振兴重点工作的意见》，即2022年中央一号文件发布。 这是21世纪以来第19个指导“三农”工作的中央一号文件。 文件指出，落实“长牙齿”的耕地保护硬措施。实行耕地保护党政同责,严守18亿亩耕地红线。按照( ) 的顺序,统筹划定落实三条控制线，把耕地保有量和永久基本农田保护目标任务足额带位置逐级分解下达，由中央和地方签订耕地保护目标责任书，作为刚性指标实行严格考核、-票否决、终身追责。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.耕地和永久基本农田、生态保护红线、城镇开发边界",
+          "OptionC" : "C.耕地和永久基本农田、城镇开发边界、生态保护红线"
+        },
+        {
+          "OptionB" : "B.服务人民、助人为乐、锐意进取、自强不息",
+          "OptionA" : "A.坚持真理、坚守理想、践行初心、担当使命",
+          "TopicContent" : "14. 2022年2月,中共中央办公厅、国务院办公厅印发《关于加强新时代关心下一代工作委员会工作的意见》意见指出，坚持发挥“五老”的优势作用，弘扬( )的 “五老”精神。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.不怕牺牲、英勇斗争、对党忠诚、不负人民",
+          "OptionC" : "C.忠诚敬业、关爱后代、务实创新、无私奉献"
+        },
+        {
+          "OptionB" : "B.②④",
+          "OptionA" : "A.①③",
+          "TopicContent" : "15. 2022年2月，中共中央、国务院、中央军委印发了《军队功勋荣誉表彰条例》。下列选项属于《条例》新设的勋章的是( )。①红旗勋章②八一勋章③红星勋章④英雄模范勋章",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A[解析] 2022年2月,中共中央、国务院、中央军委印发了《军队功勋荣誉表彰条例》。《条例》重构战时功勋荣誉表彰项目，新设“红旗勋章”和“红星勋章”,设立特级、-级、二级战时荣誉称号和一-、二、三、四等战功，设置战时纪念章,充分激发部队高昂战斗热情和旺盛战斗意志。故本题选Ao",
+          "OptionD" : "D.①②③④",
+          "OptionC" : "C.①②③"
+        },
+        {
+          "OptionB" : "B.太原",
+          "OptionA" : "A.西昌",
+          "TopicContent" : "16. 2022年2月27日11时06分，长征八号遥二运载火箭在中国( ) 航天发射场点火起飞,以“一箭22星”方式,成功将泰景三号01卫星、泰景四号01卫星、海南一号01\/02星、文昌一号01\/02星、吉林- -号高分03D10-18星(9颗)、吉林一号MF02A01星、巢湖-号卫星、创星雷神号卫星、天启星座19星、星时代-17卫星、启明星一号卫星、西电- -号卫星共22颗卫星分别送入预定轨道，发射任务取得圆满成功，创造了我国一箭多星发射的最高纪录。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.文昌",
+          "OptionC" : "C.酒泉."
+        },
+        {
+          "OptionB" : "B.《清明上河图》",
+          "OptionA" : "A.《洛神赋图》",
+          "TopicContent" : "17.春晚舞蹈诗剧《只此青绿》,舞者以绚烂之身,勾勒出如诗如幻的无垠山河，将中国古典式传奇娓娓道来。《只此青绿》创作灵感来源于()。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.《千里江山图》",
+          "OptionC" : "C.《富春山居图》"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块11: 22年3月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B.分课堂西藏拉萨",
+          "OptionA" : "A.主课堂中国科技馆",
+          "TopicContent" : "1. (多选)“天宫课堂”第二课的课堂有? ( )",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC[解析]此次太空授课由中央广播电视总台进行了全程现场直播，在中国科技馆设地面主课堂，在西藏拉萨、新疆乌鲁木齐设2个地面分课堂。",
+          "OptionD" : "D.分课堂中国科技馆",
+          "OptionC" : "C.分课堂新疆乌鲁木齐"
+        },
+        {
+          "OptionB" : "B.三",
+          "OptionA" : "A.二",
+          "TopicContent" : "2.“天宫课堂”第二课是中国航天员第( ) 次进行太空授课。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B[解析]“天宫课堂”第二课是中国空间站第二次太空授课，也是中国航天员第三次进行太空授课。",
+          "OptionD" : "D.五",
+          "OptionC" : "C.四"
+        },
+        {
+          "OptionB" : "B.北京时间",
+          "OptionA" : "A.世界时间",
+          "TopicContent" : "3.有人驻留时，空间站一般采用哪种作息制度? ( )",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B[解析]翟志刚表示，在空间站中，既有北京时间，也有世界时间，还有相对飞行时间、绝对飞行时间等。根据任务不同，所采用的时间标准也不一-样。 在有人驻留的情况下，- -般采用北京时间安排航天员的作息制度。",
+          "OptionD" : "D.莫斯科时间",
+          "OptionC" : "C.宇宙时间"
+        },
+        {
+          "OptionB" : "B.太空中，水油不分离也没办法实现水油分离",
+          "OptionA" : "A.太空中，可通过液体表面张力建造- -座“液体桥”",
+          "TopicContent" : "4.下列说法错误的是? ( )",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B[解析] A正确，微重力环境下，液体的表面张力更加凸显。液桥是指在固体间的小液柱，其原理比较简单,气液界面之间存在着表面张力，使得液体表面好比有一层很薄的弹性薄膜- -样。B错误,在空间站环境下，晶莹剔透的油滴并不会像在地面一样上浮,而是与水相混合,通过离心作用可实现水油分离。C正确，在近地轨道上飞行的载人飞船或空间站，其轨道高度一般在350~450千米左右,沿轨道绕地球飞行-圈大约需要90分钟。D正确,在太空抛墩墩,展示了牛顿第- -定律所描述的现象。在空间站中,冰墩墩被抛出后,几乎不受外力影响，保持近似匀速直线运动。",
+          "OptionD" : "D.奥运顶流冰墩墩在空间站被抛出去后，可以看到冰墩墩沿原有方向近似匀速运动",
+          "OptionC" : "C.中国空间站绕地球-圈是90分钟"
+        },
+        {
+          "OptionB" : "B.国法",
+          "OptionA" : "A.党纪",
+          "TopicContent" : "5.3月1日,中共中央总书记、国家主席、中央军委主席习近平在开班式上发表重要讲话强调，树立和践行正确政绩观,起决定性作用的是( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.党性",
+          "OptionC" : "C.纪律"
+        },
+        {
+          "OptionB" : "B.马克思主义",
+          "OptionA" : "A.党的领导",
+          "TopicContent" : "6.3月1日，2022年春季学期中央党校(国家行政学院)中青年干部培训班在中央党校开班。习近平强调，( )是立党兴党之基，也是党员干部安身立命之本。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.为人民服务的宗旨",
+          "OptionC" : "C.理想信念"
+        },
+        {
+          "OptionB" : "B.人民当家作主",
+          "OptionA" : "A.坚持党的领导",
+          "TopicContent" : "7.3月1日出版的第5期《求是》杂志发表中共中央总书记、国家主席、中央军委主席习近平的重要文章《在中央人大工作会议上的讲话》。文章强调，- -个国家民主不民主，关键在于是不是真正做到了( )。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.为人民服务",
+          "OptionC" : "C.全面依法治国"
+        },
+        {
+          "OptionB" : "B.《人世间》",
+          "OptionA" : "A.《极限人生》",
+          "TopicContent" : "8. 2021年感动中国年度人物朱彦夫,少年从军保家卫国，血洒疆场,身体残疾。退伍后,他拖着残躯带领乡亲建设家园，把贫穷落后村建成富裕先进村。他还以顽强毅力，用嘴衔笔、用残臂抱笔,出版35万字的自传体小说(),被誉为“中国的保尔●柯察金”。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.《平凡的世界》",
+          "OptionC" : "C.《蛙》"
+        },
+        {
+          "OptionB" : "B.社会主义核心价值观",
+          "OptionA" : "A.中华民族共同体意识",
+          "TopicContent" : "9.习近平3月5日下午在参加他所在的十三届全国人大五次会议内蒙古代表团审议时强调，要紧紧抓住铸牢( ) 这条主线，深化民族团结进步教育，引导各族群众牢固树立休戚与共、荣辱与共、生死与共、命运与共的共同体理念，不断巩固中华民族共同体思想基础。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.社会主义民族关系",
+          "OptionC" : "C.人类命运共同体意识"
+        },
+        {
+          "OptionB" : "B.4.5%",
+          "OptionA" : "A.5. 5%",
+          "TopicContent" : "10. 2022年国务院政府工作报告明确了2022 年发展的主要预期目标，国内生产总值增长( ) 。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.6. 5%",
+          "OptionC" : "C.3.5%"
+        },
+        {
+          "OptionB" : "B.统筹协调",
+          "OptionA" : "A.稳定大局",
+          "TopicContent" : "11. (多选) 2022年3月5日,李克强在政府工作报告中指出,继续按照( ) 的基本方针，做好经济金融领域风险防范和处置工作。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD .",
+          "OptionD" : "D.精准拆弹",
+          "OptionC" : "C.分类施策"
+        },
+        {
+          "OptionB" : "B.稳增长",
+          "OptionA" : "A.稳就业",
+          "TopicContent" : "12. 2022年3月5日,李克强在政府工作报告中指出，今年工作要坚持稳字当头、稳中求进。面对新的下行压力，要把( ) 放在更加突出的位置。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.保市场主体",
+          "OptionC" : "C.保民生"
+        },
+        {
+          "OptionB" : "B.地方各级政府",
+          "OptionA" : "A.地方各级人民代表大会",
+          "TopicContent" : "13. ( ) 是地方国家权力机关。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.人大代表",
+          "OptionC" : "C.基层政府"
+        },
+        {
+          "OptionB" : "B.“共促消费和谐”",
+          "OptionA" : "A.“共促消费公平”",
+          "TopicContent" : "14.3月15日是消费者权益保护日，中国消费者协会确定2022年全国消协组织消费维权年主题为( ) 。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.“放心消费在中国”",
+          "OptionC" : "C.“凝聚你我力量”"
+        },
+        {
+          "OptionB" : "B.湿地",
+          "OptionA" : "A.草原",
+          "TopicContent" : "15.习近平3月30日在参加首都义务植树活动时指出，( ) 是水库、钱库、粮库,现在应该再加上-一个“碳库”。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]C",
+          "OptionD" : "D.湖泊",
+          "OptionC" : "C.森林"
+        },
+        {
+          "OptionB" : "B.“共产党在中国改革开放和古巴经济社会模式更新进程的应有作用”",
+          "OptionA" : "A.“疫情下的政党合作”",
+          "TopicContent" : "16. 2022年3月23日，中国共产党和古巴共产党第四届理论研讨会举办，会议以( ) 为主题。习近平致贺信。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.“加强党的建设，奋进新时代中古社会主义新征程”",
+          "OptionC" : "C.“改革、发展与党的建设”"
+        },
+        {
+          "OptionB" : "B.悟思想",
+          "OptionA" : "A.学党史",
+          "TopicContent" : "17. (多选)近日，中共中央办公厅印发了《关于推动党史学习教育常态化长效化的意见》，这次学习教育使广大党员、干部受到一次全面深刻的政治教育、思想淬炼、精神洗礼，全党历史自觉、历史自信大大增强，党的创造力、凝聚力、战斗力大大提升,达到了( ) 的目的。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.开新局",
+          "OptionC" : "C.办实事"
+        },
+        {
+          "OptionB" : "B.中国特色社会主义",
+          "OptionA" : "A.党的领导",
+          "TopicContent" : "18. 2022年3月16日,出版的第6期《求是》杂志发表习近平的重要文章《在中央政协工作会议暨庆祝中国人民政治协商会议成立70周年大会上的讲话》。文章强调,新时代加强和改进人民政协工作,要把坚持和发展( )作为巩固共同思想政治基础的主轴，把服务实现“两个一百年”奋斗目标作为工作主线。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.民主集中制度",
+          "OptionC" : "C.社会主义制度"
+        },
+        {
+          "OptionB" : "C.三",
+          "OptionA" : "B.二",
+          "TopicContent" : "19. 2022年3月13日，北京第13届冬残奥会闭幕，中国体育代表团奋勇争先，夺得18枚金牌、20 枚银牌、23枚铜牌，在金牌榜、奖牌榜居第( ) 位。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionC" : "D.四"
+        },
+        {
+          "OptionB" : "B.1000元",
+          "OptionA" : "A.500元",
+          "TopicContent" : "20.近日,国务院决定,设立3岁以下婴幼儿照护个人所得税专项附加扣除。纳税人照护3岁以下婴幼儿子女的相关支出，按照每个婴幼儿每月( ) 的标准定额扣除。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.2000元",
+          "OptionC" : "C.1500元"
+        },
+        {
+          "OptionB" : "B.商周时期",
+          "OptionA" : "A.大汶口文化晚期",
+          "TopicContent" : "21.3月31日上午,国家文物局公布“2021年度全国十大考古新发现”最终评审结果。山东滕州岗上遗址入选“2021年度全国十大考古新发现”，这也是山东唯一入选的考古项目。 这属于( )文明。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.隋唐时期",
+          "OptionC" : "C.秦汉时期"
+        }
+      ]
+    },
+    {
+      "ModuleTitile" : "模块12: 22年4月时政",
+      "ModuleContentArr" : [
+        {
+          "OptionB" : "B. -起向未来",
+          "OptionA" : "A.中国特色社会主义",
+          "TopicContent" : "1.北京冬奥会冬残奥会四场开闭幕式精彩纷呈，( ) 的主题贯穿始终。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C .",
+          "OptionD" : "D.三亿人参与冰雪运动",
+          "OptionC" : "C.人类命运共同体"
+        },
+        {
+          "OptionB" : "B.首钢滑雪大跳台“雪飞天”--张家口",
+          "OptionA" : "A.国家速滑馆“冰丝带”--北京",
+          "TopicContent" : "2.下列冬奥场馆与其对应的赛区地点搭配不当的是? ( )",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D.国家跳台滑雪中心“雪如意”--张家口",
+          "OptionC" : "C.国家雪车雪橇中心“雪游龙”--延庆"
+        },
+        {
+          "OptionB" : "B.贯彻新发展理念",
+          "OptionA" : "A.把握新发展阶段",
+          "TopicContent" : "3.《中共中央国务院关于加快建设全国统一大市场的意见》J近日发布,建设全国统一大市场是( ) 的基础支撑和内在要求。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.建设新市场体制",
+          "OptionC" : "C.构建新发展格局"
+        },
+        {
+          "OptionB" : "B.神舟十四号",
+          "OptionA" : "A.神舟十三号",
+          "TopicContent" : "4. (多选)以下哪两艘载人飞船的飞行乘组将实现在轨轮换? ( )",
+          "AnswerArr" : [
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BC",
+          "OptionD" : "D.神舟十六号",
+          "OptionC" : "C.神舟十五号"
+        },
+        {
+          "OptionB" : "B.张荣桥",
+          "OptionA" : "A.翟志刚",
+          "TopicContent" : "5. (多选) 2022年4月24日,是第七个“中国航天日”,今年的主题是“航天点亮梦想”。国家航天局聘请了3位2022年“中国航天公益形象大使”,分别是( ) 。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD",
+          "OptionD" : "D.单雾翔",
+          "OptionC" : "C.王亚平"
+        },
+        {
+          "OptionB" : "B.全球共同治理倡议",
+          "OptionA" : "A.全球合作倡议",
+          "TopicContent" : "6.“治国常富，而乱国常贫。”安全是发展的前提，人类是不可分割的安全共同体。为共同维护世界和平安宁，我国在博鳌亚洲论坛2022年年会上提出了( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.全球安全倡议",
+          "OptionC" : "C.全球共同发展倡议"
+        },
+        {
+          "OptionB" : "B.培养什么人",
+          "OptionA" : "A.为谁培养人",
+          "TopicContent" : "7. (多选) 2022年4月25日上午,习近平来到中国人民大学考察调研。他强调，( )始终是教育的根本问",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.培养多少人",
+          "OptionC" : "C.怎样培养人"
+        },
+        {
+          "OptionB" : "B.请祖国放心",
+          "OptionA" : "A.强国复兴有我",
+          "TopicContent" : "8.近日，中共中央宣传部印发《关于迎接党的二十大胜利召开组织开展“( ) ”群众性主题宣传教育活动的通知》,对在全国城乡广泛组织开展群众性主题宣传教育活动作出安排部署。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案]A",
+          "OptionD" : "D.听党话感党恩跟党走",
+          "OptionC" : "C.不忘初心牢记使命"
+        },
+        {
+          "OptionB" : "B.农业农村现代化",
+          "OptionA" : "A.全面推进乡村振兴",
+          "TopicContent" : "9.4月1日出版的第7期《求是》杂志将发表重要文章《坚持把解决好“三农”问题作为全党工作重中之重,举全党全社会之力推动乡村振兴》。文章指出，( ) 是“三农”工作重心的历史性转移。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.区域协调发展",
+          "OptionC" : "C.发展县域经济"
+        },
+        {
+          "OptionB" : "B.一带一路:中非合作新典范",
+          "OptionA" : "A.文明交流互鉴推动构建新时代中非命运共同体",
+          "TopicContent" : "10.4月9日,首届中非文明对话大会以线上线下相结合方式举行。大会以( ) 为主题。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.直面全球化自由贸易的中非新未来",
+          "OptionC" : "C.迈向中非共赢之路，深化中非务实合作"
+        },
+        {
+          "OptionB" : "B.健康中国文明你我",
+          "OptionA" : "A.低碳生活美好家园",
+          "TopicContent" : "11.4月7日是世界卫生日，今年中国主题为( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.健康家园健康中国",
+          "OptionC" : "C.共促消费公平"
+        },
+        {
+          "OptionB" : "B.进博会.",
+          "OptionA" : "A.广交会.",
+          "TopicContent" : "12.以下哪个展会被视为中国对外贸易的“晴雨表”和“风向标”( ) 。",
+          "AnswerArr" : [
+            "A"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] A",
+          "OptionD" : "D.博鳌亚洲论坛",
+          "OptionC" : "C.服贸会"
+        },
+        {
+          "OptionB" : "B.以政治安全为根本",
+          "OptionA" : "A.以人民安全为宗旨",
+          "TopicContent" : "13. (多选)国家安全工作应当坚持总体国家安全观，以下说法符合国家安全法相关规定的是( )。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABCD",
+          "OptionD" : "D.以军事、文化、社会安全为保障",
+          "OptionC" : "C.以经济安全为基础"
+        },
+        {
+          "OptionB" : "B. 100公里",
+          "OptionA" : "A.10公里",
+          "TopicContent" : "14.近日,清华大学团队首次实现通信距离达到( ) 的量子直接通信新系统，这是目前世界上最长的量子直接通信距离，有助于实现无中继条件下城际量子直接通信。",
+          "AnswerArr" : [
+            "B"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] B",
+          "OptionD" : "D. 1000公里",
+          "OptionC" : "C.500公里"
+        },
+        {
+          "OptionB" : "B.翟志刚",
+          "OptionA" : "A.汤洪波",
+          "TopicContent" : "15. (多选) 4月16日,神舟十三号载人飞船返回舱在东风着陆场预定区域成功着陆，航天员( ) 安全顺利出舱。",
+          "AnswerArr" : [
+            "B",
+            "C",
+            "D"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] BCD",
+          "OptionD" : "D.叶光富",
+          "OptionC" : "C.王亚平"
+        },
+        {
+          "OptionB" : "B.收入分配调节器",
+          "OptionA" : "A.民生保障安全网",
+          "TopicContent" : "16. (多选) 4月16日出版的《求是》杂志发表习近平重要文章。文章强调，社会保障发挥着( ) 的作用，是治国安邦的大问题。",
+          "AnswerArr" : [
+            "A",
+            "B",
+            "C"
+          ],
+          "IsMultipleChoice" : true,
+          "AnswerContent" : "[答案] ABC",
+          "OptionD" : "D.社会稳定保障网.",
+          "OptionC" : "C.经济运行减震器"
+        },
+        {
+          "OptionB" : "B.-技在手，振兴中华",
+          "OptionA" : "A.工匠筑梦,精彩人生",
+          "TopicContent" : "17.4月27日，首届大国工匠创新交流大会开幕,主题为( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.技能强国，创新有我",
+          "OptionC" : "C.刻苦专研，甘为人梯"
+        },
+        {
+          "OptionB" : "B.青蒿素是中医药传承创新发展与应用的一次生动实践",
+          "OptionA" : "A.青蒿素是中国中医科学院研究员屠呦呦依据中医药古代文献记载，运用现代科学技术研究发明的一项重大科技成果",
+          "TopicContent" : "18.4月25日,习近平向青蒿素问世50周年暨助力共建人类卫生健康共同体国际论坛致贺信。下列关于青蒿素的说法错误的是( ) 。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.青蒿素可以完全杜绝疟疾患者的死亡",
+          "OptionC" : "C.青蒿素是中医药献给世界的宝贵礼物。"
+        },
+        {
+          "OptionB" : "B.11",
+          "OptionA" : "A.1",
+          "TopicContent" : "19. 4月26日是世界知识产权日,世界知识产权组织发布的< 2021年全球创新指数报告》中,中国排名第( )位，位居中等收入经济体之首。",
+          "AnswerArr" : [
+            "C"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] C",
+          "OptionD" : "D.13",
+          "OptionC" : "C.12"
+        },
+        {
+          "OptionB" : "B.黄河",
+          "OptionA" : "A.海河",
+          "TopicContent" : "20. 4月28日京杭大运河实现全线通水,这是京杭大运河百年来首次全线水流贯通。下列不属于京杭大运河贯通的水系的是( )。",
+          "AnswerArr" : [
+            "D"
+          ],
+          "IsMultipleChoice" : false,
+          "AnswerContent" : "[答案] D",
+          "OptionD" : "D.珠江",
+          "OptionC" : "C.淮河"
+        }
+      ]
+    }
+  ]
+}
